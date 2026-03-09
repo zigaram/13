@@ -118,49 +118,36 @@ export default async function FishSpeciesPage({ params }: Props) {
             <div className="ad-slot" data-ad-slot="species-top">Ad</div>
 
             <div className="article-content">
-              <h2 id="overview">Overview</h2>
-              <p>{fish.description}</p>
+              {/* Render full care guide HTML from data */}
+              <div dangerouslySetInnerHTML={{ __html: fish.careGuide }} />
 
-              <h2 id="tank-requirements">Tank Requirements</h2>
-              <p>
-                The minimum tank size for {fish.name} is <strong>{fish.minTankSize} gallons</strong>.
-                {fish.schooling && fish.minSchoolSize && (
-                  <> Since {fish.name.toLowerCase()} are schooling fish, keep at least {fish.minSchoolSize} together.</>
-                )}
-              </p>
-
-              <h2 id="water-parameters">Water Parameters</h2>
-              <ul>
-                <li>Temperature: {fish.temperature.min}–{fish.temperature.max}°F</li>
-                <li>pH: {fish.ph.min}–{fish.ph.max}</li>
-              </ul>
-
-              <h2 id="tank-mates">Compatible Tank Mates</h2>
-              {fish.compatibleWith.length > 0 ? (
-                <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
-                  {fish.compatibleWith.map((slug) => (
-                    <Link
-                      key={slug}
-                      href={`/fish/${slug}`}
-                      className="p-3 rounded-lg border border-reef-100 bg-reef-50/50 text-sm font-medium text-reef-700 hover:bg-reef-100 transition-colors"
-                    >
-                      ✓ {slug.replace(/-/g, ' ')}
-                    </Link>
-                  ))}
-                </div>
-              ) : (
-                <p>Compatibility data coming soon.</p>
+              {/* Tank mates section (always show, with internal links) */}
+              {fish.compatibleWith.length > 0 && (
+                <>
+                  <h2 id="compatible-tank-mates">Compatible Tank Mates</h2>
+                  <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 not-prose">
+                    {fish.compatibleWith.map((slug) => (
+                      <Link
+                        key={slug}
+                        href={`/fish/${slug}`}
+                        className="p-3 rounded-lg border border-reef-100 bg-reef-50/50 text-sm font-medium text-reef-700 hover:bg-reef-100 transition-colors capitalize"
+                      >
+                        ✓ {slug.replace(/-/g, ' ')}
+                      </Link>
+                    ))}
+                  </div>
+                </>
               )}
 
               {fish.incompatibleWith.length > 0 && (
                 <>
                   <h3>Avoid Keeping With</h3>
-                  <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
+                  <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 not-prose">
                     {fish.incompatibleWith.map((slug) => (
                       <Link
                         key={slug}
                         href={`/fish/${slug}`}
-                        className="p-3 rounded-lg border border-coral-100 bg-coral-50/50 text-sm font-medium text-coral-700 hover:bg-coral-100 transition-colors"
+                        className="p-3 rounded-lg border border-coral-100 bg-coral-50/50 text-sm font-medium text-coral-700 hover:bg-coral-100 transition-colors capitalize"
                       >
                         ✗ {slug.replace(/-/g, ' ')}
                       </Link>
@@ -168,9 +155,6 @@ export default async function FishSpeciesPage({ params }: Props) {
                   </div>
                 </>
               )}
-
-              <h2 id="care-guide">Care Guide</h2>
-              <p>Full care guide content goes here (loaded from MDX).</p>
             </div>
 
             <div className="ad-slot" data-ad-slot="species-bottom">Ad</div>

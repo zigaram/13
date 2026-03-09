@@ -1,1 +1,1135 @@
-[]
+[
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "betta fish care",
+      "betta fish tank",
+      "betta fish tank mates",
+      "siamese fighting fish",
+      "betta fish setup",
+      "5 gallon betta tank"
+    ],
+    "searchVolume": 49500,
+    "slug": "betta-fish",
+    "name": "Betta Fish",
+    "scientificName": "Betta splendens",
+    "family": "Osphronemidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "beginner",
+    "temperament": "semi-aggressive",
+    "diet": "Carnivore \u2014 pellets, frozen bloodworms, brine shrimp, daphnia",
+    "minTankSize": 5,
+    "maxSize": 3,
+    "temperature": {
+      "min": 76,
+      "max": 82
+    },
+    "ph": {
+      "min": 6.5,
+      "max": 7.5
+    },
+    "lifespan": "3\u20135 years",
+    "schooling": false,
+    "compatibleWith": [
+      "neon-tetra",
+      "corydoras-catfish",
+      "harlequin-rasbora",
+      "mystery-snail",
+      "nerite-snail",
+      "cherry-shrimp",
+      "kuhli-loach",
+      "ember-tetra"
+    ],
+    "incompatibleWith": [
+      "betta-fish",
+      "goldfish",
+      "oscar-fish",
+      "tiger-barb",
+      "chinese-algae-eater"
+    ],
+    "description": "The Betta fish (Siamese fighting fish) is one of the most popular freshwater aquarium fish in the world, known for its stunning flowing fins and vibrant colors. Males are territorial and should be kept alone or with carefully chosen tank mates. Despite their reputation as low-maintenance fish, bettas thrive best in heated, filtered tanks of at least 5 gallons.",
+    "careGuide": "<h2 id=\"habitat\">Natural Habitat & Origin</h2>\n<p>Betta splendens originate from the shallow rice paddies, ponds, and slow-moving streams of Thailand, Cambodia, and Vietnam. In the wild, they inhabit warm, still waters with dense vegetation. This background explains their preference for calm water flow, warm temperatures, and planted environments in captivity.</p>\n<p>Wild bettas are far less colorful than their captive-bred counterparts. Centuries of selective breeding have produced the spectacular fin shapes and color variations seen in pet stores today, including halfmoon, crowntail, plakat, and dumbo ear varieties.</p>\n\n<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Despite the persistent myth that bettas can live in tiny bowls, they need a minimum of 5 gallons to thrive. A 10-gallon tank is ideal, especially if you plan to add tank mates. The tank should include:</p>\n<ul>\n<li><strong>Heater:</strong> Bettas are tropical fish and need water between 76\u201382\u00b0F. A small adjustable heater (25\u201350W for a 5\u201310 gallon tank) is essential.</li>\n<li><strong>Filter:</strong> A gentle sponge filter or low-flow HOB filter is best. Bettas dislike strong currents due to their long fins.</li>\n<li><strong>Substrate:</strong> Sand or smooth gravel works well. Avoid sharp substrate that could tear delicate fins.</li>\n<li><strong>Plants & Hiding Spots:</strong> Live plants like java fern, anubias, and amazon frogbit provide cover and help maintain water quality. Bettas love resting on broad leaves near the surface.</li>\n<li><strong>Lid:</strong> Bettas are jumpers. Always keep a lid on the tank.</li>\n</ul>\n\n<h2 id=\"water-parameters\">Water Parameters</h2>\n<p>Bettas prefer soft, slightly acidic to neutral water. Maintain these parameters for optimal health:</p>\n<ul>\n<li>Temperature: 76\u201382\u00b0F (24\u201328\u00b0C)</li>\n<li>pH: 6.5\u20137.5</li>\n<li>Ammonia: 0 ppm</li>\n<li>Nitrite: 0 ppm</li>\n<li>Nitrate: below 20 ppm</li>\n<li>GH: 3\u20134 dGH</li>\n<li>KH: 3\u20135 dKH</li>\n</ul>\n<p>Perform 25% water changes weekly using a dechlorinator like Seachem Prime. Bettas are sensitive to ammonia spikes, so ensure your tank is fully cycled before adding fish.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Bettas are carnivores with small stomachs (roughly the size of their eye). Feed them:</p>\n<ul>\n<li><strong>Staple:</strong> High-quality betta pellets (Northfin Betta Bits, Hikari Betta Bio-Gold) \u2014 2\u20133 pellets twice daily</li>\n<li><strong>Supplements:</strong> Frozen or freeze-dried bloodworms, brine shrimp, and daphnia 2\u20133 times per week</li>\n<li><strong>Fasting:</strong> One fasting day per week helps prevent bloating and constipation</li>\n</ul>\n<p>Avoid overfeeding \u2014 it's the most common cause of betta health issues. Uneaten food fouls water quality rapidly in small tanks.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Male bettas can live with peaceful community fish in tanks of 10+ gallons. Good tank mates include:</p>\n<ul>\n<li><strong>Corydoras catfish</strong> \u2014 peaceful bottom dwellers that stay out of the betta's territory</li>\n<li><strong>Neon tetras</strong> \u2014 small and fast enough to avoid aggression (keep in schools of 6+)</li>\n<li><strong>Harlequin rasboras</strong> \u2014 calm, mid-level swimmers</li>\n<li><strong>Nerite snails</strong> \u2014 excellent algae eaters that bettas generally ignore</li>\n<li><strong>Cherry shrimp</strong> \u2014 can work in heavily planted tanks with plenty of hiding spots</li>\n<li><strong>Kuhli loaches</strong> \u2014 nocturnal bottom dwellers</li>\n</ul>\n<p>Avoid keeping male bettas with other bettas, guppies (mistaken for bettas), fin-nippers like tiger barbs, or large aggressive fish. Female bettas can sometimes be kept in \"sorority\" tanks of 5+ females in 20+ gallon tanks, but this requires experience and close monitoring.</p>\n\n<h2 id=\"common-diseases\">Common Diseases</h2>\n<p>Bettas are prone to several conditions:</p>\n<ul>\n<li><strong>Fin rot:</strong> Frayed, discolored fins caused by poor water quality. Treat with clean water, aquarium salt, and antibiotics if severe.</li>\n<li><strong>Ich (white spot):</strong> Small white dots on body and fins. Raise temperature to 82\u00b0F and treat with ich medication.</li>\n<li><strong>Swim bladder disease:</strong> Fish floats sideways or sinks. Often caused by overfeeding \u2014 fast for 2\u20133 days, then feed a peeled pea.</li>\n<li><strong>Velvet:</strong> Gold/rusty dust on skin. Treat with copper-based medication in a darkened tank.</li>\n<li><strong>Dropsy:</strong> Pinecone-like scales indicating organ failure. Difficult to treat \u2014 isolate and try Epsom salt baths and antibiotics.</li>\n</ul>\n\n<h2 id=\"breeding\">Breeding</h2>\n<p>Betta breeding requires a separate 10-gallon breeding tank with shallow water (5\u20136 inches), a heater set to 80\u00b0F, and floating plants or a foam cup for the bubble nest. The male builds the nest, courts the female, and cares for the eggs. Remove the female after spawning. Fry hatch in 24\u201348 hours and need infusoria or baby brine shrimp for the first few weeks.</p>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>How long do betta fish live?</h3>\n<p>With proper care, bettas typically live 3\u20135 years. Some well-cared-for bettas have lived up to 7 years. Pet store bettas are usually 6\u201312 months old when purchased.</p>\n<h3>Can betta fish live in a bowl?</h3>\n<p>Technically they can survive, but they won't thrive. Bowls lack filtration, heating, and adequate space. A 5-gallon heated, filtered tank is the minimum for a healthy betta.</p>\n<h3>Do betta fish need a heater?</h3>\n<p>Yes. Bettas are tropical fish that need water between 76\u201382\u00b0F. Room temperature water (68\u201372\u00b0F) is too cold and will weaken their immune system over time.</p>\n<h3>Do betta fish need a filter?</h3>\n<p>Yes. A gentle sponge filter or adjustable HOB filter helps maintain water quality and reduces the frequency of water changes. Avoid strong filters that create heavy current.</p>",
+    "metaTitle": "Betta Fish Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Betta Fish care guide. Learn about tank size (5+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "neon tetra",
+      "neon tetra care",
+      "neon tetra tank mates",
+      "neon tetra tank size",
+      "neon tetra fish"
+    ],
+    "searchVolume": 22200,
+    "slug": "neon-tetra",
+    "name": "Neon Tetra",
+    "scientificName": "Paracheirodon innesi",
+    "family": "Characidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 micro pellets, flake food, frozen brine shrimp, daphnia",
+    "minTankSize": 10,
+    "maxSize": 1.5,
+    "temperature": {
+      "min": 70,
+      "max": 81
+    },
+    "ph": {
+      "min": 6.0,
+      "max": 7.0
+    },
+    "lifespan": "5\u20138 years",
+    "schooling": true,
+    "minSchoolSize": 6,
+    "compatibleWith": [
+      "betta-fish",
+      "corydoras-catfish",
+      "harlequin-rasbora",
+      "cherry-shrimp",
+      "mystery-snail",
+      "guppy",
+      "ember-tetra",
+      "cardinal-tetra",
+      "otocinclus",
+      "kuhli-loach",
+      "dwarf-gourami"
+    ],
+    "incompatibleWith": [
+      "oscar-fish",
+      "angelfish",
+      "african-cichlid",
+      "goldfish",
+      "jack-dempsey"
+    ],
+    "description": "The Neon Tetra is arguably the most popular freshwater aquarium fish in the hobby. Their electric blue stripe and red tail create a stunning display, especially in large schools against a planted backdrop. Hardy, peaceful, and easy to care for, neon tetras are perfect for beginners and make excellent community tank members.",
+    "careGuide": "<h2 id=\"habitat\">Natural Habitat & Origin</h2>\n<p>Neon tetras originate from the blackwater streams of the Amazon basin in South America, particularly in Peru, Colombia, and Brazil. These waters are soft, acidic, and heavily shaded by the forest canopy \u2014 which explains the neon tetra's preference for subdued lighting and soft, slightly acidic water in captivity.</p>\n\n<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>A school of 6\u201310 neon tetras needs at least a 10-gallon tank. For a larger, more impressive school of 15\u201320, a 20-gallon long is ideal. Set up their tank with:</p>\n<ul>\n<li><strong>Substrate:</strong> Dark-colored sand or gravel \u2014 this makes their neon colors pop dramatically</li>\n<li><strong>Plants:</strong> Dense planting with java fern, anubias, amazon sword, and floating plants. Neons feel most secure with plenty of cover.</li>\n<li><strong>Lighting:</strong> Moderate to low \u2014 mimics their natural shaded habitat</li>\n<li><strong>Filter:</strong> Any appropriately-sized filter works. Ensure the intake is covered with a pre-filter sponge to prevent baby tetras from being sucked in.</li>\n<li><strong>Driftwood:</strong> Adds tannins that soften water and create a natural blackwater look</li>\n</ul>\n\n<h2 id=\"water-parameters\">Water Parameters</h2>\n<ul>\n<li>Temperature: 70\u201381\u00b0F (21\u201327\u00b0C) \u2014 they tolerate a wide range</li>\n<li>pH: 6.0\u20137.0 (slightly acidic preferred)</li>\n<li>Ammonia/Nitrite: 0 ppm</li>\n<li>Nitrate: below 20 ppm</li>\n<li>GH: 2\u201310 dGH</li>\n<li>KH: 1\u20132 dKH</li>\n</ul>\n<p>Neons are sensitive to water quality fluctuations, especially in new tanks. Always cycle your aquarium fully before adding them. Perform 25% water changes weekly.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Neon tetras are easy to feed and will accept most foods:</p>\n<ul>\n<li><strong>Staple:</strong> High-quality micro pellets or crushed flake food</li>\n<li><strong>Supplements:</strong> Frozen or freeze-dried brine shrimp, daphnia, and bloodworms 2\u20133 times per week</li>\n<li><strong>Tip:</strong> Feed small amounts twice daily \u2014 only what they can consume in 2 minutes</li>\n</ul>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Neons are among the best community fish in the hobby. They get along with virtually any peaceful species:</p>\n<ul>\n<li><strong>Other tetras:</strong> Cardinal tetras, ember tetras, rummy nose tetras</li>\n<li><strong>Bottom dwellers:</strong> Corydoras catfish, kuhli loaches, otocinclus</li>\n<li><strong>Livebearers:</strong> Guppies, endlers, platies</li>\n<li><strong>Shrimp & snails:</strong> Cherry shrimp, amano shrimp, nerite snails</li>\n<li><strong>Others:</strong> Harlequin rasboras, dwarf gouramis, bettas (in 10+ gallons)</li>\n</ul>\n<p>Avoid any fish large enough to eat them \u2014 this includes angelfish (which will prey on neons as they grow), oscars, and large cichlids. Also avoid aggressive fin-nippers.</p>\n\n<h2 id=\"schooling\">Schooling Behavior</h2>\n<p>Neon tetras are obligate schooling fish and must be kept in groups of at least 6, with 10\u201315 being ideal. In small groups they become stressed, lose color, and hide constantly. In a proper school, they display tight, synchronized swimming formations that are one of the most beautiful sights in the freshwater hobby.</p>\n\n<h2 id=\"common-diseases\">Common Diseases</h2>\n<ul>\n<li><strong>Neon Tetra Disease (NTD):</strong> A parasitic infection (Pleistophora hyphessobryconis) that causes loss of color, erratic swimming, and wasting. Unfortunately there is no cure \u2014 affected fish should be removed immediately to prevent spread.</li>\n<li><strong>Ich:</strong> White spots on body. Raise temperature to 82\u00b0F gradually and treat with ich medication.</li>\n<li><strong>Fin rot:</strong> Usually caused by poor water quality. Improve conditions and treat with aquarium salt or antibiotics.</li>\n</ul>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>How many neon tetras can I keep in a 10 gallon tank?</h3>\n<p>A 10-gallon tank can comfortably hold 8\u201310 neon tetras. For every additional gallon, you can add roughly one more neon.</p>\n<h3>How long do neon tetras live?</h3>\n<p>With proper care, neon tetras live 5\u20138 years in captivity. In the wild, they rarely exceed 2\u20133 years due to predation.</p>\n<h3>Are neon tetras good for beginners?</h3>\n<p>Yes \u2014 they are one of the top recommended beginner fish. Just make sure your tank is fully cycled before adding them, as they are sensitive to ammonia.</p>",
+    "metaTitle": "Neon Tetra Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Neon Tetra care guide. Learn about tank size (10+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "goldfish care",
+      "goldfish tank",
+      "goldfish tank size",
+      "goldfish tank mates",
+      "how long do goldfish live"
+    ],
+    "searchVolume": 27100,
+    "slug": "goldfish",
+    "name": "Goldfish",
+    "scientificName": "Carassius auratus",
+    "family": "Cyprinidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 goldfish pellets, vegetables, frozen foods, blanched peas",
+    "minTankSize": 20,
+    "maxSize": 12,
+    "temperature": {
+      "min": 65,
+      "max": 75
+    },
+    "ph": {
+      "min": 6.5,
+      "max": 7.5
+    },
+    "lifespan": "10\u201315 years",
+    "schooling": false,
+    "compatibleWith": [
+      "goldfish",
+      "mystery-snail",
+      "nerite-snail",
+      "bristlenose-pleco",
+      "white-cloud-minnow",
+      "rosy-barb"
+    ],
+    "incompatibleWith": [
+      "betta-fish",
+      "neon-tetra",
+      "guppy",
+      "cherry-shrimp",
+      "oscar-fish",
+      "african-cichlid",
+      "angelfish"
+    ],
+    "description": "Goldfish are among the longest-kept ornamental fish, with a history spanning over 1,000 years. Despite their reputation as easy, bowl-dwelling pets, goldfish actually require spacious tanks with strong filtration. They are cold-water fish that should not be kept with tropical species. Common varieties include comets, fantails, orandas, and ryukins.",
+    "careGuide": "<h2 id=\"habitat\">Natural Habitat & Origin</h2>\n<p>Goldfish were first domesticated in China over 1,000 years ago from wild Prussian carp. They were selectively bred for color mutations, eventually producing the hundreds of varieties seen today. Wild-type goldfish are olive-brown; the gold coloration is a genetic mutation maintained through breeding.</p>\n\n<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>The biggest misconception about goldfish is that they can live in small bowls. In reality:</p>\n<ul>\n<li><strong>Minimum tank size:</strong> 20 gallons for one fancy goldfish, 30+ gallons for one common/comet goldfish</li>\n<li><strong>Add 10 gallons per additional goldfish</strong></li>\n<li><strong>Filtration:</strong> Heavy-duty filtration is essential \u2014 goldfish are extremely messy. A canister filter or oversized HOB filter rated for 2x your tank volume is recommended.</li>\n<li><strong>Substrate:</strong> Sand or large smooth gravel. Avoid small gravel that goldfish can swallow.</li>\n<li><strong>No heater needed:</strong> Goldfish are cold-water fish and do best at 65\u201375\u00b0F</li>\n<li><strong>Plants:</strong> Goldfish will eat most live plants. Hardy options include anubias, java fern, and vallisneria.</li>\n</ul>\n\n<h2 id=\"water-parameters\">Water Parameters</h2>\n<ul>\n<li>Temperature: 65\u201375\u00b0F (18\u201324\u00b0C) \u2014 no heater needed in most homes</li>\n<li>pH: 6.5\u20137.5</li>\n<li>Ammonia/Nitrite: 0 ppm</li>\n<li>Nitrate: below 40 ppm (goldfish produce a lot of waste)</li>\n</ul>\n<p>Weekly 30\u201350% water changes are crucial due to their heavy bioload. Test water parameters frequently, especially in newer tanks.</p>\n\n<h2 id=\"varieties\">Common Varieties</h2>\n<ul>\n<li><strong>Common goldfish / Comets:</strong> Slim-bodied, fast swimmers that grow 10\u201314 inches. Better suited for ponds or 55+ gallon tanks.</li>\n<li><strong>Fantails:</strong> Egg-shaped body with a split tail. Moderate swimmers, 6\u20138 inches max. Good for 20+ gallon tanks.</li>\n<li><strong>Orandas:</strong> Round body with a distinctive head growth (wen). Grow 8\u201312 inches. Need 30+ gallons.</li>\n<li><strong>Ryukins:</strong> Tall, rounded body with a prominent hump. Hardy fancy goldfish. 6\u201310 inches.</li>\n<li><strong>Ranchus:</strong> No dorsal fin, round body. Slower swimmers that need gentle tankmates.</li>\n</ul>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<ul>\n<li><strong>Staple:</strong> Sinking goldfish pellets (avoid floating flakes \u2014 they cause air gulping)</li>\n<li><strong>Vegetables:</strong> Blanched peas (with skin removed), zucchini, spinach, lettuce \u2014 2\u20133 times per week</li>\n<li><strong>Treats:</strong> Frozen bloodworms, brine shrimp, daphnia \u2014 once or twice per week</li>\n<li><strong>Amount:</strong> Feed what they can eat in 2 minutes, twice daily</li>\n</ul>\n<p>Blanched peas are particularly important for fancy goldfish \u2014 they help prevent swim bladder issues caused by constipation.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Goldfish have specific tank mate requirements because they are cold-water fish:</p>\n<ul>\n<li><strong>Other goldfish</strong> \u2014 best tank mates; keep fancy varieties together and single-tailed varieties together</li>\n<li><strong>White cloud mountain minnows</strong> \u2014 tolerate the same temperature range</li>\n<li><strong>Bristlenose plecos</strong> \u2014 can handle cooler water and help with algae</li>\n<li><strong>Mystery snails and nerite snails</strong></li>\n</ul>\n<p>Do NOT keep goldfish with tropical fish (bettas, tetras, guppies) \u2014 the temperature requirements are incompatible. Goldfish will also eat small fish and shrimp.</p>\n\n<h2 id=\"common-diseases\">Common Diseases</h2>\n<ul>\n<li><strong>Swim bladder disease:</strong> Very common in fancy goldfish. Fish floats sideways or upside down. Fast for 2\u20133 days, then feed blanched peas.</li>\n<li><strong>Ich:</strong> White spots. Gradually raise temperature to 75\u00b0F and treat with ich medication.</li>\n<li><strong>Fin rot:</strong> Ragged fins from poor water quality. Improve water conditions and treat if necessary.</li>\n<li><strong>Dropsy:</strong> Pinecone-like raised scales. Often fatal \u2014 isolate and treat with Epsom salt baths.</li>\n</ul>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>How long do goldfish live?</h3>\n<p>With proper care, goldfish live 10\u201315 years. Common goldfish in ponds can live 20\u201325 years. The record is over 40 years.</p>\n<h3>Can goldfish live in a bowl?</h3>\n<p>No. Bowls lack filtration and space. Goldfish produce massive amounts of ammonia and need at least 20 gallons with strong filtration.</p>\n<h3>Do goldfish need a heater?</h3>\n<p>No. Goldfish are cold-water fish that prefer 65\u201375\u00b0F. A heater is not needed unless your home drops below 60\u00b0F.</p>",
+    "metaTitle": "Goldfish Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Goldfish care guide. Learn about tank size (20+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "guppy care",
+      "guppy fish tank",
+      "guppy tank mates",
+      "guppy breeding",
+      "fancy guppies"
+    ],
+    "searchVolume": 90500,
+    "slug": "guppy",
+    "name": "Guppy",
+    "scientificName": "Poecilia reticulata",
+    "family": "Poeciliidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 flake food, micro pellets, frozen brine shrimp, blanched vegetables",
+    "minTankSize": 10,
+    "maxSize": 2.5,
+    "temperature": {
+      "min": 72,
+      "max": 82
+    },
+    "ph": {
+      "min": 6.8,
+      "max": 7.8
+    },
+    "lifespan": "2\u20133 years",
+    "schooling": true,
+    "minSchoolSize": 3,
+    "compatibleWith": [
+      "neon-tetra",
+      "corydoras-catfish",
+      "cherry-shrimp",
+      "mystery-snail",
+      "nerite-snail",
+      "harlequin-rasbora",
+      "ember-tetra",
+      "otocinclus",
+      "platy",
+      "endler",
+      "bristlenose-pleco",
+      "kuhli-loach",
+      "dwarf-gourami",
+      "molly"
+    ],
+    "incompatibleWith": [
+      "betta-fish",
+      "oscar-fish",
+      "african-cichlid",
+      "angelfish",
+      "tiger-barb",
+      "red-tail-shark"
+    ],
+    "description": "Guppies are colorful, hardy livebearers that are perfect for beginners. Males sport spectacular tail patterns in every color imaginable, while females are larger and less colorful. They breed prolifically \u2014 a single female can produce 20\u201350 fry every month \u2014 so plan accordingly or keep only males.",
+    "careGuide": "<h2 id=\"habitat\">Natural Habitat & Origin</h2>\n<p>Guppies originate from northeastern South America, particularly Venezuela, Barbados, and Trinidad. They have been introduced worldwide for mosquito control and are now found on every continent except Antarctica. Their incredible adaptability explains why they are so hardy in home aquariums.</p>\n\n<h2 id=\"tank-setup\">Tank Setup</h2>\n<ul>\n<li><strong>Tank size:</strong> 10 gallons minimum for a small group. A 20-gallon long is ideal for a breeding colony.</li>\n<li><strong>Filter:</strong> Sponge filter is ideal \u2014 provides filtration without sucking up fry</li>\n<li><strong>Heater:</strong> Yes \u2014 keep at 74\u201378\u00b0F for optimal health</li>\n<li><strong>Plants:</strong> Heavily planted tanks are best, especially with guppy grass, java moss, and hornwort which provide hiding spots for fry</li>\n<li><strong>Substrate:</strong> Any substrate works \u2014 sand or gravel</li>\n</ul>\n\n<h2 id=\"water-parameters\">Water Parameters</h2>\n<ul>\n<li>Temperature: 72\u201382\u00b0F (22\u201328\u00b0C)</li>\n<li>pH: 6.8\u20137.8 (slightly alkaline preferred)</li>\n<li>Ammonia/Nitrite: 0 ppm</li>\n<li>Nitrate: below 20 ppm</li>\n<li>GH: 8\u201312 dGH (guppies prefer moderately hard water)</li>\n</ul>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<ul>\n<li><strong>Staple:</strong> High-quality flake or micro pellet food</li>\n<li><strong>Supplements:</strong> Frozen brine shrimp, daphnia, bloodworms 2\u20133x per week</li>\n<li><strong>Vegetables:</strong> Blanched zucchini, spinach, or spirulina-based foods</li>\n<li><strong>Fry food:</strong> Crushed flakes, baby brine shrimp, or powdered fry food</li>\n</ul>\n\n<h2 id=\"breeding\">Breeding</h2>\n<p>Guppies are livebearers and breed incredibly easily \u2014 this is both a pro and a con. A single female can store sperm for months and produce a new batch of 20\u201350 fry every 28\u201330 days.</p>\n<p>If you don't want babies, keep only males. Male-only tanks are colorful and peaceful. If you want to breed, use a 2:1 female-to-male ratio to reduce harassment of females.</p>\n<p>Provide dense floating plants (guppy grass, java moss) for fry to hide in. Adult guppies will eat their own young if they can catch them.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<ul>\n<li>Corydoras catfish, neon tetras, endlers, platies, mollies</li>\n<li>Cherry shrimp, amano shrimp, nerite snails</li>\n<li>Harlequin rasboras, ember tetras, otocinclus</li>\n</ul>\n<p>Avoid keeping with bettas (males may mistake guppies for rival bettas), angelfish (will eat guppies), and any aggressive species.</p>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>How many guppies can I keep in a 10 gallon tank?</h3>\n<p>5\u20138 guppies in a 10-gallon tank. Keep a 2:1 female-to-male ratio if mixing sexes, or keep all males for the best colors without breeding.</p>\n<h3>How long do guppies live?</h3>\n<p>Guppies typically live 2\u20133 years. Fancy strains with exaggerated fins may have shorter lifespans.</p>",
+    "metaTitle": "Guppy Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Guppy care guide. Learn about tank size (10+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "cherry shrimp care",
+      "red cherry shrimp",
+      "cherry shrimp tank",
+      "neocaridina shrimp",
+      "shrimp tank setup"
+    ],
+    "searchVolume": 27100,
+    "slug": "cherry-shrimp",
+    "name": "Cherry Shrimp",
+    "scientificName": "Neocaridina davidi",
+    "family": "Atyidae",
+    "category": "freshwater",
+    "type": "invertebrate",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore/Detritivore \u2014 biofilm, algae, blanched vegetables, shrimp pellets",
+    "minTankSize": 5,
+    "maxSize": 1.5,
+    "temperature": {
+      "min": 65,
+      "max": 80
+    },
+    "ph": {
+      "min": 6.5,
+      "max": 8.0
+    },
+    "lifespan": "1\u20132 years",
+    "schooling": true,
+    "minSchoolSize": 10,
+    "compatibleWith": [
+      "neon-tetra",
+      "ember-tetra",
+      "otocinclus",
+      "corydoras-catfish",
+      "harlequin-rasbora",
+      "mystery-snail",
+      "nerite-snail",
+      "kuhli-loach",
+      "guppy",
+      "endler"
+    ],
+    "incompatibleWith": [
+      "betta-fish",
+      "angelfish",
+      "goldfish",
+      "oscar-fish",
+      "african-cichlid",
+      "gourami"
+    ],
+    "description": "Cherry shrimp are the most popular freshwater aquarium shrimp, prized for their vibrant red color and algae-eating habits. They are extremely hardy, breed readily in captivity, and make excellent additions to planted tanks. Available in multiple color grades from pale pink (regular) to deep crimson (Painted Fire Red).",
+    "careGuide": "<h2 id=\"habitat\">Natural Habitat & Origin</h2>\n<p>Neocaridina davidi originate from freshwater streams and ponds in Taiwan. The wild form is a translucent brown-green; the red coloration was selectively bred in captivity. Today, Neocaridina shrimp come in dozens of color varieties including red, orange, yellow, green, blue, black, and white.</p>\n\n<h2 id=\"color-grades\">Color Grades</h2>\n<ul>\n<li><strong>Regular Cherry:</strong> Mostly translucent with red patches. Cheapest grade.</li>\n<li><strong>Sakura:</strong> More red coverage with some translucent areas.</li>\n<li><strong>Fire Red:</strong> Solid red with minimal translucency.</li>\n<li><strong>Painted Fire Red:</strong> Deep, opaque crimson. Highest grade and most expensive.</li>\n</ul>\n<p>Higher-grade shrimp produce higher-grade offspring, but some color variation is normal in every colony.</p>\n\n<h2 id=\"tank-setup\">Tank Setup</h2>\n<ul>\n<li><strong>Tank size:</strong> 5 gallons minimum for a colony of 10\u201320 shrimp. 10 gallons is ideal.</li>\n<li><strong>Filter:</strong> Sponge filter is essential \u2014 it provides gentle flow and a surface for biofilm, which shrimp graze on constantly. Never use an unprotected HOB intake.</li>\n<li><strong>Plants:</strong> Heavily planted tanks are ideal. Java moss, moss balls, subwassertang, and floating plants provide grazing surfaces and hiding spots for baby shrimp.</li>\n<li><strong>Substrate:</strong> Inert gravel or sand works fine for Neocaridina. Active substrates like Fluval Stratum lower pH and are better suited for Caridina species.</li>\n<li><strong>No heater needed</strong> in most homes \u2014 they thrive at room temperature</li>\n</ul>\n\n<h2 id=\"water-parameters\">Water Parameters</h2>\n<ul>\n<li>Temperature: 65\u201380\u00b0F (18\u201327\u00b0C) \u2014 very flexible</li>\n<li>pH: 6.5\u20138.0</li>\n<li>Ammonia/Nitrite: 0 ppm (shrimp are very sensitive to these)</li>\n<li>Nitrate: below 20 ppm</li>\n<li>GH: 6\u20138 dGH</li>\n<li>KH: 2\u20135 dKH</li>\n<li>TDS: 150\u2013250 ppm</li>\n</ul>\n<p>The most important thing for cherry shrimp is stable parameters. They handle a wide range but are very sensitive to sudden swings. Always drip-acclimate new shrimp over 1\u20132 hours.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Cherry shrimp are primarily biofilm and algae grazers. In a mature, planted tank, they often need very little supplemental feeding:</p>\n<ul>\n<li><strong>Staple:</strong> Biofilm and algae in the tank (they constantly graze)</li>\n<li><strong>Supplements:</strong> Shrimp pellets (Shrimp King, Hikari Shrimp Cuisine) \u2014 1\u20132 times per week</li>\n<li><strong>Vegetables:</strong> Blanched spinach, zucchini, or carrots \u2014 a great occasional treat</li>\n<li><strong>Mineral supplements:</strong> Cuttlebone or mineral blocks for calcium (essential for molting)</li>\n</ul>\n<p>Overfeeding is the number one killer of shrimp colonies. Feed sparingly and remove uneaten food within a few hours.</p>\n\n<h2 id=\"breeding\">Breeding</h2>\n<p>Cherry shrimp breed readily with no special intervention needed. Females carry 20\u201330 eggs under their swimmerets for about 30 days. Baby shrimp are tiny (2mm) but fully formed and independent from birth.</p>\n<p>To maximize survival rate: provide dense moss or plants for baby shrimp to hide in, use a sponge filter (not a HOB with exposed intake), and keep water parameters stable.</p>\n<p>A colony of 10 shrimp can grow to 100+ within 4\u20136 months in favorable conditions.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Keep only with small, peaceful fish. Many fish will eat shrimp \u2014 especially baby shrimp:</p>\n<ul>\n<li><strong>Safe:</strong> Otocinclus, small rasboras, ember tetras, nerite snails</li>\n<li><strong>Risky:</strong> Neon tetras, guppies, endlers (may eat babies but ignore adults)</li>\n<li><strong>Avoid:</strong> Anything with a mouth big enough to eat them \u2014 bettas, gouramis, angelfish, cichlids</li>\n<li><strong>Best:</strong> Shrimp-only tanks for maximum breeding success</li>\n</ul>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>How many cherry shrimp should I start with?</h3>\n<p>Start with 10\u201320 shrimp. This gives enough genetic diversity for a healthy breeding colony. They are social animals and do best in groups.</p>\n<h3>Why are my shrimp dying after a water change?</h3>\n<p>Most likely a parameter swing. Always match temperature and use dechlorinated water. Consider smaller, more frequent water changes (10% every few days) rather than large weekly changes.</p>",
+    "metaTitle": "Cherry Shrimp Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Cherry Shrimp care guide. Learn about tank size (5+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "corydoras catfish",
+      "cory catfish",
+      "cory catfish care",
+      "corydoras species",
+      "cory catfish tank mates"
+    ],
+    "searchVolume": 1300,
+    "slug": "corydoras-catfish",
+    "name": "Corydoras Catfish",
+    "scientificName": "Corydoras spp.",
+    "family": "Callichthyidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 sinking pellets, algae wafers, frozen bloodworms, brine shrimp",
+    "minTankSize": 10,
+    "maxSize": 3,
+    "temperature": {
+      "min": 72,
+      "max": 79
+    },
+    "ph": {
+      "min": 6.0,
+      "max": 7.5
+    },
+    "lifespan": "5\u20138 years",
+    "schooling": true,
+    "minSchoolSize": 6,
+    "compatibleWith": [
+      "betta-fish",
+      "neon-tetra",
+      "guppy",
+      "cherry-shrimp",
+      "mystery-snail",
+      "harlequin-rasbora",
+      "ember-tetra",
+      "otocinclus",
+      "kuhli-loach",
+      "angelfish",
+      "dwarf-gourami",
+      "platy",
+      "molly"
+    ],
+    "incompatibleWith": [
+      "oscar-fish",
+      "african-cichlid",
+      "jack-dempsey",
+      "red-tail-shark"
+    ],
+    "description": "Corydoras catfish are beloved bottom-dwelling community fish known for their adorable whiskered faces and playful schooling behavior. With over 160 described species, corys come in many varieties including bronze, albino, panda, pygmy, and sterbai. They are peaceful, hardy, and help keep the substrate clean.",
+    "careGuide": "<h2 id=\"habitat\">Natural Habitat & Origin</h2>\n<p>Corydoras are found throughout South America, from Argentina to Trinidad. They inhabit slow-moving rivers, streams, and flooded forests with sandy or muddy bottoms. In the wild, they are found in large schools of dozens to hundreds of individuals.</p>\n\n<h2 id=\"popular-species\">Popular Species</h2>\n<ul>\n<li><strong>Bronze Cory (C. aeneus):</strong> The most common and hardiest species. Grows to 2.5 inches.</li>\n<li><strong>Panda Cory (C. panda):</strong> White body with black patches over the eyes and tail. Very popular.</li>\n<li><strong>Pygmy Cory (C. pygmaeus):</strong> Only grows to 1 inch. Can be kept in smaller tanks (5+ gallons).</li>\n<li><strong>Sterbai Cory (C. sterbai):</strong> Beautiful spotted pattern with orange pectoral fins. Tolerates warmer water (up to 84\u00b0F), making them ideal for discus tanks.</li>\n<li><strong>Albino Cory:</strong> An albino variant of C. aeneus. Same care as bronze corys.</li>\n<li><strong>Julii Cory (C. julii):</strong> Spotted pattern. Often confused with the more common C. trilineatus.</li>\n</ul>\n\n<h2 id=\"tank-setup\">Tank Setup</h2>\n<ul>\n<li><strong>Tank size:</strong> 10 gallons minimum for a group of 6 smaller species. 20+ gallons for larger species.</li>\n<li><strong>Substrate:</strong> Fine sand is strongly preferred. Corys constantly sift through substrate with their barbels \u2014 rough gravel can damage and erode these sensitive whiskers, leading to infection.</li>\n<li><strong>Hiding spots:</strong> Driftwood, caves, and dense plants</li>\n<li><strong>Flow:</strong> Moderate \u2014 they enjoy some current but don't need powerheads</li>\n</ul>\n\n<h2 id=\"water-parameters\">Water Parameters</h2>\n<ul>\n<li>Temperature: 72\u201379\u00b0F (22\u201326\u00b0C) \u2014 varies by species</li>\n<li>pH: 6.0\u20137.5</li>\n<li>Ammonia/Nitrite: 0 ppm</li>\n<li>Nitrate: below 20 ppm</li>\n</ul>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<ul>\n<li><strong>Staple:</strong> Sinking pellets or wafers (Hikari Sinking Wafers, Repashy)</li>\n<li><strong>Supplements:</strong> Frozen bloodworms, brine shrimp, daphnia</li>\n<li><strong>Important:</strong> Don't rely on leftover food from surface feeders \u2014 corys need targeted feeding with sinking foods</li>\n</ul>\n\n<h2 id=\"schooling\">Schooling Behavior</h2>\n<p>Corydoras are highly social and must be kept in groups of at least 6, ideally of the same species. In proper schools, they display entertaining synchronized swimming, foraging together, and even \"flashing\" to the surface for a gulp of air (this is normal \u2014 corys can breathe atmospheric air using a modified intestine).</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Corys are the ultimate community fish \u2014 peaceful with virtually everything:</p>\n<ul>\n<li>Tetras, rasboras, livebearers, bettas, gouramis, angelfish</li>\n<li>Other bottom dwellers like kuhli loaches and otocinclus</li>\n<li>Shrimp and snails</li>\n</ul>\n<p>Avoid only large, aggressive cichlids that may bully or eat them.</p>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>Why do my corydoras swim to the surface?</h3>\n<p>This is completely normal. Corydoras can gulp atmospheric air and absorb oxygen through their intestinal lining. Occasional surface dashes are healthy behavior. If they're doing it constantly, check your water oxygenation.</p>\n<h3>Can I keep corydoras on gravel?</h3>\n<p>Fine, smooth gravel is acceptable, but sand is strongly preferred. Sharp gravel will damage their barbels over time, which can lead to infections.</p>",
+    "metaTitle": "Corydoras Catfish Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Corydoras Catfish care guide. Learn about tank size (10+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "mystery snail",
+      "mystery snail care",
+      "mystery snail tank",
+      "mystery snail eggs"
+    ],
+    "searchVolume": 1600,
+    "slug": "mystery-snail",
+    "name": "Mystery Snail",
+    "scientificName": "Pomacea bridgesii",
+    "family": "Ampullariidae",
+    "category": "freshwater",
+    "type": "invertebrate",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 algae, blanched vegetables, calcium supplements, sinking pellets",
+    "minTankSize": 5,
+    "maxSize": 2,
+    "temperature": {
+      "min": 68,
+      "max": 82
+    },
+    "ph": {
+      "min": 7.0,
+      "max": 8.0
+    },
+    "lifespan": "1\u20132 years",
+    "schooling": false,
+    "compatibleWith": [
+      "betta-fish",
+      "neon-tetra",
+      "guppy",
+      "cherry-shrimp",
+      "corydoras-catfish",
+      "nerite-snail",
+      "goldfish",
+      "angelfish",
+      "platy"
+    ],
+    "incompatibleWith": [
+      "assassin-snail",
+      "oscar-fish",
+      "puffer-fish",
+      "african-cichlid",
+      "loach"
+    ],
+    "description": "Mystery snails are popular aquarium snails known for their vibrant colors (gold, ivory, blue, purple, black), algae-eating ability, and entertaining personality. Unlike pest snails, they won't overrun your tank as they lay visible egg clutches above the waterline that are easy to control. They're peaceful, hardy, and safe for planted tanks.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<ul>\n<li><strong>Tank size:</strong> 5 gallons minimum per snail. They produce significant bioload for their size.</li>\n<li><strong>Lid:</strong> Essential \u2014 mystery snails climb above the waterline to lay eggs and may escape open tanks</li>\n<li><strong>Calcium:</strong> Alkaline, calcium-rich water is crucial for shell health. Add cuttlebone, crushed coral, or wonder shells.</li>\n<li><strong>Filter:</strong> Cover the intake with a sponge pre-filter to prevent snails from getting stuck</li>\n</ul>\n\n<h2 id=\"water-parameters\">Water Parameters</h2>\n<ul>\n<li>Temperature: 68\u201382\u00b0F</li>\n<li>pH: 7.0\u20138.0 (acidic water dissolves their shells)</li>\n<li>GH: 8\u201318 dGH (high mineral content is essential)</li>\n<li>KH: 5\u201315 dKH</li>\n</ul>\n<p>Acidic or soft water will erode their shells over time, creating pits, thin spots, and eventual shell collapse. If your water is naturally soft, supplement with calcium.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<ul>\n<li><strong>Algae:</strong> They graze on tank surfaces but won't eliminate heavy algae blooms alone</li>\n<li><strong>Vegetables:</strong> Blanched zucchini, spinach, kale, cucumber \u2014 their favorite foods</li>\n<li><strong>Protein:</strong> Sinking pellets, algae wafers, occasional frozen bloodworms</li>\n<li><strong>Calcium:</strong> Cuttlebone (leave it floating in the tank), calcium-enriched snello (snail jello)</li>\n</ul>\n\n<h2 id=\"breeding\">Breeding</h2>\n<p>Mystery snails lay distinctive pink/white egg clutches above the waterline (on the tank lid, rim, or exposed glass). Each clutch contains 50\u2013200 eggs that hatch in 2\u20134 weeks. If you don't want babies, simply remove the clutch before it hatches.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Compatible with almost all community fish. Avoid loaches (which eat snails), pufferfish, and large cichlids. Assassin snails will also prey on mystery snails.</p>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>Is my mystery snail dead or sleeping?</h3>\n<p>Mystery snails can remain inactive for days. Gently smell the snail \u2014 a dead snail has a strong, unmistakable rotten odor. If there's no smell and the trap door (operculum) is closed, it's likely resting.</p>",
+    "metaTitle": "Mystery Snail Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Mystery Snail care guide. Learn about tank size (5+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "axolotl care",
+      "axolotl tank setup",
+      "axolotl tank",
+      "20 gallon axolotl tank",
+      "axolotl tank mates"
+    ],
+    "searchVolume": 9900,
+    "slug": "axolotl",
+    "name": "Axolotl",
+    "scientificName": "Ambystoma mexicanum",
+    "family": "Ambystomatidae",
+    "category": "freshwater",
+    "type": "amphibian",
+    "careLevel": "intermediate",
+    "temperament": "peaceful",
+    "diet": "Carnivore \u2014 earthworms, bloodworms, pellets (Hikari sinking carnivore pellets)",
+    "minTankSize": 20,
+    "maxSize": 12,
+    "temperature": {
+      "min": 60,
+      "max": 68
+    },
+    "ph": {
+      "min": 6.5,
+      "max": 8.0
+    },
+    "lifespan": "10\u201315 years",
+    "schooling": false,
+    "compatibleWith": [],
+    "incompatibleWith": [
+      "goldfish",
+      "betta-fish",
+      "neon-tetra",
+      "guppy",
+      "cherry-shrimp",
+      "african-cichlid"
+    ],
+    "description": "Axolotls are fully aquatic salamanders native to Mexico City's Lake Xochimilco. Critically endangered in the wild, they thrive in captivity and have become incredibly popular pets. Known for their permanent larval form, external gills, and remarkable regeneration ability, axolotls require cool water and specific care that differs from typical fish keeping.",
+    "careGuide": "<h2 id=\"habitat\">Natural Habitat</h2>\n<p>Axolotls are native only to Lake Xochimilco and Lake Chalco near Mexico City. Lake Chalco no longer exists, and Xochimilco has been severely degraded, making axolotls critically endangered in the wild. Fortunately, they breed readily in captivity, and the pet population is thriving.</p>\n\n<h2 id=\"tank-setup\">Tank Setup</h2>\n<ul>\n<li><strong>Tank size:</strong> 20 gallons for one axolotl, 40+ gallons for two. Long tanks are preferred over tall ones.</li>\n<li><strong>Temperature:</strong> 60\u201368\u00b0F \u2014 this is crucial. Axolotls are cold-water animals and will become stressed or ill above 72\u00b0F. A fan or aquarium chiller may be needed in warm climates.</li>\n<li><strong>Substrate:</strong> Fine sand (after the axolotl is 6+ inches) or bare bottom. NEVER use gravel \u2014 axolotls swallow substrate while feeding and gravel causes fatal impaction.</li>\n<li><strong>Filter:</strong> Sponge filter or low-flow canister. Axolotls hate strong current.</li>\n<li><strong>No heater:</strong> Heaters are not needed and can be dangerous</li>\n<li><strong>Hides:</strong> PVC pipes, terracotta pots, or aquarium caves. Axolotls like dark hiding spots.</li>\n<li><strong>Lighting:</strong> Dim or none \u2014 axolotls have no eyelids and are sensitive to bright light</li>\n</ul>\n\n<h2 id=\"water-parameters\">Water Parameters</h2>\n<ul>\n<li>Temperature: 60\u201368\u00b0F (15\u201320\u00b0C) \u2014 NEVER above 72\u00b0F</li>\n<li>pH: 6.5\u20138.0</li>\n<li>Ammonia/Nitrite: 0 ppm (axolotls are extremely sensitive)</li>\n<li>Nitrate: below 20 ppm</li>\n</ul>\n<p>Cycle your tank fully before adding an axolotl. They are very sensitive to water quality. Perform 20% water changes weekly.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<ul>\n<li><strong>Staple (adults):</strong> Earthworms (nightcrawlers) \u2014 the single best food for axolotls</li>\n<li><strong>Alternatives:</strong> Hikari Sinking Carnivore Pellets, frozen bloodworms (for juveniles)</li>\n<li><strong>Juveniles (under 6 inches):</strong> Frozen bloodworms, small earthworm pieces, live blackworms</li>\n<li><strong>Frequency:</strong> Adults: 2\u20133 earthworms every 2\u20133 days. Juveniles: daily</li>\n</ul>\n<p>Never feed live fish \u2014 they can introduce parasites and disease. Axolotls don't need variety the way fish do; earthworms alone provide complete nutrition.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p><strong>Best kept alone or with other axolotls of similar size.</strong> Axolotls will eat anything that fits in their mouth (including smaller axolotls). Fish will nip at their gills. Shrimp will be eaten. The only potentially safe tank mates are large snails, but even this is debated.</p>\n\n<h2 id=\"regeneration\">Regeneration</h2>\n<p>Axolotls have remarkable regeneration abilities and can regrow limbs, gills, parts of their heart, and even sections of their brain. Minor gill or limb damage in captivity typically heals within weeks with clean, cool water.</p>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>Do axolotls need a chiller?</h3>\n<p>If your room temperature stays below 72\u00b0F year-round, no. If summer temperatures push water above 72\u00b0F, you'll need a clip-on fan (can drop temps 2\u20134\u00b0F) or an aquarium chiller.</p>\n<h3>Can axolotls live with fish?</h3>\n<p>No. Fish nip at axolotl gills, and axolotls eat anything they can swallow. Species-only tanks are strongly recommended.</p>\n<h3>How big do axolotls get?</h3>\n<p>Most pet axolotls reach 9\u201312 inches as adults. Some individuals grow to 14 inches.</p>",
+    "metaTitle": "Axolotl Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Axolotl care guide. Learn about tank size (20+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "nerite snail",
+      "nerite snail care",
+      "nerite snail algae",
+      "zebra nerite snail"
+    ],
+    "searchVolume": 3600,
+    "slug": "nerite-snail",
+    "name": "Nerite Snail",
+    "scientificName": "Neritina spp.",
+    "family": "Neritidae",
+    "category": "freshwater",
+    "type": "invertebrate",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Herbivore \u2014 algae (primary), blanched vegetables, algae wafers",
+    "minTankSize": 5,
+    "maxSize": 1,
+    "temperature": {
+      "min": 72,
+      "max": 78
+    },
+    "ph": {
+      "min": 7.0,
+      "max": 8.5
+    },
+    "lifespan": "1\u20133 years",
+    "schooling": false,
+    "compatibleWith": [
+      "betta-fish",
+      "neon-tetra",
+      "guppy",
+      "cherry-shrimp",
+      "corydoras-catfish",
+      "mystery-snail",
+      "goldfish",
+      "angelfish",
+      "platy",
+      "otocinclus"
+    ],
+    "incompatibleWith": [
+      "assassin-snail",
+      "puffer-fish",
+      "oscar-fish",
+      "loach"
+    ],
+    "description": "Nerite snails are the best algae-eating snails for freshwater aquariums. They come in beautiful patterns (zebra, tiger, horned, olive) and will not reproduce in freshwater \u2014 making them the ideal pest-free algae cleanup crew. A single nerite can keep a 5-gallon tank virtually algae-free.",
+    "careGuide": "<h2 id=\"varieties\">Popular Varieties</h2>\n<ul>\n<li><strong>Zebra Nerite:</strong> Black and gold stripes. Most popular variety.</li>\n<li><strong>Tiger Nerite:</strong> Orange with dark spots/stripes</li>\n<li><strong>Horned Nerite:</strong> Small protruding horns on shell. Smallest variety.</li>\n<li><strong>Olive Nerite:</strong> Solid olive/dark green. Simple but effective.</li>\n</ul>\n\n<h2 id=\"algae-eating\">Algae-Eating Ability</h2>\n<p>Nerites are considered the best algae eaters in the hobby. They consume green spot algae, diatoms (brown algae), soft green algae, and even some types of hair algae. One nerite per 5 gallons is a good stocking rule.</p>\n<p>They will NOT eat black beard algae (BBA) or cyanobacteria (blue-green algae).</p>\n\n<h2 id=\"water-parameters\">Water Parameters</h2>\n<ul>\n<li>Temperature: 72\u201378\u00b0F</li>\n<li>pH: 7.0\u20138.5 (alkaline water is essential for shell health)</li>\n<li>GH: 8+ dGH (calcium-rich water prevents shell erosion)</li>\n</ul>\n\n<h2 id=\"breeding\">Breeding (or Lack Thereof)</h2>\n<p>The biggest advantage of nerite snails: they will NOT breed in freshwater. Their larvae require brackish/saltwater to develop. Females may lay small white sesame-seed-like eggs on hard surfaces \u2014 these are infertile in freshwater and will not hatch. The eggs can be unsightly but are harmless and eventually dissolve or can be scraped off.</p>\n\n<h2 id=\"common-issues\">Common Issues</h2>\n<ul>\n<li><strong>Escaping:</strong> Nerites are notorious escape artists. Keep a tight-fitting lid.</li>\n<li><strong>Flipping over:</strong> If a nerite lands upside down, it may not be able to right itself. Check regularly and flip them back.</li>\n<li><strong>Shell erosion:</strong> Caused by acidic or soft water. Supplement with calcium (cuttlebone, wonder shells).</li>\n</ul>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>How many nerite snails per gallon?</h3>\n<p>One nerite per 5 gallons is ideal. They can starve in overstocked tanks where algae supply runs out.</p>\n<h3>Why is my nerite not moving?</h3>\n<p>Nerites can be inactive for days, especially after a water change or when acclimating. Check for a smell \u2014 no smell means it's alive.</p>",
+    "metaTitle": "Nerite Snail Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Nerite Snail care guide. Learn about tank size (5+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "otocinclus",
+      "oto catfish",
+      "otocinclus care",
+      "otocinclus algae eater"
+    ],
+    "searchVolume": 6600,
+    "slug": "otocinclus",
+    "name": "Otocinclus Catfish",
+    "scientificName": "Otocinclus spp.",
+    "family": "Loricariidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "intermediate",
+    "temperament": "peaceful",
+    "diet": "Herbivore \u2014 biofilm, soft algae, blanched vegetables, algae wafers",
+    "minTankSize": 10,
+    "maxSize": 2,
+    "temperature": {
+      "min": 72,
+      "max": 79
+    },
+    "ph": {
+      "min": 6.0,
+      "max": 7.5
+    },
+    "lifespan": "3\u20135 years",
+    "schooling": true,
+    "minSchoolSize": 6,
+    "compatibleWith": [
+      "neon-tetra",
+      "cherry-shrimp",
+      "corydoras-catfish",
+      "betta-fish",
+      "guppy",
+      "harlequin-rasbora",
+      "ember-tetra",
+      "nerite-snail",
+      "mystery-snail",
+      "kuhli-loach"
+    ],
+    "incompatibleWith": [
+      "oscar-fish",
+      "african-cichlid",
+      "goldfish",
+      "jack-dempsey"
+    ],
+    "description": "Otocinclus catfish (otos) are tiny, peaceful algae eaters that are incredibly effective at controlling soft green algae and diatoms in planted tanks. They are the gold standard for planted tank algae control, often preferred over larger plecos. However, they are somewhat delicate and require established, well-maintained aquariums.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<ul>\n<li><strong>Tank size:</strong> 10 gallons minimum for a group of 6</li>\n<li><strong>Maturity:</strong> Only add otos to tanks that have been running for 3+ months with established biofilm and algae growth</li>\n<li><strong>Plants:</strong> Heavily planted tanks are essential \u2014 otos graze on leaf surfaces constantly</li>\n<li><strong>Substrate:</strong> Sand or fine gravel preferred</li>\n</ul>\n<p><strong>Critical:</strong> Never add otocinclus to a new or recently cycled tank. They depend on biofilm and algae that only develops in mature aquariums. Many otos die in the first two weeks due to starvation in clean tanks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>This is where many fishkeepers go wrong with otos. They are NOT like plecos and will not eat just anything:</p>\n<ul>\n<li><strong>Primary food:</strong> Biofilm and soft green algae on tank surfaces</li>\n<li><strong>Supplements:</strong> Blanched zucchini, cucumber, spinach (leave in tank overnight, remove in the morning)</li>\n<li><strong>Algae wafers:</strong> Hikari Algae Wafers, Repashy Soilent Green</li>\n</ul>\n<p>If your otos have round bellies, they're eating well. Sunken bellies indicate starvation \u2014 the most common cause of death.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Otos are extremely peaceful and pair well with any small, non-aggressive fish. They are one of the few algae eaters safe for shrimp tanks, as they are strictly herbivorous and will never bother shrimp or fry.</p>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>Why do otocinclus die so easily?</h3>\n<p>Most oto deaths are caused by: 1) starvation in clean/new tanks, 2) poor acclimation (they're sensitive to parameter swings), or 3) stress from wild-caught shipping. Buy from reputable sellers and only add to mature, well-planted tanks.</p>",
+    "metaTitle": "Otocinclus Catfish Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Otocinclus Catfish care guide. Learn about tank size (10+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "bristlenose pleco",
+      "bristlenose pleco care",
+      "bristlenose pleco size",
+      "bristlenose pleco tank size"
+    ],
+    "searchVolume": 5400,
+    "slug": "bristlenose-pleco",
+    "name": "Bristlenose Pleco",
+    "scientificName": "Ancistrus spp.",
+    "family": "Loricariidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 algae, driftwood, blanched vegetables, sinking pellets",
+    "minTankSize": 20,
+    "maxSize": 5,
+    "temperature": {
+      "min": 73,
+      "max": 81
+    },
+    "ph": {
+      "min": 6.5,
+      "max": 7.5
+    },
+    "lifespan": "5\u201310 years",
+    "schooling": false,
+    "compatibleWith": [
+      "neon-tetra",
+      "corydoras-catfish",
+      "guppy",
+      "cherry-shrimp",
+      "mystery-snail",
+      "betta-fish",
+      "angelfish",
+      "goldfish",
+      "harlequin-rasbora",
+      "ember-tetra",
+      "platy"
+    ],
+    "incompatibleWith": [
+      "oscar-fish",
+      "african-cichlid",
+      "jack-dempsey"
+    ],
+    "description": "The Bristlenose Pleco is the most popular pleco species for home aquariums, and for good reason \u2014 they stay small (4\u20135 inches vs 12\u201324 inches for common plecos), are excellent algae eaters, and are hardy and easy to care for. Males develop distinctive bristle-like growths on their nose, which is how they get their name.",
+    "careGuide": "<h2 id=\"vs-common-pleco\">Bristlenose vs Common Pleco</h2>\n<p>Many beginners accidentally buy a common pleco (Hypostomus plecostomus) which grows to 12\u201324 inches and needs a 100+ gallon tank. Bristlenose plecos max out at 4\u20135 inches and are far more suitable for typical home aquariums.</p>\n\n<h2 id=\"tank-setup\">Tank Setup</h2>\n<ul>\n<li><strong>Tank size:</strong> 20 gallons minimum</li>\n<li><strong>Driftwood:</strong> Essential \u2014 bristlenose plecos need wood fiber in their diet and will rasp on driftwood constantly</li>\n<li><strong>Hiding spots:</strong> Caves, PVC pipes, coconut shells. Males are territorial about their chosen cave.</li>\n<li><strong>Substrate:</strong> Any \u2014 they spend most time on surfaces, not the substrate</li>\n</ul>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<ul>\n<li><strong>Algae:</strong> They graze on tank surfaces but need supplemental food as tanks mature</li>\n<li><strong>Driftwood:</strong> They rasp on wood for fiber \u2014 always have driftwood available</li>\n<li><strong>Vegetables:</strong> Blanched zucchini, cucumber, spinach (drop in at lights-out)</li>\n<li><strong>Pellets:</strong> Sinking algae wafers, Repashy gel foods</li>\n</ul>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Peaceful with nearly all community fish. Their armored body protects them from semi-aggressive species. Can even be kept with goldfish (one of few tropical fish that overlaps with goldfish temperature range). Males may be territorial with other bottom dwellers near their cave, but this is usually harmless posturing.</p>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>How big do bristlenose plecos get?</h3>\n<p>4\u20135 inches. Males are slightly larger than females and develop prominent bristles on their nose after about 6 months of age.</p>\n<h3>Do bristlenose plecos eat plants?</h3>\n<p>Generally no. They may graze on dying leaves but leave healthy plants alone. If they're eating plants, they're likely underfed \u2014 supplement with more vegetables.</p>",
+    "metaTitle": "Bristlenose Pleco Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Bristlenose Pleco care guide. Learn about tank size (20+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "harlequin rasbora",
+      "harlequin rasbora care",
+      "harlequin rasbora tank mates"
+    ],
+    "searchVolume": 2400,
+    "slug": "harlequin-rasbora",
+    "name": "Harlequin Rasbora",
+    "scientificName": "Trigonostigma heteromorpha",
+    "family": "Cyprinidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 micro pellets, flake food, frozen brine shrimp, daphnia",
+    "minTankSize": 10,
+    "maxSize": 2,
+    "temperature": {
+      "min": 73,
+      "max": 82
+    },
+    "ph": {
+      "min": 6.0,
+      "max": 7.5
+    },
+    "lifespan": "5\u20138 years",
+    "schooling": true,
+    "minSchoolSize": 6,
+    "compatibleWith": [
+      "betta-fish",
+      "neon-tetra",
+      "corydoras-catfish",
+      "cherry-shrimp",
+      "guppy",
+      "ember-tetra",
+      "otocinclus",
+      "kuhli-loach",
+      "dwarf-gourami",
+      "mystery-snail",
+      "nerite-snail"
+    ],
+    "incompatibleWith": [
+      "oscar-fish",
+      "african-cichlid",
+      "jack-dempsey",
+      "goldfish"
+    ],
+    "description": "Harlequin rasboras are elegant, copper-colored schooling fish with a distinctive black triangular patch on their body. They are one of the most peaceful and hardy community fish available, making them ideal for beginners. In schools of 8+, they display beautiful coordinated swimming behavior.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<ul>\n<li><strong>Tank size:</strong> 10 gallons for a school of 6\u20138, 20 gallons for 10\u201315</li>\n<li><strong>Plants:</strong> Densely planted with broad-leaved plants \u2014 they naturally inhabit shaded, vegetated waters</li>\n<li><strong>Lighting:</strong> Moderate to subdued \u2014 their colors look best under soft lighting</li>\n<li><strong>Substrate:</strong> Dark substrate enhances their copper coloration</li>\n</ul>\n\n<h2 id=\"water-parameters\">Water Parameters</h2>\n<ul>\n<li>Temperature: 73\u201382\u00b0F</li>\n<li>pH: 6.0\u20137.5 (slightly acidic preferred)</li>\n<li>GH: 2\u201310 dGH (soft to moderately hard water)</li>\n</ul>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>One of the best community fish \u2014 compatible with nearly all peaceful species. They make excellent betta tank mates because they stay in the mid-water column and don't have flashy fins that trigger aggression.</p>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>How many harlequin rasboras should I keep?</h3>\n<p>Minimum 6, ideally 10\u201315. Larger schools produce the most impressive display and result in less stress for the fish.</p>",
+    "metaTitle": "Harlequin Rasbora Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Harlequin Rasbora care guide. Learn about tank size (10+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "kuhli loach",
+      "kuhli loach care",
+      "kuhli loach tank size",
+      "kuhli loach tank mates"
+    ],
+    "searchVolume": 1300,
+    "slug": "kuhli-loach",
+    "name": "Kuhli Loach",
+    "scientificName": "Pangio kuhlii",
+    "family": "Cobitidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 sinking pellets, frozen bloodworms, brine shrimp, tubifex worms",
+    "minTankSize": 15,
+    "maxSize": 4,
+    "temperature": {
+      "min": 73,
+      "max": 86
+    },
+    "ph": {
+      "min": 5.5,
+      "max": 7.0
+    },
+    "lifespan": "10+ years",
+    "schooling": true,
+    "minSchoolSize": 6,
+    "compatibleWith": [
+      "betta-fish",
+      "neon-tetra",
+      "corydoras-catfish",
+      "cherry-shrimp",
+      "guppy",
+      "harlequin-rasbora",
+      "ember-tetra",
+      "otocinclus",
+      "mystery-snail",
+      "nerite-snail"
+    ],
+    "incompatibleWith": [
+      "oscar-fish",
+      "african-cichlid",
+      "goldfish",
+      "jack-dempsey",
+      "red-tail-shark"
+    ],
+    "description": "Kuhli loaches are eel-shaped, nocturnal bottom dwellers with striking black and orange/yellow banding. They are shy, peaceful, and love to burrow in sand and hide in tight spaces during the day. Despite their snake-like appearance, they are completely harmless community fish that become much more active and visible when kept in groups.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<ul>\n<li><strong>Tank size:</strong> 15 gallons minimum for a group of 6</li>\n<li><strong>Substrate:</strong> Fine sand is essential \u2014 kuhli loaches burrow and sift through substrate. Sharp gravel will injure them.</li>\n<li><strong>Hiding spots:</strong> Lots of caves, driftwood, PVC pipes, and dense plants. They hide during the day and emerge at dusk.</li>\n<li><strong>Filter intake:</strong> Cover with a sponge pre-filter \u2014 kuhli loaches are known for squeezing into filter intakes</li>\n</ul>\n\n<h2 id=\"behavior\">Behavior</h2>\n<p>Kuhli loaches are nocturnal and you may rarely see them at first. This changes dramatically when they're kept in groups \u2014 with 6+ kuhlis, they become much bolder and will even come out during feeding time. Single kuhli loaches are permanently stressed and hidden.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Compatible with virtually all peaceful community fish. They stay at the bottom and are completely non-confrontational. Excellent betta tank mates because they're nocturnal and stay out of the betta's way.</p>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>Are kuhli loaches eels?</h3>\n<p>No \u2014 they are true loaches (Cobitidae family), not eels. Their elongated body shape is convergent evolution, not a sign of relation to eels.</p>\n<h3>How long do kuhli loaches live?</h3>\n<p>10+ years with proper care. They are long-lived for their size.</p>",
+    "metaTitle": "Kuhli Loach Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Kuhli Loach care guide. Learn about tank size (15+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "ember tetra",
+      "ember tetra care"
+    ],
+    "searchVolume": 4400,
+    "slug": "ember-tetra",
+    "name": "Ember Tetra",
+    "scientificName": "Hyphessobrycon amandae",
+    "family": "Characidae",
+    "minTankSize": 10,
+    "maxSize": 0.8,
+    "temperature": {
+      "min": 73,
+      "max": 84
+    },
+    "ph": {
+      "min": 5.5,
+      "max": 7.0
+    },
+    "lifespan": "2\u20134 years",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 micro pellets, crushed flakes, frozen daphnia, baby brine shrimp",
+    "schooling": true,
+    "minSchoolSize": 8,
+    "description": "Ember tetras are tiny, fiery-orange schooling fish that add a warm glow to planted tanks. At under 1 inch, they are perfect for nano tanks and make excellent companions for shrimp.",
+    "category": "freshwater",
+    "type": "fish",
+    "compatibleWith": [],
+    "incompatibleWith": [],
+    "careGuide": "<h2 id=\"overview\">Overview</h2><p>Ember tetras are tiny, fiery-orange schooling fish that add a warm glow to planted tanks. At under 1 inch, they are perfect for nano tanks and make excellent companions for shrimp.</p><h2 id=\"tank-setup\">Tank Setup</h2><p>Provide a tank of at least 10 gallons with appropriate filtration and heating. Keep in groups of 8+.</p><h2 id=\"water-parameters\">Water Parameters</h2><ul><li>Temperature: 73\u201384\u00b0F</li><li>pH: 5.5\u20137.0</li></ul><h2 id=\"diet\">Diet & Feeding</h2><p>Omnivore \u2014 micro pellets, crushed flakes, frozen daphnia, baby brine shrimp. Feed small amounts twice daily.</p>",
+    "metaTitle": "Ember Tetra Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Ember Tetra care guide. Learn about tank size (10+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "african cichlid",
+      "african cichlid care"
+    ],
+    "searchVolume": 3600,
+    "slug": "african-cichlid",
+    "name": "African Cichlid",
+    "scientificName": "Various (Mbuna, Peacock, Hap)",
+    "family": "Cichlidae",
+    "minTankSize": 55,
+    "maxSize": 8,
+    "temperature": {
+      "min": 76,
+      "max": 82
+    },
+    "ph": {
+      "min": 7.8,
+      "max": 8.6
+    },
+    "lifespan": "8\u201315 years",
+    "careLevel": "intermediate",
+    "temperament": "aggressive",
+    "diet": "Varies by species \u2014 herbivore (mbuna) to carnivore (haps)",
+    "schooling": false,
+    "description": "African cichlids from Lakes Malawi, Tanganyika, and Victoria are among the most colorful freshwater fish. They are active, intelligent, and aggressive \u2014 requiring specific tank setups with plenty of rock formations and overstock strategies to manage aggression.",
+    "category": "freshwater",
+    "type": "fish",
+    "compatibleWith": [],
+    "incompatibleWith": [],
+    "careGuide": "<h2 id=\"overview\">Overview</h2><p>African cichlids from Lakes Malawi, Tanganyika, and Victoria are among the most colorful freshwater fish. They are active, intelligent, and aggressive \u2014 requiring specific tank setups with plenty of rock formations and overstock strategies to manage aggression.</p><h2 id=\"tank-setup\">Tank Setup</h2><p>Provide a tank of at least 55 gallons with appropriate filtration and heating. </p><h2 id=\"water-parameters\">Water Parameters</h2><ul><li>Temperature: 76\u201382\u00b0F</li><li>pH: 7.8\u20138.6</li></ul><h2 id=\"diet\">Diet & Feeding</h2><p>Varies by species \u2014 herbivore (mbuna) to carnivore (haps). Feed small amounts twice daily.</p>",
+    "metaTitle": "African Cichlid Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete African Cichlid care guide. Learn about tank size (55+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "oscar fish",
+      "oscar fish care"
+    ],
+    "searchVolume": 1000,
+    "slug": "oscar-fish",
+    "name": "Oscar Fish",
+    "scientificName": "Astronotus ocellatus",
+    "family": "Cichlidae",
+    "minTankSize": 75,
+    "maxSize": 14,
+    "temperature": {
+      "min": 74,
+      "max": 81
+    },
+    "ph": {
+      "min": 6.0,
+      "max": 8.0
+    },
+    "lifespan": "10\u201315 years",
+    "careLevel": "intermediate",
+    "temperament": "aggressive",
+    "diet": "Carnivore \u2014 pellets, frozen krill, earthworms, shrimp",
+    "schooling": false,
+    "description": "Oscars are large, intelligent South American cichlids often called 'water dogs' for their interactive personality. They recognize their owners, beg for food, and can be hand-fed. However, they grow fast, produce massive waste, and need at least a 75-gallon tank.",
+    "category": "freshwater",
+    "type": "fish",
+    "compatibleWith": [],
+    "incompatibleWith": [],
+    "careGuide": "<h2 id=\"overview\">Overview</h2><p>Oscars are large, intelligent South American cichlids often called 'water dogs' for their interactive personality. They recognize their owners, beg for food, and can be hand-fed. However, they grow fast, produce massive waste, and need at least a 75-gallon tank.</p><h2 id=\"tank-setup\">Tank Setup</h2><p>Provide a tank of at least 75 gallons with appropriate filtration and heating. </p><h2 id=\"water-parameters\">Water Parameters</h2><ul><li>Temperature: 74\u201381\u00b0F</li><li>pH: 6.0\u20138.0</li></ul><h2 id=\"diet\">Diet & Feeding</h2><p>Carnivore \u2014 pellets, frozen krill, earthworms, shrimp. Feed small amounts twice daily.</p>",
+    "metaTitle": "Oscar Fish Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Oscar Fish care guide. Learn about tank size (75+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "angelfish",
+      "angelfish care"
+    ],
+    "searchVolume": 8100,
+    "slug": "angelfish",
+    "name": "Angelfish",
+    "scientificName": "Pterophyllum scalare",
+    "family": "Cichlidae",
+    "minTankSize": 30,
+    "maxSize": 6,
+    "temperature": {
+      "min": 76,
+      "max": 84
+    },
+    "ph": {
+      "min": 6.0,
+      "max": 7.5
+    },
+    "lifespan": "10\u201312 years",
+    "careLevel": "intermediate",
+    "temperament": "semi-aggressive",
+    "diet": "Omnivore \u2014 flakes, pellets, frozen bloodworms, brine shrimp",
+    "schooling": false,
+    "description": "Freshwater angelfish are elegant, tall-bodied cichlids that are a centerpiece in many community aquariums. They come in many color varieties including silver, marble, koi, and black. While generally peaceful, they become territorial when breeding and will eat small fish like neon tetras.",
+    "category": "freshwater",
+    "type": "fish",
+    "compatibleWith": [],
+    "incompatibleWith": [],
+    "careGuide": "<h2 id=\"overview\">Overview</h2><p>Freshwater angelfish are elegant, tall-bodied cichlids that are a centerpiece in many community aquariums. They come in many color varieties including silver, marble, koi, and black. While generally peaceful, they become territorial when breeding and will eat small fish like neon tetras.</p><h2 id=\"tank-setup\">Tank Setup</h2><p>Provide a tank of at least 30 gallons with appropriate filtration and heating. </p><h2 id=\"water-parameters\">Water Parameters</h2><ul><li>Temperature: 76\u201384\u00b0F</li><li>pH: 6.0\u20137.5</li></ul><h2 id=\"diet\">Diet & Feeding</h2><p>Omnivore \u2014 flakes, pellets, frozen bloodworms, brine shrimp. Feed small amounts twice daily.</p>",
+    "metaTitle": "Angelfish Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Angelfish care guide. Learn about tank size (30+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "dwarf gourami",
+      "dwarf gourami care"
+    ],
+    "searchVolume": 5400,
+    "slug": "dwarf-gourami",
+    "name": "Dwarf Gourami",
+    "scientificName": "Trichogaster lalius",
+    "family": "Osphronemidae",
+    "minTankSize": 10,
+    "maxSize": 3.5,
+    "temperature": {
+      "min": 77,
+      "max": 82
+    },
+    "ph": {
+      "min": 6.0,
+      "max": 7.5
+    },
+    "lifespan": "4\u20136 years",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 flakes, pellets, frozen bloodworms, brine shrimp",
+    "schooling": false,
+    "description": "Dwarf gouramis are stunning labyrinth fish with vibrant red and blue striped patterns. Like bettas, they can breathe atmospheric air. Males are colorful while females are silvery. They are generally peaceful but males can be territorial with each other.",
+    "category": "freshwater",
+    "type": "fish",
+    "compatibleWith": [],
+    "incompatibleWith": [],
+    "careGuide": "<h2 id=\"overview\">Overview</h2><p>Dwarf gouramis are stunning labyrinth fish with vibrant red and blue striped patterns. Like bettas, they can breathe atmospheric air. Males are colorful while females are silvery. They are generally peaceful but males can be territorial with each other.</p><h2 id=\"tank-setup\">Tank Setup</h2><p>Provide a tank of at least 10 gallons with appropriate filtration and heating. </p><h2 id=\"water-parameters\">Water Parameters</h2><ul><li>Temperature: 77\u201382\u00b0F</li><li>pH: 6.0\u20137.5</li></ul><h2 id=\"diet\">Diet & Feeding</h2><p>Omnivore \u2014 flakes, pellets, frozen bloodworms, brine shrimp. Feed small amounts twice daily.</p>",
+    "metaTitle": "Dwarf Gourami Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Dwarf Gourami care guide. Learn about tank size (10+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "platy",
+      "platy care"
+    ],
+    "searchVolume": 2400,
+    "slug": "platy",
+    "name": "Platy",
+    "scientificName": "Xiphophorus maculatus",
+    "family": "Poeciliidae",
+    "minTankSize": 10,
+    "maxSize": 2.5,
+    "temperature": {
+      "min": 70,
+      "max": 80
+    },
+    "ph": {
+      "min": 7.0,
+      "max": 8.2
+    },
+    "lifespan": "3\u20135 years",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 flakes, pellets, blanched vegetables, frozen brine shrimp",
+    "schooling": true,
+    "minSchoolSize": 3,
+    "description": "Platies are colorful, hardy livebearers that come in dozens of color varieties. They are extremely easy to care for, breed readily, and get along with virtually all peaceful community fish. Perfect for beginners.",
+    "category": "freshwater",
+    "type": "fish",
+    "compatibleWith": [],
+    "incompatibleWith": [],
+    "careGuide": "<h2 id=\"overview\">Overview</h2><p>Platies are colorful, hardy livebearers that come in dozens of color varieties. They are extremely easy to care for, breed readily, and get along with virtually all peaceful community fish. Perfect for beginners.</p><h2 id=\"tank-setup\">Tank Setup</h2><p>Provide a tank of at least 10 gallons with appropriate filtration and heating. Keep in groups of 3+.</p><h2 id=\"water-parameters\">Water Parameters</h2><ul><li>Temperature: 70\u201380\u00b0F</li><li>pH: 7.0\u20138.2</li></ul><h2 id=\"diet\">Diet & Feeding</h2><p>Omnivore \u2014 flakes, pellets, blanched vegetables, frozen brine shrimp. Feed small amounts twice daily.</p>",
+    "metaTitle": "Platy Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Platy care guide. Learn about tank size (10+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "molly",
+      "molly care"
+    ],
+    "searchVolume": 3600,
+    "slug": "molly",
+    "name": "Molly",
+    "scientificName": "Poecilia sphenops",
+    "family": "Poeciliidae",
+    "minTankSize": 20,
+    "maxSize": 4.5,
+    "temperature": {
+      "min": 72,
+      "max": 82
+    },
+    "ph": {
+      "min": 7.0,
+      "max": 8.5
+    },
+    "lifespan": "3\u20135 years",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 flakes, algae wafers, blanched vegetables, frozen foods",
+    "schooling": true,
+    "minSchoolSize": 4,
+    "description": "Mollies are versatile livebearers that come in many varieties including black, dalmatian, balloon, and sailfin. They prefer hard, alkaline water and can even tolerate brackish conditions. They are active, personable fish that breed easily.",
+    "category": "freshwater",
+    "type": "fish",
+    "compatibleWith": [],
+    "incompatibleWith": [],
+    "careGuide": "<h2 id=\"overview\">Overview</h2><p>Mollies are versatile livebearers that come in many varieties including black, dalmatian, balloon, and sailfin. They prefer hard, alkaline water and can even tolerate brackish conditions. They are active, personable fish that breed easily.</p><h2 id=\"tank-setup\">Tank Setup</h2><p>Provide a tank of at least 20 gallons with appropriate filtration and heating. Keep in groups of 4+.</p><h2 id=\"water-parameters\">Water Parameters</h2><ul><li>Temperature: 72\u201382\u00b0F</li><li>pH: 7.0\u20138.5</li></ul><h2 id=\"diet\">Diet & Feeding</h2><p>Omnivore \u2014 flakes, algae wafers, blanched vegetables, frozen foods. Feed small amounts twice daily.</p>",
+    "metaTitle": "Molly Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Molly care guide. Learn about tank size (20+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "endler",
+      "endler's livebearer care"
+    ],
+    "searchVolume": 1600,
+    "slug": "endler",
+    "name": "Endler's Livebearer",
+    "scientificName": "Poecilia wingei",
+    "family": "Poeciliidae",
+    "minTankSize": 10,
+    "maxSize": 1.5,
+    "temperature": {
+      "min": 72,
+      "max": 82
+    },
+    "ph": {
+      "min": 6.5,
+      "max": 8.0
+    },
+    "lifespan": "2\u20133 years",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 micro pellets, crushed flakes, frozen brine shrimp",
+    "schooling": true,
+    "minSchoolSize": 3,
+    "description": "Endler's livebearers are close relatives of guppies but stay smaller and display even more intense neon coloration. Males are tiny but spectacularly colored. They breed prolifically and are perfect for nano tanks.",
+    "category": "freshwater",
+    "type": "fish",
+    "compatibleWith": [],
+    "incompatibleWith": [],
+    "careGuide": "<h2 id=\"overview\">Overview</h2><p>Endler's livebearers are close relatives of guppies but stay smaller and display even more intense neon coloration. Males are tiny but spectacularly colored. They breed prolifically and are perfect for nano tanks.</p><h2 id=\"tank-setup\">Tank Setup</h2><p>Provide a tank of at least 10 gallons with appropriate filtration and heating. Keep in groups of 3+.</p><h2 id=\"water-parameters\">Water Parameters</h2><ul><li>Temperature: 72\u201382\u00b0F</li><li>pH: 6.5\u20138.0</li></ul><h2 id=\"diet\">Diet & Feeding</h2><p>Omnivore \u2014 micro pellets, crushed flakes, frozen brine shrimp. Feed small amounts twice daily.</p>",
+    "metaTitle": "Endler's Livebearer Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Endler's Livebearer care guide. Learn about tank size (10+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "cardinal tetra",
+      "cardinal tetra care"
+    ],
+    "searchVolume": 4400,
+    "slug": "cardinal-tetra",
+    "name": "Cardinal Tetra",
+    "scientificName": "Paracheirodon axelrodi",
+    "family": "Characidae",
+    "minTankSize": 10,
+    "maxSize": 2,
+    "temperature": {
+      "min": 73,
+      "max": 81
+    },
+    "ph": {
+      "min": 4.5,
+      "max": 7.0
+    },
+    "lifespan": "4\u20135 years",
+    "careLevel": "intermediate",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 micro pellets, flakes, frozen brine shrimp, daphnia",
+    "schooling": true,
+    "minSchoolSize": 6,
+    "description": "Cardinal tetras look similar to neon tetras but have a red stripe that extends the entire length of their body (vs only the back half in neons). They prefer softer, more acidic water and are slightly more delicate, but their deeper coloration makes them highly sought after.",
+    "category": "freshwater",
+    "type": "fish",
+    "compatibleWith": [],
+    "incompatibleWith": [],
+    "careGuide": "<h2 id=\"overview\">Overview</h2><p>Cardinal tetras look similar to neon tetras but have a red stripe that extends the entire length of their body (vs only the back half in neons). They prefer softer, more acidic water and are slightly more delicate, but their deeper coloration makes them highly sought after.</p><h2 id=\"tank-setup\">Tank Setup</h2><p>Provide a tank of at least 10 gallons with appropriate filtration and heating. Keep in groups of 6+.</p><h2 id=\"water-parameters\">Water Parameters</h2><ul><li>Temperature: 73\u201381\u00b0F</li><li>pH: 4.5\u20137.0</li></ul><h2 id=\"diet\">Diet & Feeding</h2><p>Omnivore \u2014 micro pellets, flakes, frozen brine shrimp, daphnia. Feed small amounts twice daily.</p>",
+    "metaTitle": "Cardinal Tetra Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Cardinal Tetra care guide. Learn about tank size (10+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "puffer fish",
+      "pea puffer care"
+    ],
+    "searchVolume": 9900,
+    "slug": "puffer-fish",
+    "name": "Pea Puffer",
+    "scientificName": "Carinotetraodon travancoricus",
+    "family": "Tetraodontidae",
+    "minTankSize": 5,
+    "maxSize": 1,
+    "temperature": {
+      "min": 74,
+      "max": 82
+    },
+    "ph": {
+      "min": 7.0,
+      "max": 8.0
+    },
+    "lifespan": "4\u20135 years",
+    "careLevel": "intermediate",
+    "temperament": "aggressive",
+    "diet": "Carnivore \u2014 snails, frozen bloodworms, live blackworms",
+    "schooling": false,
+    "description": "Pea puffers are the smallest freshwater pufferfish in the world, growing to just 1 inch. Despite their tiny size, they have big personalities \u2014 they are curious, intelligent, and surprisingly aggressive. They are best kept in species-only tanks and require live or frozen food.",
+    "category": "freshwater",
+    "type": "fish",
+    "compatibleWith": [],
+    "incompatibleWith": [],
+    "careGuide": "<h2 id=\"overview\">Overview</h2><p>Pea puffers are the smallest freshwater pufferfish in the world, growing to just 1 inch. Despite their tiny size, they have big personalities \u2014 they are curious, intelligent, and surprisingly aggressive. They are best kept in species-only tanks and require live or frozen food.</p><h2 id=\"tank-setup\">Tank Setup</h2><p>Provide a tank of at least 5 gallons with appropriate filtration and heating. </p><h2 id=\"water-parameters\">Water Parameters</h2><ul><li>Temperature: 74\u201382\u00b0F</li><li>pH: 7.0\u20138.0</li></ul><h2 id=\"diet\">Diet & Feeding</h2><p>Carnivore \u2014 snails, frozen bloodworms, live blackworms. Feed small amounts twice daily.</p>",
+    "metaTitle": "Pea Puffer Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Pea Puffer care guide. Learn about tank size (5+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "assassin snail",
+      "assassin snail care"
+    ],
+    "searchVolume": 2400,
+    "slug": "assassin-snail",
+    "name": "Assassin Snail",
+    "scientificName": "Clea helena",
+    "family": "Buccinidae",
+    "minTankSize": 10,
+    "maxSize": 1.5,
+    "temperature": {
+      "min": 70,
+      "max": 80
+    },
+    "ph": {
+      "min": 6.5,
+      "max": 8.0
+    },
+    "lifespan": "2\u20133 years",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Carnivore \u2014 other snails, frozen bloodworms, sinking pellets",
+    "schooling": false,
+    "description": "Assassin snails are the natural pest snail control solution. They hunt and eat bladder snails, pond snails, Malaysian trumpet snails, and ramshorn snails. They breed slowly (unlike pest snails), have attractive yellow and dark brown striped shells, and are safe with fish and shrimp.",
+    "type": "invertebrate",
+    "category": "freshwater",
+    "compatibleWith": [],
+    "incompatibleWith": [],
+    "careGuide": "<h2 id=\"overview\">Overview</h2><p>Assassin snails are the natural pest snail control solution. They hunt and eat bladder snails, pond snails, Malaysian trumpet snails, and ramshorn snails. They breed slowly (unlike pest snails), have attractive yellow and dark brown striped shells, and are safe with fish and shrimp.</p><h2 id=\"tank-setup\">Tank Setup</h2><p>Provide a tank of at least 10 gallons with appropriate filtration and heating. </p><h2 id=\"water-parameters\">Water Parameters</h2><ul><li>Temperature: 70\u201380\u00b0F</li><li>pH: 6.5\u20138.0</li></ul><h2 id=\"diet\">Diet & Feeding</h2><p>Carnivore \u2014 other snails, frozen bloodworms, sinking pellets. Feed small amounts twice daily.</p>",
+    "metaTitle": "Assassin Snail Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Assassin Snail care guide. Learn about tank size (10+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "keywords": [
+      "amano shrimp",
+      "amano shrimp care"
+    ],
+    "searchVolume": 6600,
+    "slug": "amano-shrimp",
+    "name": "Amano Shrimp",
+    "scientificName": "Caridina multidentata",
+    "family": "Atyidae",
+    "minTankSize": 10,
+    "maxSize": 2,
+    "temperature": {
+      "min": 70,
+      "max": 80
+    },
+    "ph": {
+      "min": 6.5,
+      "max": 7.5
+    },
+    "lifespan": "2\u20133 years",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore/Detritivore \u2014 algae, biofilm, blanched vegetables, shrimp pellets",
+    "schooling": true,
+    "minSchoolSize": 5,
+    "description": "Amano shrimp, named after legendary aquascaper Takashi Amano, are the best algae-eating shrimp available. They are larger than cherry shrimp and voraciously consume hair algae, soft green algae, and leftover food. They do not breed in freshwater.",
+    "type": "invertebrate",
+    "category": "freshwater",
+    "compatibleWith": [],
+    "incompatibleWith": [],
+    "careGuide": "<h2 id=\"overview\">Overview</h2><p>Amano shrimp, named after legendary aquascaper Takashi Amano, are the best algae-eating shrimp available. They are larger than cherry shrimp and voraciously consume hair algae, soft green algae, and leftover food. They do not breed in freshwater.</p><h2 id=\"tank-setup\">Tank Setup</h2><p>Provide a tank of at least 10 gallons with appropriate filtration and heating. Keep in groups of 5+.</p><h2 id=\"water-parameters\">Water Parameters</h2><ul><li>Temperature: 70\u201380\u00b0F</li><li>pH: 6.5\u20137.5</li></ul><h2 id=\"diet\">Diet & Feeding</h2><p>Omnivore/Detritivore \u2014 algae, biofilm, blanched vegetables, shrimp pellets. Feed small amounts twice daily.</p>",
+    "metaTitle": "Amano Shrimp Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Amano Shrimp care guide. Learn about tank size (10+ gal), water parameters, diet, compatible tank mates, and more."
+  }
+]
