@@ -1,1 +1,398 @@
-[]
+[
+  {
+    "slug": "ich-white-spot-disease",
+    "name": "Ich (White Spot Disease)",
+    "type": "parasitic",
+    "affectedSpecies": "both",
+    "symptoms": [
+      "Small white spots resembling grains of salt on body, fins, and gills",
+      "Fish rubbing/flashing against objects (scratching)",
+      "Clamped fins held close to body",
+      "Lethargy and loss of appetite",
+      "Labored or rapid breathing (gill involvement)",
+      "Hiding and reduced activity",
+      "In severe cases, fish gasping at the surface"
+    ],
+    "causes": [
+      "Ichthyophthirius multifiliis protozoan parasite",
+      "Introduced via new fish that weren't quarantined",
+      "Stress from poor water quality or temperature fluctuations",
+      "Sudden temperature drops (weakens immune system)",
+      "Overcrowding and aggressive tank mates",
+      "Already present in most tanks at low levels \u2014 outbreaks triggered by stress"
+    ],
+    "treatment": "<h2 id=\"what-is-ich\">What Is Ich?</h2>\n<p>Ich (Ichthyophthirius multifiliis), also called White Spot Disease or Ick, is the single most common and most deadly disease in freshwater aquariums. The protozoan parasite attaches to fish skin and gills, forming visible white cysts that look like grains of salt sprinkled over the fish's body. Left untreated, ich is almost always fatal \u2014 and because of its explosive reproductive cycle, it can wipe out an entire tank within days.</p>\n<p>The parasite exists in three life stages, and understanding this cycle is critical to successful treatment:</p>\n<ol>\n<li><strong>Trophont (feeding stage):</strong> The visible white spot on the fish. The parasite burrows under the skin and feeds on the fish's tissue. It is PROTECTED from medication at this stage \u2014 treatments cannot penetrate the cyst.</li>\n<li><strong>Tomont (reproductive stage):</strong> After feeding (3\u20137 days), the cyst falls off the fish, sinks to the substrate, and encysts. Inside this cyst, the parasite divides and produces up to 1,000 new parasites (theronts).</li>\n<li><strong>Theront (free-swimming stage):</strong> The cyst bursts, releasing hundreds of free-swimming theronts into the water column. They have about 48 hours to find a fish host or they die. <strong>This is the ONLY stage vulnerable to medication.</strong></li>\n</ol>\n<p>This is why ich treatment must continue for the full life cycle (10\u201314 days minimum) \u2014 you're waiting for all parasites to reach the vulnerable free-swimming stage.</p>\n\n<h2 id=\"ich-treatment\">How to Treat Ich \u2014 Step by Step</h2>\n<h3>Method 1: Heat + Salt (Preferred for Most Fish)</h3>\n<ol>\n<li><strong>Raise temperature to 86\u00b0F (30\u00b0C)</strong> gradually over 24\u201348 hours (no more than 2\u00b0F per hour). High temperature accelerates the ich life cycle, forcing parasites off the fish and into the vulnerable free-swimming stage faster. Most tropical fish tolerate 86\u00b0F for 10\u201314 days.</li>\n<li><strong>Add aquarium salt:</strong> 1 tablespoon per 5 gallons. Salt dehydrates the free-swimming theronts, killing them before they can attach to fish. Dissolve salt in a cup of tank water first, then add gradually.</li>\n<li><strong>Increase aeration:</strong> Warm water holds less dissolved oxygen. Add an <a href=\"/equipment/air-pumps\">air stone or air pump</a> to ensure adequate oxygenation during treatment.</li>\n<li><strong>Maintain treatment for 14 days</strong> after the last visible white spot disappears. This ensures all parasites have cycled through the vulnerable stage.</li>\n<li><strong>Perform 25% water changes every 2\u20133 days</strong> during treatment to remove free-swimming parasites from the water column. Re-dose salt to match the volume of new water added.</li>\n<li><strong>Gradually lower temperature</strong> back to normal over 2\u20133 days after treatment is complete.</li>\n</ol>\n<p><strong>Important:</strong> Some fish are salt-sensitive. <a href=\"/fish/corydoras-catfish\">Corydoras catfish</a>, many <a href=\"/fish\">tetras</a>, and some loaches tolerate salt poorly. For these species, use half the salt dose or switch to Method 2.</p>\n\n<h3>Method 2: Medication (Ich-X or Copper-Based)</h3>\n<ol>\n<li><strong>Remove activated carbon</strong> from your <a href=\"/equipment/filters\">filter</a> \u2014 carbon absorbs medication before it can work. Leave biological media in place.</li>\n<li><strong>Dose Hikari Ich-X (malachite green + formaldehyde)</strong> according to label instructions. Ich-X is the most widely recommended ich medication \u2014 effective, relatively safe for plants and most fish.</li>\n<li><strong>Raise temperature to 82\u201384\u00b0F</strong> to speed up the parasite lifecycle (even with medication, faster cycling = faster cure).</li>\n<li><strong>Perform 1/3 water change before each re-dose</strong> (typically every 24 hours). Re-dose after each water change.</li>\n<li><strong>Continue treatment for 3 days after the last spot disappears.</strong></li>\n</ol>\n<p>Alternative medications: API Super Ick Cure, Seachem ParaGuard, copper sulfate (Cupramine \u2014 effective but kills shrimp and snails, and is risky with sensitive fish).</p>\n\n<h2 id=\"ich-prevention\">Preventing Ich</h2>\n<ul>\n<li><strong>Quarantine ALL new fish</strong> for 2\u20134 weeks in a separate tank before adding to your display tank. This is the single most effective prevention measure.</li>\n<li><strong>Maintain stable temperature:</strong> Sudden drops trigger outbreaks. Use a reliable <a href=\"/equipment/heaters\">heater</a> and avoid placing tanks near drafty windows or AC vents.</li>\n<li><strong>Keep water quality pristine:</strong> Regular water changes, proper <a href=\"/equipment/filters\">filtration</a>, and monitoring with <a href=\"/equipment/test-kits\">test kits</a> keep fish immune systems strong.</li>\n<li><strong>Avoid stress:</strong> Overcrowding, aggressive tank mates, and poor nutrition all weaken fish immunity. Stressed fish are the primary targets for ich outbreaks.</li>\n<li><strong>UV sterilizers:</strong> A <a href=\"/equipment/uv-sterilizers\">UV sterilizer</a> kills free-swimming ich theronts as water passes through, providing continuous prevention in display tanks.</li>\n</ul>\n\n<h2 id=\"ich-species\">Species-Specific Ich Notes</h2>\n<ul>\n<li><strong><a href=\"/fish/betta-fish\">Betta fish</a>:</strong> Tolerate heat treatment well (86\u00b0F). Use half-dose salt (1 tsp per 5 gal) due to their sensitivity. Ich-X works well for bettas.</li>\n<li><strong><a href=\"/fish/goldfish\">Goldfish</a>:</strong> Tolerate salt well but don't do well at 86\u00b0F (cold-water fish). Use 78\u00b0F max + salt + medication for goldfish.</li>\n<li><strong><a href=\"/fish/neon-tetra\">Neon tetras</a>:</strong> Very susceptible to ich and sensitive to salt and medication. Use reduced doses. Often confused with <a href=\"#neon-tetra-disease\">Neon Tetra Disease</a> (which is untreatable).</li>\n<li><strong><a href=\"/fish/corydoras-catfish\">Corydoras</a>:</strong> Scaleless fish are sensitive to salt and some medications. Use half doses of salt and medication. Ich-X at half dose is generally safe.</li>\n<li><strong><a href=\"/fish/cherry-shrimp\">Shrimp</a>:</strong> Most ich medications (especially copper-based) are LETHAL to shrimp. If you have shrimp, use heat-only treatment (raise to 86\u00b0F) without medication or salt.</li>\n</ul>\n\n<h2 id=\"ich-faq\">Frequently Asked Questions</h2>\n<h3>Can ich kill my fish?</h3>\n<p>Yes \u2014 untreated ich is almost always fatal. The parasites damage gill tissue, leading to suffocation, and secondary bacterial infections attack the wounds left by detaching cysts. Early treatment is critical.</p>\n<h3>How long does ich treatment take?</h3>\n<p>Minimum 10\u201314 days. The treatment must cover the full parasite lifecycle. Continue treatment for at least 3 days after the last visible spot disappears to catch remaining parasites.</p>\n<h3>Is ich contagious to all fish in the tank?</h3>\n<p>Yes. If one fish has ich, treat the ENTIRE tank, not just the affected fish. The free-swimming parasites will infect every fish they can reach. Removing one fish to a hospital tank helps that individual but doesn't stop the outbreak in the main tank.</p>",
+    "prevention": [
+      "Quarantine all new fish for 2-4 weeks",
+      "Maintain stable water temperature",
+      "Keep water quality pristine with regular testing and changes",
+      "Avoid overcrowding and stress",
+      "Use a UV sterilizer for continuous prevention"
+    ],
+    "medications": [
+      "Hikari Ich-X (malachite green + formaldehyde)",
+      "API Super Ick Cure",
+      "Seachem ParaGuard",
+      "Copper sulfate (Cupramine)",
+      "Aquarium salt (supportive)"
+    ],
+    "quarantineDays": 14,
+    "severity": "severe",
+    "description": "Ich (White Spot Disease) is the most common and deadliest freshwater aquarium disease. The Ichthyophthirius multifiliis parasite creates visible white spots on fish and can wipe out an entire tank if untreated. Treatment requires understanding the parasite's 3-stage life cycle and treating for the full 10-14 day cycle.",
+    "imageUrl": "/images/diseases/placeholder.jpg",
+    "metaTitle": "Ich (White Spot Disease) Treatment Guide: Save Your Fish | World of Aquariums",
+    "metaDescription": "Complete Ich treatment guide. Step-by-step heat, salt, and medication methods. How to cure white spot disease in freshwater fish and prevent future outbreaks.",
+    "keywords": [
+      "ich treatment",
+      "white spot disease",
+      "fish ich",
+      "ich aquarium",
+      "white spots on fish",
+      "how to treat ich",
+      "ick treatment fish",
+      "aquarium salt for ich"
+    ],
+    "searchVolume": 22200
+  },
+  {
+    "slug": "fin-rot",
+    "name": "Fin Rot",
+    "type": "bacterial",
+    "affectedSpecies": "both",
+    "symptoms": [
+      "Frayed, ragged, or disintegrating fin edges",
+      "Fins appear shorter than normal or receding",
+      "White, milky, or red edges on damaged fins",
+      "Fins may have a fuzzy appearance (secondary fungal infection)",
+      "In severe cases, fin rot reaches the body and causes open sores",
+      "Lethargy and reduced activity",
+      "Loss of appetite in advanced cases"
+    ],
+    "causes": [
+      "Bacterial infection (Pseudomonas, Aeromonas, Vibrio species)",
+      "Poor water quality \u2014 the #1 cause (high ammonia, nitrite, or nitrate)",
+      "Physical injury from fin-nipping tank mates",
+      "Stress from overcrowding, aggression, or poor conditions",
+      "Weakened immune system from any chronic stressor",
+      "Can be bacterial OR fungal \u2014 sometimes both simultaneously"
+    ],
+    "treatment": "<h2 id=\"what-is-fin-rot\">What Is Fin Rot?</h2>\n<p>Fin rot is a bacterial infection that progressively destroys a fish's fins and tail. It's one of the most common aquarium diseases and almost always a symptom of underlying problems \u2014 primarily poor water quality. The bacteria responsible (usually Pseudomonas, Aeromonas, or Vibrio species) are present in virtually all aquariums, but only cause disease when a fish's immune system is compromised by stress or injury.</p>\n<p>Fin rot exists on a spectrum from mild to severe:</p>\n<ul>\n<li><strong>Mild:</strong> Slight fraying or discoloration at fin edges. Easily treatable by improving water quality alone.</li>\n<li><strong>Moderate:</strong> Significant fin tissue loss, milky or red edges, possible secondary fungal infection (fuzzy white growth). Requires water quality improvement + medication.</li>\n<li><strong>Severe:</strong> Fins rotted down to the body. Open sores on the body. Fish is lethargic and may stop eating. Life-threatening \u2014 requires aggressive treatment. Fins may not fully regenerate at this stage.</li>\n</ul>\n<p><a href=\"/fish/betta-fish\">Betta fish</a> are particularly susceptible due to their long, flowing fins which are easily damaged and provide more surface area for bacterial attack. Fin rot is the #1 health issue reported by betta owners.</p>\n\n<h2 id=\"fin-rot-treatment\">Treatment \u2014 Step by Step</h2>\n<h3>Step 1: Fix Water Quality (ALWAYS First)</h3>\n<p>Fin rot is almost always caused or worsened by poor water quality. Before ANY medication, fix the environment:</p>\n<ol>\n<li><strong>Test water immediately</strong> with your <a href=\"/equipment/test-kits\">API Freshwater Master Test Kit</a>. Check ammonia, nitrite, nitrate, and pH.</li>\n<li><strong>Perform a 50% water change</strong> with <a href=\"/equipment/water-conditioners\">dechlorinated water</a> (Seachem Prime).</li>\n<li><strong>If ammonia or nitrite is above 0:</strong> You've found the cause. Perform daily 25-30% water changes until both read 0. Dose Seachem Prime at water changes to detoxify ammonia between changes.</li>\n<li><strong>If nitrate is above 40ppm:</strong> Too much accumulated waste. Increase water change frequency and volume until nitrate stays below 20ppm.</li>\n<li><strong>Check your <a href=\"/equipment/filters\">filter</a>:</strong> Is it running properly? Is media clogged? Clean the filter (in old tank water) if flow is reduced.</li>\n</ol>\n<p>For mild fin rot, improving water quality alone often resolves the issue within 1\u20132 weeks without medication. Clean water allows the fish's immune system to fight the bacteria naturally.</p>\n\n<h3>Step 2: Aquarium Salt (Mild to Moderate Cases)</h3>\n<p>Aquarium salt is a gentle, effective first-line treatment for fin rot that avoids the side effects of antibiotics:</p>\n<ul>\n<li>Add 1 tablespoon of aquarium salt per 5 gallons. Dissolve in a cup of tank water first, then add gradually.</li>\n<li>Salt creates osmotic stress on bacteria while being tolerated by most freshwater fish.</li>\n<li>Maintain salt treatment for 10 days. Replace salt proportionally with water changes.</li>\n<li>After treatment, dilute salt out through regular water changes (salt doesn't evaporate \u2014 only leaves through water removal).</li>\n</ul>\n<p><strong>Caution:</strong> Some species are salt-sensitive \u2014 <a href=\"/fish/corydoras-catfish\">corydoras catfish</a>, many tetras, and <a href=\"/fish/cherry-shrimp\">shrimp</a>. Use half-dose for sensitive species or skip salt and go directly to medication.</p>\n\n<h3>Step 3: Medication (Moderate to Severe Cases)</h3>\n<p>If water quality improvement and salt don't show improvement within 5-7 days, or if the rot is already moderate to severe:</p>\n<ul>\n<li><strong>API E.M. Erythromycin:</strong> Effective broad-spectrum antibiotic for gram-positive bacterial infections. Follow package directions. Remove activated carbon from <a href=\"/equipment/filters\">filter</a> during treatment.</li>\n<li><strong>Seachem Kanaplex (kanamycin):</strong> Treats both gram-positive and gram-negative bacteria. Can be absorbed through the skin (no need to dose food). Very effective for stubborn fin rot.</li>\n<li><strong>API Furan-2 (nitrofurazone):</strong> Effective antibiotic that also has some antifungal properties \u2014 useful when fin rot has a fuzzy/fungal component.</li>\n<li><strong>Melafix (tea tree oil):</strong> Mild antibacterial. May help very mild cases but is generally too weak for moderate or severe fin rot. Controversial in the hobby \u2014 many experienced aquarists consider it ineffective. <strong>Warning: Melafix can harm <a href=\"/fish/betta-fish\">bettas</a></strong> and other labyrinth fish by coating their labyrinth organ. Avoid for bettas \u2014 use Bettafix (diluted version) or skip tea tree oil entirely.</li>\n</ul>\n\n<h3>Step 4: Recovery & Fin Regrowth</h3>\n<p>Once the infection is resolved, fins can regenerate \u2014 but recovery depends on severity:</p>\n<ul>\n<li><strong>Mild rot:</strong> Full regrowth in 2\u20134 weeks. New fin tissue appears clear/transparent before developing color.</li>\n<li><strong>Moderate rot:</strong> Partial to full regrowth in 4\u20138 weeks. Some scarring or irregular fin shape possible.</li>\n<li><strong>Severe rot (reaching the body):</strong> Fins may never fully regenerate. The fish can live comfortably but may have permanently shortened fins.</li>\n</ul>\n<p>Support recovery with clean water, high-quality food, and stress-free environment. Some hobbyists add Indian almond leaves (catappa leaves) to release tannins with mild antibacterial properties \u2014 popular in <a href=\"/fish/betta-fish\">betta</a> care.</p>\n\n<h2 id=\"fin-rot-prevention\">Prevention</h2>\n<ul>\n<li><strong>Maintain pristine water quality:</strong> Weekly water changes, proper <a href=\"/equipment/filters\">filtration</a>, regular <a href=\"/equipment/test-kits\">testing</a>.</li>\n<li><strong>Avoid fin-nipping tank mates:</strong> <a href=\"/fish/tiger-barb\">Tiger barbs</a> and <a href=\"/fish/serpae-tetra\">serpae tetras</a> are notorious fin nippers. Don't keep them with long-finned species.</li>\n<li><strong>Don't overcrowd:</strong> More fish = more waste = more bacteria = more disease. Follow <a href=\"/tank-sizes\">tank size recommendations</a>.</li>\n<li><strong>Feed quality food:</strong> Proper nutrition supports immune function. Varied diet with quality pellets + frozen foods.</li>\n</ul>\n\n<h2 id=\"fin-rot-faq\">Frequently Asked Questions</h2>\n<h3>Will fin rot heal on its own?</h3>\n<p>Very mild fin rot can resolve with clean water alone \u2014 the fish's immune system handles the bacteria once the environmental stressor is removed. Moderate to severe rot requires intervention (salt and/or antibiotics).</p>\n<h3>Is fin rot contagious?</h3>\n<p>The bacteria that cause fin rot exist in all aquariums. It's not contagious in the traditional sense \u2014 a healthy fish with a strong immune system won't \"catch\" it from an infected tank mate. However, if water quality is poor enough to cause fin rot in one fish, others are likely at risk too.</p>\n<h3>How do I tell fin rot from fin nipping?</h3>\n<p>Fin rot creates ragged, uneven edges that may be discolored (white, milky, or red). Fin nipping creates cleaner, more angular tears. Watch your tank \u2014 if you see a fish chasing and biting others' fins, the damage is from nipping, not rot (though nipping wounds can develop into fin rot if water quality is poor).</p>",
+    "prevention": [
+      "Maintain excellent water quality",
+      "Avoid fin-nipping tank mates",
+      "Don't overcrowd",
+      "Feed high-quality varied diet",
+      "Regular water testing and changes"
+    ],
+    "medications": [
+      "Aquarium salt (first-line)",
+      "API E.M. Erythromycin",
+      "Seachem Kanaplex (kanamycin)",
+      "API Furan-2 (nitrofurazone)",
+      "Melafix (mild cases only \u2014 NOT for bettas)"
+    ],
+    "quarantineDays": 14,
+    "severity": "moderate",
+    "description": "Fin rot is a bacterial infection that progressively destroys fish fins and tails. It's the most common disease in betta fish and almost always signals poor water quality. Treatment starts with water quality improvement, then salt and antibiotics for moderate to severe cases. Fins can regenerate with proper care.",
+    "imageUrl": "/images/diseases/placeholder.jpg",
+    "metaTitle": "Fin Rot Treatment Guide: Causes, Medication & Recovery | World of Aquariums",
+    "metaDescription": "Complete fin rot treatment guide. Step-by-step cure for betta and aquarium fish. Water quality fixes, salt treatment, antibiotics, and fin regrowth timeline.",
+    "keywords": [
+      "fin rot",
+      "fin rot treatment",
+      "betta fin rot",
+      "fin rot betta treatment",
+      "fish fin rot",
+      "aquarium salt fin rot",
+      "fin rot cure"
+    ],
+    "searchVolume": 14800
+  },
+  {
+    "slug": "dropsy",
+    "name": "Dropsy",
+    "type": "bacterial",
+    "affectedSpecies": "both",
+    "symptoms": [
+      "Severely bloated/swollen abdomen",
+      "Scales protruding outward (pinecone appearance) \u2014 the defining symptom",
+      "Lethargy and loss of appetite",
+      "Pale or discolored gills",
+      "Stringy, white feces",
+      "Bulging eyes (in some cases)",
+      "Curved spine",
+      "Redness at base of fins or on belly"
+    ],
+    "causes": [
+      "Internal bacterial infection (usually Aeromonas) attacking kidneys",
+      "Kidney failure causing fluid retention in body cavity",
+      "Almost always a secondary condition \u2014 underlying cause is weakened immune system",
+      "Chronic poor water quality over extended period",
+      "Chronic stress, poor diet, or old age",
+      "Internal parasites in some cases",
+      "Viral infection (rarely)"
+    ],
+    "treatment": "<h2 id=\"what-is-dropsy\">What Is Dropsy?</h2>\n<p>Dropsy is not technically a disease itself \u2014 it's a symptom of severe internal organ failure, usually kidney failure caused by bacterial infection (most commonly Aeromonas bacteria). The kidneys lose the ability to regulate fluid balance, causing fluid to accumulate in the body cavity. This produces the characteristic bloated appearance with scales protruding outward like a pinecone \u2014 a sign that the fish is in critical condition.</p>\n<p><strong>The hard truth about dropsy:</strong> By the time a fish shows the classic pinecone scaling, the internal damage is usually severe and often irreversible. The survival rate for fish showing full dropsy symptoms is very low \u2014 estimated at 10-20% even with aggressive treatment. Early detection (bloating before pinecone scaling appears) improves chances significantly.</p>\n<p>Dropsy is most common in fish that have been chronically stressed \u2014 poor water quality over weeks/months, inadequate diet, or living in conditions that continuously suppress the immune system. It's a sign that something has been wrong for a long time, not a sudden illness.</p>\n\n<h2 id=\"dropsy-treatment\">Treatment (When Caught Early)</h2>\n<p>If you notice bloating WITHOUT pinecone scaling yet, treatment has a reasonable chance of success:</p>\n<ol>\n<li><strong>Isolate the fish</strong> in a hospital/quarantine tank immediately. This reduces stress (quiet environment, no tank mates) and prevents potential spread to other fish.</li>\n<li><strong>Epsom salt bath:</strong> Add 1 tablespoon of Epsom salt (magnesium sulfate \u2014 NOT aquarium salt) per 5 gallons in the hospital tank. Epsom salt acts as a gentle osmotic agent that helps draw excess fluid from the fish's body cavity. This is purely supportive \u2014 it addresses the symptom (fluid retention) not the cause.</li>\n<li><strong>Antibiotic treatment:</strong>\n<ul>\n<li><strong>Seachem Kanaplex (kanamycin):</strong> The most commonly recommended antibiotic for dropsy. Can be absorbed through the water, effective against Aeromonas. Dose per package instructions.</li>\n<li><strong>API Furan-2 (nitrofurazone):</strong> Broad-spectrum antibiotic effective against gram-negative bacteria. Can be combined with Kanaplex for a stronger treatment protocol.</li>\n<li><strong>Medicated food:</strong> If the fish is still eating, soak food in antibiotic (Kanaplex mixed into food with Seachem Focus as a binding agent). Internal medication delivery is more effective than water dosing for internal infections.</li>\n</ul></li>\n<li><strong>Maintain pristine water quality</strong> in the hospital tank \u2014 25% daily water changes. Re-dose Epsom salt and medication proportionally after water changes.</li>\n<li><strong>Provide high-quality, easily digestible food</strong> \u2014 frozen daphnia is excellent (natural laxative effect) if the fish is still eating.</li>\n</ol>\n\n<h2 id=\"dropsy-prognosis\">Prognosis & Euthanasia</h2>\n<p>If a fish shows full pinecone scaling, lethargy, and has stopped eating, the prognosis is very poor. At this point, the internal organ damage is likely beyond repair. Many experienced aquarists consider euthanasia the humane choice when dropsy is this advanced, to prevent further suffering.</p>\n<p>The clove oil method is widely considered the most humane euthanasia method for aquarium fish: add 5-10 drops of pure clove oil to a small container of tank water, mix until milky, then add the fish. The eugenol in clove oil acts as an anesthetic, and the fish peacefully loses consciousness before the dose becomes lethal. This is a difficult decision but sometimes the kindest one.</p>\n\n<h2 id=\"dropsy-prevention\">Prevention</h2>\n<ul>\n<li><strong>Consistent excellent water quality:</strong> Dropsy develops from chronic stress. Regular <a href=\"/equipment/test-kits\">water testing</a>, weekly water changes, and proper <a href=\"/equipment/filters\">filtration</a> prevent the conditions that lead to it.</li>\n<li><strong>Quality diet:</strong> Varied, high-quality food supports organ health and immune function.</li>\n<li><strong>Appropriate stocking:</strong> Follow <a href=\"/tank-sizes\">tank size guidelines</a> \u2014 overcrowding creates chronic stress.</li>\n<li><strong>Observe fish daily:</strong> Early detection (slight bloating, reduced appetite) gives the best chance of successful treatment.</li>\n</ul>\n\n<h2 id=\"dropsy-faq\">Frequently Asked Questions</h2>\n<h3>Is dropsy contagious?</h3>\n<p>Dropsy itself is not directly contagious \u2014 it's a symptom of internal organ failure, not a transmissible pathogen. However, the bacteria that cause the underlying infection (Aeromonas) are present in most aquariums and can affect other stressed or immunocompromised fish.</p>\n<h3>Can dropsy be cured?</h3>\n<p>If caught very early (bloating without pinecone scaling), treatment can succeed. Once full pinecone scaling develops, survival rate is very low (10-20%). Prevention through good husbandry is far more effective than treatment.</p>\n<h3>Why did my fish get dropsy?</h3>\n<p>Dropsy is almost always the result of long-term immune suppression from chronic stress \u2014 poor water quality, inadequate tank size, bad diet, or incompatible tank mates. It doesn't appear suddenly from good conditions.</p>",
+    "prevention": [
+      "Maintain consistent water quality long-term",
+      "Feed varied, high-quality diet",
+      "Appropriate tank size and stocking",
+      "Daily observation for early detection",
+      "Quarantine new fish"
+    ],
+    "medications": [
+      "Epsom salt (magnesium sulfate \u2014 fluid reduction)",
+      "Seachem Kanaplex (kanamycin)",
+      "API Furan-2 (nitrofurazone)",
+      "Seachem Focus (food binder for medicated food)"
+    ],
+    "quarantineDays": 21,
+    "severity": "critical",
+    "description": "Dropsy is a critical condition caused by internal organ (kidney) failure, resulting in severe bloating and pinecone-like scale protrusion. It's usually fatal by the time visible symptoms appear. Early detection and aggressive antibiotic treatment offer the best chance, but prevention through excellent husbandry is far more effective.",
+    "imageUrl": "/images/diseases/placeholder.jpg",
+    "metaTitle": "Dropsy in Fish: Causes, Treatment & Prevention Guide | World of Aquariums",
+    "metaDescription": "Complete dropsy treatment guide. Causes, symptoms (pinecone scales), Epsom salt baths, antibiotics, and honest prognosis. Prevention is the best cure.",
+    "keywords": [
+      "dropsy fish",
+      "dropsy treatment",
+      "dropsy aquarium",
+      "fish dropsy cure",
+      "pinecone scales fish",
+      "bloated fish treatment"
+    ],
+    "searchVolume": 6600
+  },
+  {
+    "slug": "swim-bladder-disease",
+    "name": "Swim Bladder Disease",
+    "type": "environmental",
+    "affectedSpecies": "freshwater",
+    "symptoms": [
+      "Fish floating at the surface unable to swim down",
+      "Fish sinking to the bottom unable to swim up",
+      "Fish swimming sideways, upside down, or in circles",
+      "Bloated or distended abdomen (constipation-related cases)",
+      "Curved spine",
+      "Loss of balance when trying to swim normally",
+      "Difficulty maintaining position in the water column"
+    ],
+    "causes": [
+      "Constipation from overfeeding or low-fiber diet (most common cause)",
+      "Swallowing air while eating floating food",
+      "Bacterial infection of the swim bladder organ",
+      "Physical injury or birth defect",
+      "Rapid temperature changes",
+      "Poor water quality causing chronic stress",
+      "Genetic predisposition in fancy goldfish (their compressed body shape makes them prone)"
+    ],
+    "treatment": "<h2 id=\"what-is-swim-bladder\">What Is Swim Bladder Disease?</h2>\n<p>The swim bladder is an internal gas-filled organ that allows fish to control their buoyancy \u2014 hovering at any depth without constantly swimming. When this organ malfunctions, fish lose the ability to maintain their position in the water column, resulting in floating, sinking, or swimming erratically.</p>\n<p>\"Swim Bladder Disease\" is actually a catch-all term for various conditions affecting buoyancy control. It's not a single disease but a symptom with multiple possible causes. The most common cause in home aquariums is <strong>constipation from overfeeding</strong> \u2014 especially in <a href=\"/fish/goldfish\">fancy goldfish</a> and <a href=\"/fish/betta-fish\">bettas</a>.</p>\n<p>The good news: constipation-related swim bladder issues are easily treatable and usually resolve within a few days. Bacterial causes are more serious but still manageable with proper medication.</p>\n\n<h2 id=\"sbd-treatment\">Treatment by Cause</h2>\n<h3>Cause: Constipation (Most Common)</h3>\n<p>If the fish is bloated and shows buoyancy problems, constipation is the most likely cause:</p>\n<ol>\n<li><strong>Fast the fish for 2\u20133 days.</strong> No food at all. This allows the digestive system to clear any blockage putting pressure on the swim bladder.</li>\n<li><strong>After fasting, feed a blanched pea.</strong> Remove the skin from a frozen pea (thaw first), and offer the soft inner portion. Peas are high in fiber and act as a natural laxative for fish. This is the classic, time-tested treatment for swim bladder issues in <a href=\"/fish/goldfish\">goldfish</a> and <a href=\"/fish/betta-fish\">bettas</a>.</li>\n<li><strong>Raise temperature slightly</strong> (by 2\u20133\u00b0F) to speed up metabolism and digestion.</li>\n<li><strong>Reduce feeding going forward:</strong> Feed smaller amounts, 2\u00d7 daily instead of one large feeding. Soak floating pellets/flakes before feeding to reduce air swallowing.</li>\n</ol>\n<p>Most constipation cases resolve within 24\u201372 hours of fasting + pea treatment.</p>\n\n<h3>Cause: Bacterial Infection</h3>\n<p>If the fish is NOT bloated and fasting/pea treatment doesn't help after 3 days:</p>\n<ul>\n<li>Isolate in a hospital tank.</li>\n<li>Treat with a broad-spectrum antibiotic (Seachem Kanaplex or API General Cure).</li>\n<li>Maintain pristine water quality during treatment.</li>\n<li>Epsom salt (1 tsp per 5 gallons) can help reduce any inflammation.</li>\n</ul>\n\n<h3>Cause: Genetic/Permanent (Fancy Goldfish)</h3>\n<p>Fancy <a href=\"/fish/goldfish\">goldfish</a> (fantails, orandas, ryukins, ranchus) are genetically predisposed to swim bladder problems due to their compressed, round body shape. For chronic/recurring cases:</p>\n<ul>\n<li>Feed sinking pellets instead of floating food (reduces air swallowing).</li>\n<li>Soak food before feeding for 1-2 minutes.</li>\n<li>Include regular blanched peas in the diet (1-2\u00d7 per week).</li>\n<li>Keep water temperature stable.</li>\n<li>Lower water level slightly to reduce the distance the fish needs to navigate vertically.</li>\n<li>In severe permanent cases, some owners create \"swim bladder harnesses\" or lower water levels permanently. The fish can still live comfortably with accommodations.</li>\n</ul>\n\n<h2 id=\"sbd-prevention\">Prevention</h2>\n<ul>\n<li><strong>Don't overfeed:</strong> Feed only what fish can consume in 2 minutes, twice daily. Overfeeding is the #1 cause.</li>\n<li><strong>Soak floating foods:</strong> 1-2 minutes in tank water before feeding reduces air swallowing.</li>\n<li><strong>Include fiber:</strong> Blanched peas, daphnia, or spirulina-based foods aid digestion.</li>\n<li><strong>Varied diet:</strong> Don't rely solely on dry pellets/flakes. Supplement with frozen foods.</li>\n<li><strong>Stable temperature:</strong> Rapid temperature changes can trigger swim bladder dysfunction. Use a reliable <a href=\"/equipment/heaters\">heater</a>.</li>\n</ul>\n\n<h2 id=\"sbd-faq\">Frequently Asked Questions</h2>\n<h3>Will swim bladder disease go away on its own?</h3>\n<p>Mild constipation-related cases sometimes resolve without intervention if the fish doesn't eat for a day or two. But active treatment (fasting + pea) resolves it faster and more reliably.</p>\n<h3>Can swim bladder disease kill fish?</h3>\n<p>The buoyancy issue itself rarely kills directly, but the fish's inability to swim normally means it can't feed properly, is more vulnerable to predators/bullying, and chronic stress weakens its immune system. Left untreated, it can contribute to decline and death.</p>\n<h3>Is swim bladder disease contagious?</h3>\n<p>No \u2014 unless caused by an infectious bacterial agent (rare). Constipation and genetic causes are not contagious at all.</p>",
+    "prevention": [
+      "Don't overfeed",
+      "Soak floating foods before feeding",
+      "Include fiber in diet (peas, daphnia)",
+      "Maintain stable water temperature",
+      "Varied diet beyond dry food"
+    ],
+    "medications": [
+      "Blanched peas (first-line for constipation)",
+      "Epsom salt (anti-inflammatory)",
+      "Seachem Kanaplex (if bacterial)",
+      "API General Cure"
+    ],
+    "quarantineDays": 7,
+    "severity": "moderate",
+    "description": "Swim bladder disease is a buoyancy disorder causing fish to float, sink, or swim erratically. Most commonly caused by constipation from overfeeding \u2014 treated by fasting 2-3 days then feeding blanched peas. Especially common in fancy goldfish and bettas. Usually resolves within days with proper treatment.",
+    "imageUrl": "/images/diseases/placeholder.jpg",
+    "metaTitle": "Swim Bladder Disease Treatment: Floating or Sinking Fish Fix | World of Aquariums",
+    "metaDescription": "Complete swim bladder disease guide. Why your fish floats sideways and how to fix it. Fasting, pea treatment, and when to medicate. Works for goldfish and bettas.",
+    "keywords": [
+      "swim bladder disease",
+      "swim bladder treatment",
+      "fish floating sideways",
+      "fish swimming upside down",
+      "goldfish swim bladder",
+      "betta swim bladder"
+    ],
+    "searchVolume": 9900
+  },
+  {
+    "slug": "velvet-disease",
+    "name": "Velvet Disease",
+    "type": "parasitic",
+    "affectedSpecies": "both",
+    "symptoms": [
+      "Fine gold, rust, or yellowish dust on skin (looks like the fish was sprinkled with gold powder)",
+      "Clamped fins",
+      "Scratching/flashing against objects",
+      "Rapid gill movement / labored breathing",
+      "Lethargy, loss of appetite",
+      "Excessive slime coat production",
+      "In advanced cases, skin peeling or ulceration"
+    ],
+    "causes": [
+      "Piscinoodinium (Oodinium) protozoan parasite (freshwater)",
+      "Amyloodinium ocellatum (saltwater)",
+      "Stress from poor water quality or temperature instability",
+      "Introduced via new fish or contaminated equipment",
+      "Present at low levels in many tanks \u2014 outbreaks triggered by immune suppression"
+    ],
+    "treatment": "<h2 id=\"what-is-velvet\">What Is Velvet?</h2>\n<p>Velvet disease (also called Gold Dust Disease or Rust Disease) is caused by the parasitic dinoflagellate Piscinoodinium pillulare in freshwater (Amyloodinium in saltwater). It's often described as \"ich's deadlier cousin\" \u2014 it presents similarly (tiny spots on the fish) but the spots are much finer, giving a dusty or velvety appearance rather than the distinct white grains of ich. Velvet is often harder to spot than ich and can be more lethal because it attacks the gills heavily, causing suffocation before the visible skin symptoms become obvious.</p>\n<p>To identify velvet, shine a flashlight on the fish at an angle in a darkened room. The fine gold/rust dust will shimmer \u2014 this is distinctive and different from the white salt-grain appearance of <a href=\"/diseases/ich-white-spot-disease\">ich</a>.</p>\n\n<h2 id=\"velvet-treatment\">Treatment</h2>\n<ol>\n<li><strong>Dim the lights or black out the tank.</strong> Piscinoodinium is partly photosynthetic \u2014 it uses light to generate energy. Reducing light weakens the parasite.</li>\n<li><strong>Raise temperature to 82\u201384\u00b0F</strong> to accelerate the parasite lifecycle.</li>\n<li><strong>Treat with copper-based medication:</strong> Copper sulfate (Seachem Cupramine) is the most effective treatment for velvet. Follow dosing instructions precisely \u2014 copper is effective but narrow therapeutic range (too little doesn't work, too much kills fish). <strong>WARNING: Copper kills all shrimp and snails. Remove invertebrates before treatment.</strong></li>\n<li><strong>Alternative: Ich-X (malachite green)</strong> if copper isn't available. Less effective against velvet than copper but still helpful, and safer for sensitive fish.</li>\n<li><strong>Add aquarium salt</strong> (1 tbsp per 5 gallons) as supportive treatment.</li>\n<li><strong>Increase aeration</strong> \u2014 velvet attacks gills, reducing oxygen uptake. <a href=\"/equipment/air-pumps\">Air pump/airstone</a> is essential during treatment.</li>\n<li><strong>Continue treatment for 14 days minimum</strong> to cover the full parasite lifecycle.</li>\n<li><strong>Remove activated carbon</strong> from <a href=\"/equipment/filters\">filter</a> during treatment.</li>\n</ol>\n\n<h2 id=\"velvet-vs-ich\">Velvet vs Ich \u2014 How to Tell the Difference</h2>\n<ul>\n<li><strong>Ich:</strong> Distinct white spots like grains of salt. Clearly visible individually.</li>\n<li><strong>Velvet:</strong> Fine dust/powder appearance \u2014 gold, rust, or yellow. Individual spots are too small to see clearly without magnification. Use a flashlight at an angle to see the shimmer.</li>\n<li><strong>Ich spots are white.</strong> Velvet dust is gold/yellow/rust.</li>\n<li><strong>Treatment overlap:</strong> Both respond to heat. Ich responds well to salt + heat alone. Velvet usually requires copper medication for effective treatment.</li>\n</ul>\n\n<h2 id=\"velvet-faq\">Frequently Asked Questions</h2>\n<h3>Is velvet more dangerous than ich?</h3>\n<p>Generally yes \u2014 velvet attacks the gills more aggressively, causing suffocation faster than ich. It's also harder to detect in early stages because the spots are so fine. By the time it's visually obvious, the infestation is often advanced.</p>\n<h3>Can I treat velvet without copper?</h3>\n<p>Copper is the most effective treatment. Malachite green (Ich-X) is a reasonable alternative that's safer for sensitive fish. Heat + salt alone (as with ich) is less reliable for velvet but can help in mild cases.</p>",
+    "prevention": [
+      "Quarantine new fish for 2-4 weeks",
+      "Maintain stable water temperature",
+      "Keep water quality pristine",
+      "Avoid stress from overcrowding",
+      "UV sterilizer kills free-swimming parasites"
+    ],
+    "medications": [
+      "Seachem Cupramine (copper sulfate \u2014 most effective)",
+      "Hikari Ich-X (malachite green)",
+      "Aquarium salt (supportive)",
+      "API Super Ick Cure (malachite green alternative)"
+    ],
+    "quarantineDays": 14,
+    "severity": "severe",
+    "description": "Velvet disease creates a fine gold/rust dust appearance on fish skin and is more lethal than ich because it attacks gills aggressively. Treated with copper medication (Cupramine) in a darkened tank. Often harder to detect than ich \u2014 use a flashlight at an angle to spot the characteristic shimmer.",
+    "imageUrl": "/images/diseases/placeholder.jpg",
+    "metaTitle": "Velvet Disease (Gold Dust Disease) Treatment Guide | World of Aquariums",
+    "metaDescription": "Complete velvet disease treatment guide. How to identify gold/rust dust on fish, treat with copper medication, and distinguish from ich. Darken tank + Cupramine.",
+    "keywords": [
+      "velvet disease fish",
+      "velvet aquarium",
+      "gold dust disease fish",
+      "oodinium treatment",
+      "velvet vs ich"
+    ],
+    "searchVolume": 3600
+  },
+  {
+    "slug": "columnaris",
+    "name": "Columnaris (Cotton Wool Disease)",
+    "type": "bacterial",
+    "affectedSpecies": "freshwater",
+    "symptoms": [
+      "White or grayish-white patches on skin, fins, or mouth that look like cotton or wool",
+      "Mouth erosion (often called 'mouth fungus' though it's bacterial)",
+      "Frayed fins with white edges",
+      "Saddle-shaped lesion across the back (classic sign)",
+      "Rapid gill deterioration",
+      "Lethargy and loss of appetite",
+      "Can kill within 24-72 hours in acute form"
+    ],
+    "causes": [
+      "Flavobacterium columnare bacteria",
+      "Always present in most aquarium water \u2014 opportunistic when fish immune system is compromised",
+      "Poor water quality (especially high nitrate)",
+      "Temperature above 80\u00b0F accelerates bacterial growth",
+      "Physical injury creates entry points for infection",
+      "Overcrowding and stress"
+    ],
+    "treatment": "<h2 id=\"what-is-columnaris\">What Is Columnaris?</h2>\n<p>Columnaris (Flavobacterium columnare) is one of the most misunderstood aquarium diseases \u2014 it's frequently misdiagnosed as a fungus because the white, cottony patches look fungal, but it's actually a gram-negative bacterial infection. This distinction is critical because antifungal medications don't work against columnaris, and using the wrong treatment wastes precious time while the disease progresses.</p>\n<p>Columnaris exists in two forms:</p>\n<ul>\n<li><strong>Chronic (slow):</strong> Develops over days to weeks. White patches spread gradually, fins erode, mouth may develop sores. Treatable if caught early.</li>\n<li><strong>Acute (fast):</strong> Can kill fish within 24\u201372 hours. Often presents as sudden gill failure \u2014 the fish appears normal one day and is dead the next. By the time external symptoms appear, internal damage may be fatal.</li>\n</ul>\n<p>Columnaris thrives in warm water (above 77\u00b0F) \u2014 unlike ich treatment where you raise temperature, <strong>with columnaris you should LOWER the temperature</strong> to 72\u201375\u00b0F to slow bacterial growth.</p>\n\n<h2 id=\"columnaris-treatment\">Treatment</h2>\n<ol>\n<li><strong>Lower temperature to 72\u201375\u00b0F</strong> gradually. Columnaris bacteria are more active in warm water \u2014 cooling slows their reproduction.</li>\n<li><strong>Medicate with antibiotics:</strong>\n<ul>\n<li><strong>Seachem Kanaplex + Furan-2 combo:</strong> The most recommended treatment protocol in the hobby. Kanaplex (kanamycin) and Furan-2 (nitrofurazone) together cover a broad antibacterial spectrum. Dose both simultaneously per their respective instructions.</li>\n<li><strong>API E.M. Erythromycin:</strong> Effective for milder cases.</li>\n<li><strong>Aquarium salt:</strong> 1 tablespoon per 3 gallons can help \u2014 Flavobacterium doesn't tolerate salt well.</li>\n</ul></li>\n<li><strong>Improve water quality immediately:</strong> 50% water change, clean <a href=\"/equipment/filters\">filter</a>, test with <a href=\"/equipment/test-kits\">test kits</a>.</li>\n<li><strong>Remove activated carbon</strong> from filter during treatment.</li>\n<li><strong>Treat the entire tank</strong> \u2014 columnaris is highly contagious among stressed fish.</li>\n</ol>\n\n<h2 id=\"columnaris-vs-fungus\">Columnaris vs True Fungus \u2014 How to Tell</h2>\n<ul>\n<li><strong>Columnaris (bacterial):</strong> White/gray patches that may look cottony. Often starts at the mouth, edges of fins, or appears as a saddle-shaped lesion on the back. Progresses rapidly. More common in warm water.</li>\n<li><strong>True fungus (Saprolegnia):</strong> Fluffy white growths that look like cotton balls. Usually appears on wounds or dead tissue. Grows more slowly. More common in cool water.</li>\n<li><strong>Key distinction:</strong> If the white patches spread rapidly and the fish deteriorates quickly, suspect columnaris. If growth is slow and localized to a wound, suspect fungus.</li>\n<li><strong>When in doubt:</strong> Treat with Kanaplex + Furan-2 (covers both bacterial and has some antifungal action).</li>\n</ul>\n\n<h2 id=\"columnaris-faq\">Frequently Asked Questions</h2>\n<h3>Why is columnaris called mouth fungus if it's bacterial?</h3>\n<p>The cottony white appearance at the mouth mimics fungal growth. The name \"mouth fungus\" predates the identification of the bacterial cause (Flavobacterium columnare). Despite the misleading name, antifungal medications won't work \u2014 antibacterials are required.</p>\n<h3>How fast does columnaris kill?</h3>\n<p>The acute form can kill within 24\u201372 hours. The chronic form progresses over days to weeks. Speed of treatment is critical \u2014 if you suspect columnaris, begin treatment immediately rather than waiting to see if it improves.</p>",
+    "prevention": [
+      "Maintain excellent water quality",
+      "Avoid temperatures above 80\u00b0F unless necessary",
+      "Quarantine new fish",
+      "Avoid overcrowding",
+      "Minimize physical injuries from sharp decorations or aggressive tank mates"
+    ],
+    "medications": [
+      "Seachem Kanaplex + Furan-2 combo (gold standard)",
+      "API E.M. Erythromycin",
+      "Aquarium salt (supportive \u2014 1 tbsp per 3 gal)",
+      "Seachem Sulfaplex"
+    ],
+    "quarantineDays": 14,
+    "severity": "severe",
+    "description": "Columnaris is a highly contagious bacterial infection often mistaken for fungus due to its white, cottony appearance. Unlike ich, LOWER temperature to slow it. Treat with Kanaplex + Furan-2 antibiotic combo. Acute form can kill within 24-72 hours \u2014 speed is critical.",
+    "imageUrl": "/images/diseases/placeholder.jpg",
+    "metaTitle": "Columnaris (Cotton Wool Disease) Treatment Guide | World of Aquariums",
+    "metaDescription": "Complete columnaris treatment guide. Bacterial infection that looks like fungus. Kanaplex + Furan-2 treatment, temperature management, and how to distinguish from true fungus.",
+    "keywords": [
+      "columnaris",
+      "columnaris disease",
+      "cotton wool disease fish",
+      "mouth fungus fish",
+      "columnaris treatment",
+      "white patches on fish"
+    ],
+    "searchVolume": 2900
+  },
+  {
+    "slug": "neon-tetra-disease",
+    "name": "Neon Tetra Disease",
+    "type": "parasitic",
+    "affectedSpecies": "freshwater",
+    "symptoms": [
+      "Loss of color \u2014 the neon blue/red stripe fades or becomes patchy",
+      "White or pale patches under the skin (muscle tissue damage visible through skin)",
+      "Fish separates from the school and swims alone",
+      "Erratic swimming or difficulty maintaining balance",
+      "Curved or lumpy spine",
+      "Wasting/thinning despite eating",
+      "Secondary infections may cause fin rot or bloating"
+    ],
+    "causes": [
+      "Pleistophora hyphessobryconis microsporidian parasite",
+      "Transmitted by eating infected tissue (dead fish, contaminated food)",
+      "Cannot be transmitted through water alone \u2014 requires ingestion",
+      "Most commonly affects neon tetras but can infect other tetra species, danios, rasboras, and barbs"
+    ],
+    "treatment": "<h2 id=\"what-is-ntd\">What Is Neon Tetra Disease?</h2>\n<p>Neon Tetra Disease (NTD) is caused by the microsporidian parasite Pleistophora hyphessobryconis. The parasite invades the muscle tissue of infected fish, destroying it from the inside. As muscle tissue dies, the fish loses its characteristic coloration \u2014 the vibrant blue and red stripes of a <a href=\"/fish/neon-tetra\">neon tetra</a> fade to patchy, dull, or white.</p>\n<p><strong>The difficult reality: There is no known cure for Neon Tetra Disease.</strong> Once a fish is infected, the parasite progressively destroys muscle tissue until the fish dies. Treatment focuses entirely on preventing spread to other fish.</p>\n\n<h2 id=\"ntd-response\">What to Do</h2>\n<ol>\n<li><strong>Remove the infected fish immediately.</strong> NTD spreads when other fish eat infected tissue \u2014 if the diseased fish dies and tank mates nibble the body, they become infected. Remove as soon as symptoms are identified.</li>\n<li><strong>Do NOT return the fish to the main tank.</strong> There is no treatment that cures NTD. The infected fish should be isolated permanently or humanely euthanized.</li>\n<li><strong>Monitor remaining fish closely</strong> for the next 4\u20136 weeks for any signs of color loss or behavioral changes.</li>\n<li><strong>Maintain pristine water quality</strong> to support the immune systems of remaining fish.</li>\n<li><strong>Remove any dead fish immediately</strong> \u2014 ingesting infected tissue is the primary transmission route.</li>\n</ol>\n\n<h2 id=\"ntd-vs-false-ntd\">True NTD vs False Neon Tetra Disease</h2>\n<p>\"False Neon Tetra Disease\" is a bacterial infection (Nocardia or mycobacterial) that produces similar symptoms \u2014 color loss, wasting, erratic swimming. Unlike true NTD:</p>\n<ul>\n<li>False NTD may respond to antibiotics (Kanaplex, Furan-2)</li>\n<li>False NTD is caused by bacteria, not a microsporidian parasite</li>\n<li>Without microscopic examination, it's difficult to distinguish between the two</li>\n</ul>\n<p>If you suspect NTD, isolate the fish and try antibiotic treatment. If the fish responds and improves, it was likely false NTD (bacterial). If it doesn't respond, it's likely true NTD (untreatable).</p>\n\n<h2 id=\"ntd-prevention\">Prevention</h2>\n<ul>\n<li><strong>Quarantine all new fish</strong> for 4 weeks before adding to your main tank.</li>\n<li><strong>Buy from reputable sources:</strong> NTD is most commonly introduced via mass-bred, poorly quarantined fish from large-scale suppliers.</li>\n<li><strong>Remove dead fish immediately:</strong> Don't let fish bodies remain in the tank where other fish can nibble on them.</li>\n<li><strong>Maintain good nutrition and water quality:</strong> Healthy immune systems help resist infection.</li>\n</ul>\n\n<h2 id=\"ntd-faq\">Frequently Asked Questions</h2>\n<h3>Can neon tetra disease be cured?</h3>\n<p>True Neon Tetra Disease (Pleistophora) has no known cure. Infected fish should be isolated and humanely euthanized to prevent transmission. \"False\" NTD (bacterial) may respond to antibiotics.</p>\n<h3>Can other fish get neon tetra disease?</h3>\n<p>Yes \u2014 despite the name, NTD can infect other tetra species, <a href=\"/fish/harlequin-rasbora\">rasboras</a>, danios, and barbs. Any fish that eats infected tissue is at risk.</p>",
+    "prevention": [
+      "Quarantine new fish for 4 weeks",
+      "Buy from reputable sources",
+      "Remove dead fish immediately",
+      "Maintain pristine water quality"
+    ],
+    "medications": [
+      "No known cure for true NTD",
+      "Kanaplex (for suspected false/bacterial NTD)",
+      "Furan-2 (for suspected false/bacterial NTD)"
+    ],
+    "quarantineDays": 28,
+    "severity": "critical",
+    "description": "Neon Tetra Disease is an incurable parasitic infection that destroys muscle tissue, causing color loss and wasting. No treatment exists \u2014 infected fish must be removed immediately to prevent spread. Prevention through quarantine and removing dead fish is the only defense.",
+    "imageUrl": "/images/diseases/placeholder.jpg",
+    "metaTitle": "Neon Tetra Disease: Symptoms, Prevention & What to Do | World of Aquariums",
+    "metaDescription": "Neon Tetra Disease guide. Incurable parasitic infection causing color loss. How to identify, prevent spread, and distinguish from treatable bacterial infections.",
+    "keywords": [
+      "neon tetra disease",
+      "neon tetra fish disease",
+      "NTD fish",
+      "neon tetra losing color",
+      "tetra disease treatment"
+    ],
+    "searchVolume": 3600
+  },
+  {
+    "slug": "aquarium-salt-guide",
+    "name": "Aquarium Salt: Complete Usage Guide",
+    "type": "environmental",
+    "affectedSpecies": "freshwater",
+    "symptoms": [],
+    "causes": [],
+    "treatment": "<h2 id=\"what-is-aquarium-salt\">What Is Aquarium Salt?</h2>\n<p>Aquarium salt is pure sodium chloride (NaCl) without any additives \u2014 no iodine, no anti-caking agents, no minerals. It's different from table salt (which contains iodine and anti-caking agents), marine/reef salt (which contains a complex mineral mix to replicate ocean water), and Epsom salt (which is magnesium sulfate). Using the wrong salt can harm or kill fish.</p>\n<p>Aquarium salt has been used in fishkeeping for decades as a versatile, gentle remedy for various conditions. It works by creating osmotic stress on pathogens (parasites, bacteria, fungi) while being tolerated by most freshwater fish at therapeutic doses.</p>\n\n<h2 id=\"when-to-use\">When to Use Aquarium Salt</h2>\n<ul>\n<li><strong><a href=\"/diseases/ich-white-spot-disease\">Ich (White Spot Disease)</a>:</strong> 1 tablespoon per 5 gallons combined with raised temperature. Salt dehydrates the free-swimming ich parasites.</li>\n<li><strong><a href=\"/diseases/fin-rot\">Fin rot</a>:</strong> 1 tablespoon per 5 gallons as a first-line mild antibacterial treatment before resorting to antibiotics.</li>\n<li><strong><a href=\"/diseases/velvet-disease\">Velvet</a>:</strong> 1 tablespoon per 5 gallons as supportive treatment alongside copper medication.</li>\n<li><strong>General stress recovery:</strong> 1 teaspoon per 5 gallons (lower dose) to support fish recovering from transport, injury, or tank changes. Salt slightly stimulates slime coat production, which protects healing tissue.</li>\n<li><strong>Nitrite poisoning emergency:</strong> 1 teaspoon per 10 gallons can help fish survive nitrite spikes by blocking nitrite uptake through the gills (chloride ions compete with nitrite ions at the gill membrane).</li>\n<li><strong>External parasite dips:</strong> Short-term concentrated salt baths (4-5 tablespoons per gallon for 5-10 minutes) to remove external parasites. Monitor fish closely \u2014 remove immediately if distressed.</li>\n</ul>\n\n<h2 id=\"how-to-dose\">How to Dose Aquarium Salt</h2>\n<ol>\n<li><strong>Calculate your tank volume</strong> (use our <a href=\"/calculators/tank-volume\">tank volume calculator</a> for accuracy).</li>\n<li><strong>Dissolve the salt</strong> in a cup of tank water BEFORE adding to the tank. Never dump undissolved salt directly into the aquarium.</li>\n<li><strong>Add gradually</strong> over 1\u20132 hours, distributing around the tank.</li>\n<li><strong>Track your salt level:</strong> Salt does NOT evaporate \u2014 it only leaves the tank through water removal. If you add 5 tablespoons to your tank and then do a 25% water change, you've removed 25% of the salt. Only re-dose for the new water added, not the full tank volume.</li>\n<li><strong>To remove salt after treatment:</strong> Perform regular water changes without re-dosing salt. After 3\u20134 water changes of 25%, the salt concentration is negligible.</li>\n</ol>\n\n<h2 id=\"salt-sensitive-species\">Salt-Sensitive Species (Use Caution or Avoid)</h2>\n<ul>\n<li><strong><a href=\"/fish/corydoras-catfish\">Corydoras catfish</a>:</strong> Scaleless fish \u2014 sensitive to salt. Use half doses maximum, or avoid entirely.</li>\n<li><strong><a href=\"/fish/kuhli-loach\">Kuhli loaches</a>:</strong> Scaleless \u2014 sensitive. Half dose or avoid.</li>\n<li><strong><a href=\"/fish/otocinclus\">Otocinclus</a>:</strong> Sensitive \u2014 use half dose or avoid.</li>\n<li><strong>Most tetras:</strong> Tolerate low doses (1 tsp per 5 gal) but sensitive to higher therapeutic doses. Monitor closely.</li>\n<li><strong><a href=\"/fish/cherry-shrimp\">Shrimp</a> (all species):</strong> Very sensitive. Avoid salt in shrimp tanks entirely or use minimal doses (1 tsp per 10 gal max).</li>\n<li><strong>Live <a href=\"/plants\">plants</a>:</strong> Most plants tolerate low salt doses but prolonged exposure or high doses can damage sensitive species. <a href=\"/plants/vallisneria\">Vallisneria</a> is particularly salt-sensitive.</li>\n</ul>\n<p>Fish that tolerate salt well: <a href=\"/fish/goldfish\">goldfish</a>, <a href=\"/fish/guppy\">guppies</a>, <a href=\"/fish/molly\">mollies</a>, <a href=\"/fish/platy\">platies</a>, <a href=\"/fish/swordtail\">swordtails</a> (livebearers generally handle salt very well).</p>\n\n<h2 id=\"salt-mistakes\">Common Aquarium Salt Mistakes</h2>\n<ul>\n<li><strong>Using table salt:</strong> Table salt contains iodine and anti-caking agents that can harm fish. Always use pure aquarium salt, kosher salt (no additives), or pure NaCl.</li>\n<li><strong>Using marine salt:</strong> Marine/reef salt contains a complex mineral mix designed for saltwater tanks. It changes GH, KH, and pH \u2014 not appropriate for freshwater disease treatment.</li>\n<li><strong>Not tracking salt levels:</strong> Because salt doesn't evaporate, topping off evaporated water increases salinity. Only add salt proportional to water REMOVED, not water REPLACED due to evaporation.</li>\n<li><strong>Long-term use in freshwater tanks:</strong> Aquarium salt is a treatment, not a permanent additive. Prolonged use stresses freshwater fish and damages plants. Use for the treatment period only, then remove through water changes.</li>\n</ul>\n\n<h2 id=\"salt-faq\">Frequently Asked Questions</h2>\n<h3>Is aquarium salt safe for betta fish?</h3>\n<p>Yes \u2014 <a href=\"/fish/betta-fish\">bettas</a> tolerate aquarium salt well at standard therapeutic doses (1 tbsp per 5 gal). It's a common first-line treatment for betta <a href=\"/diseases/fin-rot\">fin rot</a> and <a href=\"/diseases/ich-white-spot-disease\">ich</a>.</p>\n<h3>Is aquarium salt safe for goldfish?</h3>\n<p>Yes \u2014 <a href=\"/fish/goldfish\">goldfish</a> tolerate salt very well. Many goldfish keepers use periodic salt treatments as preventive care. 1 tablespoon per 5 gallons is standard.</p>\n<h3>Aquarium salt vs Epsom salt \u2014 what's the difference?</h3>\n<p>Aquarium salt is sodium chloride (NaCl) \u2014 antibacterial, antiparasitic, slime coat stimulant. Epsom salt is magnesium sulfate (MgSO4) \u2014 reduces swelling and acts as a muscle relaxant/laxative. They serve different purposes and are NOT interchangeable. Use Epsom salt for <a href=\"/diseases/dropsy\">dropsy</a> (fluid retention). Use aquarium salt for infections and parasites.</p>",
+    "prevention": [],
+    "medications": [
+      "API Aquarium Salt",
+      "Morton's Kosher Salt (no additives)",
+      "Any pure sodium chloride without iodine or anti-caking agents"
+    ],
+    "quarantineDays": 0,
+    "severity": "mild",
+    "description": "Aquarium salt is a versatile, gentle remedy for ich, fin rot, velvet, and general stress recovery. This guide covers proper dosing, salt-sensitive species to watch out for, and common mistakes to avoid. Not a permanent additive \u2014 use only during treatment periods.",
+    "imageUrl": "/images/diseases/placeholder.jpg",
+    "metaTitle": "Aquarium Salt Guide: Dosing, Uses & Salt-Sensitive Fish | World of Aquariums",
+    "metaDescription": "Complete aquarium salt guide. How to dose, which diseases it treats (ich, fin rot), salt-sensitive species, and common mistakes. Aquarium salt vs Epsom salt explained.",
+    "keywords": [
+      "aquarium salt",
+      "aquarium salt for betta",
+      "aquarium salt for fin rot",
+      "aquarium salt for ich",
+      "aquarium salt dosage",
+      "aquarium salt for goldfish",
+      "aquarium salt freshwater"
+    ],
+    "searchVolume": 18100
+  }
+]
