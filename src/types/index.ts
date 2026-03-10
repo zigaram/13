@@ -70,6 +70,7 @@ export interface TankSize {
   recommendedHeater: string;
   idealFor: string[];
   description: string;
+  careGuide: string; // HTML content
   metaTitle: string;
   metaDescription: string;
   keywords: string[];
