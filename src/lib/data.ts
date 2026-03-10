@@ -112,6 +112,23 @@ export async function getCompatibility(fishA: string, fishB: string): Promise<Co
 }
 
 // ============================================================
+// EQUIPMENT REVIEWS
+// ============================================================
+export async function getAllEquipmentReviews(): Promise<any[]> {
+  try {
+    const data = await import('@/data/equipment-reviews.json');
+    return data.default as any[];
+  } catch {
+    return [];
+  }
+}
+
+export async function getEquipmentReviewBySlug(slug: string): Promise<any | null> {
+  const all = await getAllEquipmentReviews();
+  return all.find((r: any) => r.slug === slug) ?? null;
+}
+
+// ============================================================
 // ARTICLES (MDX-based editorial content)
 // ============================================================
 export async function getAllArticles(): Promise<Article[]> {
