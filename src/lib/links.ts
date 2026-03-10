@@ -72,6 +72,75 @@ export function getFishRelatedLinks(fish: FishSpecies): InternalLink[] {
 }
 
 /**
+ * Given a plant species page, generate related links for:
+ * - Other plants with same placement
+ * - Equipment (lights, CO2, substrate)
+ * - Fish that pair well with plants
+ * - Calculators
+ */
+export function getPlantRelatedLinks(plant: PlantSpecies): InternalLink[] {
+  const links: InternalLink[] = [];
+
+  // Equipment links
+  links.push({
+    href: '/equipment/lights',
+    text: `Best Lights for ${plant.lightRequirement === 'high' ? 'High' : plant.lightRequirement === 'medium' ? 'Medium' : 'Low'} Light Plants`,
+    title: `Lighting guide for ${plant.name}`,
+    type: 'review',
+  });
+
+  if (plant.co2Required || plant.co2Recommended) {
+    links.push({
+      href: '/equipment/co2',
+      text: 'Best CO2 Systems for Planted Tanks',
+      title: 'CO2 injection guide',
+      type: 'review',
+    });
+  }
+
+  links.push({
+    href: '/equipment/substrate',
+    text: 'Best Substrates for Planted Tanks',
+    title: 'Substrate guide for aquarium plants',
+    type: 'review',
+  });
+
+  // Calculators
+  links.push({
+    href: '/calculators/tank-volume',
+    text: 'Tank Volume Calculator',
+    title: 'Calculate your tank volume',
+    type: 'calculator',
+  });
+
+  // Related guides
+  links.push({
+    href: '/water-chemistry/how-to-cycle-fish-tank',
+    text: 'How to Cycle a Fish Tank',
+    title: 'Nitrogen cycle guide',
+    type: 'guide',
+  });
+
+  // Fish section
+  links.push({
+    href: '/fish',
+    text: 'Fish & Species Guide',
+    title: 'Browse compatible fish',
+    type: 'fish',
+  });
+
+  // All plants
+  links.push({
+    href: '/plants',
+    text: 'All Aquarium Plants',
+    title: 'Browse all plants',
+    type: 'plant',
+  });
+
+  return links;
+}
+
+/**
  * Given a tank size page, generate related links for:
  * - Fish that fit this tank
  * - Best filter for this size
