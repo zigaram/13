@@ -61,6 +61,7 @@ const POPULAR_GUIDES = [
   { title: 'Aquarium Salt Guide', href: '/diseases/aquarium-salt-guide' },
   { title: 'Java Fern Care Guide', href: '/plants/java-fern' },
   { title: 'Best Aquarium Substrate', href: '/equipment/substrate' },
+  { title: 'Stocking Calculator', href: '/calculators/stocking' },
 ];
 
 const POPULAR_FISH = [

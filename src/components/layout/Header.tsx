@@ -73,8 +73,9 @@ const NAV_ITEMS = [
   },
   {
     label: 'Calculators',
-    href: '/calculators/tank-volume',
+    href: '/calculators',
     children: [
+      { label: 'Stocking Calculator', href: '/calculators/stocking' },
       { label: 'Tank Volume Calculator', href: '/calculators/tank-volume' },
     ],
   },
