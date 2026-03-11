@@ -184,3 +184,31 @@ export async function getAllSitemapUrls(): Promise<{ url: string; lastmod: strin
 
   return urls;
 }
+
+// ============================================================
+// COMPATIBILITY (programmatic)
+// ============================================================
+export async function getAllCompatibilityPairs(): Promise<any[]> {
+  try {
+    const data = await import('@/data/compatibility.json');
+    return data.default as any[];
+  } catch {
+    return [];
+  }
+}
+
+export async function getCompatibilityByPair(pair: string): Promise<any | null> {
+  const all = await getAllCompatibilityPairs();
+  // pair format: "betta-fish-and-neon-tetra"
+  const parts = pair.split('-and-');
+  if (parts.length !== 2) return null;
+  const [a, b] = parts;
+  return all.find((c: any) =>
+    (c.fishA === a && c.fishB === b) || (c.fishA === b && c.fishB === a)
+  ) ?? null;
+}
+
+export async function getCompatibilityPairSlugs(): Promise<string[]> {
+  const all = await getAllCompatibilityPairs();
+  return all.map((c: any) => `${c.fishA}-and-${c.fishB}`);
+}

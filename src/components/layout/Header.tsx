@@ -68,6 +68,7 @@ const NAV_ITEMS = [
       { label: 'Fish Diseases', href: '/diseases' },
       { label: 'Algae Control', href: '/algae' },
       { label: 'Cloudy Water Fix', href: '/maintenance/cloudy-water' },
+      { label: 'Fish Compatibility', href: '/compatibility' },
     ],
   },
   {

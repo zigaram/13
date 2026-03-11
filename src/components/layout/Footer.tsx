@@ -44,6 +44,7 @@ const FOOTER_LINKS = {
     { label: 'Algae Control', href: '/algae' },
     { label: 'Cloudy Water Fix', href: '/maintenance/cloudy-water' },
     { label: 'Aquarium Plants', href: '/plants' },
+    { label: 'Fish Compatibility Checker', href: '/compatibility' },
     { label: 'Tank Volume Calculator', href: '/calculators/tank-volume' },
   ],
 };
