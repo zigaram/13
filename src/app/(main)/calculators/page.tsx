@@ -12,14 +12,35 @@ export const metadata: Metadata = {
 const CALCULATORS = [
   {
     title: 'Stocking Calculator',
-    description: 'How many fish can your tank handle? Add species and get real-time bioload analysis, compatibility checks, and schooling warnings. Animated tank visualization included.',
+    description: 'How many fish can your tank handle? Add species and get real-time bioload analysis, compatibility checks, and schooling warnings.',
     href: '/calculators/stocking',
     emoji: '🐟',
     badge: 'Most Popular',
   },
   {
+    title: 'Water Change Calculator',
+    description: 'Calculate exact water change percentage based on nitrate levels. Includes personalized maintenance schedule and before/after visualization.',
+    href: '/calculators/water-change',
+    emoji: '💧',
+    badge: 'New',
+  },
+  {
+    title: 'Heater Size Calculator',
+    description: 'Find the right wattage heater based on tank size, room temperature, and target temperature. Product recommendations included.',
+    href: '/calculators/heater-size',
+    emoji: '🌡️',
+    badge: null,
+  },
+  {
+    title: 'Substrate Calculator',
+    description: 'How much gravel, sand, or aquasoil do you need? Supports sloped aquascaping layouts. Cost estimates included.',
+    href: '/calculators/substrate',
+    emoji: '⛰️',
+    badge: null,
+  },
+  {
     title: 'Tank Volume Calculator',
-    description: 'Calculate gallons and liters for rectangular, bowfront, cylinder, and hexagonal tanks. Includes common tank size presets.',
+    description: 'Calculate gallons and liters for rectangular, bowfront, cylinder, and hexagonal tanks. Common tank size presets.',
     href: '/calculators/tank-volume',
     emoji: '📐',
     badge: null,

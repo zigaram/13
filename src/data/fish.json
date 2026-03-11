@@ -2530,5 +2530,1120 @@
     "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<ul>\n<li><strong>Tank size:</strong> 10 gallons for 6. They are extremely active swimmers and need horizontal swimming space despite their small size.</li>\n<li><strong>Flow:</strong> Moderate \u2014 they enjoy swimming against current</li>\n<li><strong>Lid:</strong> Important \u2014 zebra danios are jumpers when excited or startled</li>\n</ul>\n\n<h2 id=\"water-parameters\">Water Parameters</h2>\n<ul>\n<li>Temperature: 65\u201377\u00b0F \u2014 one of the widest temperature ranges of any aquarium fish</li>\n<li>pH: 6.5\u20137.5</li>\n<li>GH: 5\u201319 dGH</li>\n</ul>\n\n<h2 id=\"hardiness\">Extreme Hardiness</h2>\n<p>Zebra danios are often used to cycle new tanks because they tolerate ammonia and nitrite better than almost any other species. While this isn't a recommended practice (fishless cycling is better for the fish), it speaks to their incredible toughness. They tolerate temperature swings, pH fluctuations, and less-than-perfect water quality that would stress most species.</p>\n\n<h2 id=\"glofish\">GloFish Connection</h2>\n<p>Zebra danios are the original GloFish species. The fluorescent genes (from jellyfish and coral) were originally inserted for scientific research \u2014 to create fish that glow in the presence of environmental toxins. The ornamental fish hobby adopted them as novelty pets. GloFish danios have identical care requirements to standard zebra danios.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Good with most community fish. Their speed and energy can intimidate very slow or timid species. Avoid keeping with long-finned, slow fish like bettas \u2014 while danios aren't true fin nippers, their constant zooming can stress calm fish.</p>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>Are zebra danios good for cycling a tank?</h3>\n<p>They can survive it, but fishless cycling is always preferred. No fish should be subjected to ammonia and nitrite exposure intentionally. If you must fish-in cycle, danios are the most tolerant species, but monitor water parameters closely and do frequent water changes.</p>",
     "metaTitle": "Zebra Danio Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
     "metaDescription": "Complete Zebra Danio care guide. Learn about tank size (10+ gal), water parameters, diet, compatible tank mates, and more."
+  },
+  {
+    "slug": "electric-yellow-cichlid",
+    "name": "Electric Yellow Cichlid",
+    "scientificName": "Labidochromis caeruleus",
+    "family": "Cichlidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "intermediate",
+    "temperament": "semi-aggressive",
+    "diet": "Omnivore \u2014 spirulina flakes, pellets, occasional brine shrimp.",
+    "minTankSize": 30,
+    "maxSize": 4,
+    "temperature": {
+      "min": 75,
+      "max": 82
+    },
+    "ph": {
+      "min": 7.8,
+      "max": 8.6
+    },
+    "lifespan": "6-10 years",
+    "schooling": false,
+    "compatibleWith": [
+      "bristlenose-pleco",
+      "synodontis-catfish"
+    ],
+    "incompatibleWith": [
+      "neon-tetra",
+      "cherry-shrimp",
+      "guppy",
+      "betta-fish"
+    ],
+    "searchVolume": 14800,
+    "keywords": [
+      "electric yellow cichlid",
+      "yellow lab cichlid"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Electric Yellow Cichlid (Labidochromis caeruleus) is a intermediate-level freshwater fish growing to 4 inches. Semi-aggressive temperament, minimum 30 gallon tank.",
+    "metaTitle": "Electric Yellow Cichlid Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Electric Yellow Cichlid care guide. Tank size (30+ gal), temperature (75-82\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">30 gallon tank</a> with temperature 75\u201382\u00b0F and pH 7.8\u20138.6. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Omnivore \u2014 spirulina flakes, pellets, occasional brine shrimp. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "peacock-cichlid",
+    "name": "Peacock Cichlid",
+    "scientificName": "Aulonocara spp.",
+    "family": "Cichlidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "intermediate",
+    "temperament": "semi-aggressive",
+    "diet": "Omnivore \u2014 cichlid pellets, frozen brine shrimp, mysis shrimp.",
+    "minTankSize": 55,
+    "maxSize": 6,
+    "temperature": {
+      "min": 76,
+      "max": 82
+    },
+    "ph": {
+      "min": 7.8,
+      "max": 8.6
+    },
+    "lifespan": "8-10 years",
+    "schooling": false,
+    "compatibleWith": [
+      "electric-yellow-cichlid",
+      "synodontis-catfish",
+      "bristlenose-pleco"
+    ],
+    "incompatibleWith": [
+      "neon-tetra",
+      "cherry-shrimp",
+      "guppy",
+      "betta-fish",
+      "discus"
+    ],
+    "searchVolume": 9900,
+    "keywords": [
+      "peacock cichlid"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Peacock Cichlid (Aulonocara spp.) is a intermediate-level freshwater fish growing to 6 inches. Semi-aggressive temperament, minimum 55 gallon tank.",
+    "metaTitle": "Peacock Cichlid Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Peacock Cichlid care guide. Tank size (55+ gal), temperature (76-82\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">55 gallon tank</a> with temperature 76\u201382\u00b0F and pH 7.8\u20138.6. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Omnivore \u2014 cichlid pellets, frozen brine shrimp, mysis shrimp. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "bolivian-ram",
+    "name": "Bolivian Ram",
+    "scientificName": "Mikrogeophagus altispinosus",
+    "family": "Cichlidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 small pellets, frozen bloodworms, brine shrimp, daphnia.",
+    "minTankSize": 20,
+    "maxSize": 3.5,
+    "temperature": {
+      "min": 72,
+      "max": 79
+    },
+    "ph": {
+      "min": 6.0,
+      "max": 7.5
+    },
+    "lifespan": "4-5 years",
+    "schooling": false,
+    "compatibleWith": [
+      "neon-tetra",
+      "corydoras-catfish",
+      "harlequin-rasbora",
+      "cherry-shrimp",
+      "bristlenose-pleco"
+    ],
+    "incompatibleWith": [
+      "african-cichlid",
+      "oscar-fish"
+    ],
+    "searchVolume": 4400,
+    "keywords": [
+      "bolivian ram"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Bolivian Ram (Mikrogeophagus altispinosus) is a beginner-level freshwater fish growing to 3.5 inches. Peaceful temperament, minimum 20 gallon tank.",
+    "metaTitle": "Bolivian Ram Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Bolivian Ram care guide. Tank size (20+ gal), temperature (72-79\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">20 gallon tank</a> with temperature 72\u201379\u00b0F and pH 6.0\u20137.5. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Omnivore \u2014 small pellets, frozen bloodworms, brine shrimp, daphnia. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "apistogramma",
+    "name": "Apistogramma",
+    "scientificName": "Apistogramma cacatuoides",
+    "family": "Cichlidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "intermediate",
+    "temperament": "semi-aggressive",
+    "diet": "Carnivore \u2014 frozen bloodworms, brine shrimp, daphnia, micro pellets.",
+    "minTankSize": 20,
+    "maxSize": 3,
+    "temperature": {
+      "min": 73,
+      "max": 84
+    },
+    "ph": {
+      "min": 5.0,
+      "max": 7.0
+    },
+    "lifespan": "3-5 years",
+    "schooling": false,
+    "compatibleWith": [
+      "neon-tetra",
+      "ember-tetra",
+      "corydoras-catfish",
+      "otocinclus",
+      "cherry-shrimp"
+    ],
+    "incompatibleWith": [
+      "african-cichlid",
+      "oscar-fish",
+      "betta-fish"
+    ],
+    "searchVolume": 8100,
+    "keywords": [
+      "apistogramma",
+      "dwarf cichlid"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Apistogramma (Apistogramma cacatuoides) is a intermediate-level freshwater fish growing to 3 inches. Semi-aggressive temperament, minimum 20 gallon tank.",
+    "metaTitle": "Apistogramma Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Apistogramma care guide. Tank size (20+ gal), temperature (73-84\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">20 gallon tank</a> with temperature 73\u201384\u00b0F and pH 5.0\u20137.0. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Carnivore \u2014 frozen bloodworms, brine shrimp, daphnia, micro pellets. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "green-neon-tetra",
+    "name": "Green Neon Tetra",
+    "scientificName": "Paracheirodon simulans",
+    "family": "Characidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "intermediate",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 micro pellets, crushed flakes, baby brine shrimp.",
+    "minTankSize": 10,
+    "maxSize": 1,
+    "temperature": {
+      "min": 75,
+      "max": 85
+    },
+    "ph": {
+      "min": 4.5,
+      "max": 6.5
+    },
+    "lifespan": "2-3 years",
+    "schooling": true,
+    "minSchoolSize": 10,
+    "compatibleWith": [
+      "ember-tetra",
+      "cherry-shrimp",
+      "otocinclus",
+      "celestial-pearl-danio"
+    ],
+    "incompatibleWith": [
+      "african-cichlid",
+      "oscar-fish",
+      "goldfish"
+    ],
+    "searchVolume": 3600,
+    "keywords": [
+      "green neon tetra"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Green Neon Tetra (Paracheirodon simulans) is a intermediate-level freshwater fish growing to 1 inches. Peaceful temperament, minimum 10 gallon tank.",
+    "metaTitle": "Green Neon Tetra Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Green Neon Tetra care guide. Tank size (10+ gal), temperature (75-85\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">10 gallon tank</a> with temperature 75\u201385\u00b0F and pH 4.5\u20136.5. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n<p>Keep in groups of <strong>10+</strong> \u2014 schooling species that need companions for proper behavior and coloration.</p>\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Omnivore \u2014 micro pellets, crushed flakes, baby brine shrimp. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "chili-rasbora",
+    "name": "Chili Rasbora",
+    "scientificName": "Boraras brigittae",
+    "family": "Cyprinidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "intermediate",
+    "temperament": "peaceful",
+    "diet": "Micro-omnivore \u2014 crushed flakes, baby brine shrimp, micro worms.",
+    "minTankSize": 5,
+    "maxSize": 0.8,
+    "temperature": {
+      "min": 72,
+      "max": 82
+    },
+    "ph": {
+      "min": 4.0,
+      "max": 7.0
+    },
+    "lifespan": "4-8 years",
+    "schooling": true,
+    "minSchoolSize": 8,
+    "compatibleWith": [
+      "cherry-shrimp",
+      "ember-tetra",
+      "celestial-pearl-danio",
+      "otocinclus",
+      "nerite-snail"
+    ],
+    "incompatibleWith": [
+      "angelfish",
+      "oscar-fish",
+      "betta-fish",
+      "goldfish"
+    ],
+    "searchVolume": 4400,
+    "keywords": [
+      "chili rasbora",
+      "mosquito rasbora"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Chili Rasbora (Boraras brigittae) is a intermediate-level freshwater fish growing to 0.8 inches. Peaceful temperament, minimum 5 gallon tank.",
+    "metaTitle": "Chili Rasbora Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Chili Rasbora care guide. Tank size (5+ gal), temperature (72-82\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">5 gallon tank</a> with temperature 72\u201382\u00b0F and pH 4.0\u20137.0. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n<p>Keep in groups of <strong>8+</strong> \u2014 schooling species that need companions for proper behavior and coloration.</p>\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Micro-omnivore \u2014 crushed flakes, baby brine shrimp, micro worms. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "denison-barb",
+    "name": "Denison Barb",
+    "scientificName": "Sahyadria denisonii",
+    "family": "Cyprinidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "intermediate",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 flakes, frozen foods, blanched vegetables.",
+    "minTankSize": 55,
+    "maxSize": 6,
+    "temperature": {
+      "min": 60,
+      "max": 77
+    },
+    "ph": {
+      "min": 6.5,
+      "max": 7.8
+    },
+    "lifespan": "5-8 years",
+    "schooling": true,
+    "minSchoolSize": 6,
+    "compatibleWith": [
+      "corydoras-catfish",
+      "bristlenose-pleco",
+      "cherry-barb",
+      "zebra-danio"
+    ],
+    "incompatibleWith": [
+      "betta-fish",
+      "cherry-shrimp",
+      "oscar-fish"
+    ],
+    "searchVolume": 4400,
+    "keywords": [
+      "denison barb",
+      "roseline shark"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Denison Barb (Sahyadria denisonii) is a intermediate-level freshwater fish growing to 6 inches. Peaceful temperament, minimum 55 gallon tank.",
+    "metaTitle": "Denison Barb Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Denison Barb care guide. Tank size (55+ gal), temperature (60-77\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">55 gallon tank</a> with temperature 60\u201377\u00b0F and pH 6.5\u20137.8. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n<p>Keep in groups of <strong>6+</strong> \u2014 schooling species that need companions for proper behavior and coloration.</p>\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Omnivore \u2014 flakes, frozen foods, blanched vegetables. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "sparkling-gourami",
+    "name": "Sparkling Gourami",
+    "scientificName": "Trichopsis pumila",
+    "family": "Osphronemidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "intermediate",
+    "temperament": "peaceful",
+    "diet": "Micro-carnivore \u2014 frozen daphnia, baby brine shrimp, micro pellets.",
+    "minTankSize": 10,
+    "maxSize": 1.5,
+    "temperature": {
+      "min": 76,
+      "max": 82
+    },
+    "ph": {
+      "min": 6.0,
+      "max": 7.5
+    },
+    "lifespan": "4-5 years",
+    "schooling": false,
+    "compatibleWith": [
+      "ember-tetra",
+      "cherry-shrimp",
+      "celestial-pearl-danio",
+      "chili-rasbora",
+      "otocinclus"
+    ],
+    "incompatibleWith": [
+      "betta-fish",
+      "oscar-fish",
+      "african-cichlid"
+    ],
+    "searchVolume": 3600,
+    "keywords": [
+      "sparkling gourami",
+      "pygmy gourami"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Sparkling Gourami (Trichopsis pumila) is a intermediate-level freshwater fish growing to 1.5 inches. Peaceful temperament, minimum 10 gallon tank.",
+    "metaTitle": "Sparkling Gourami Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Sparkling Gourami care guide. Tank size (10+ gal), temperature (76-82\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">10 gallon tank</a> with temperature 76\u201382\u00b0F and pH 6.0\u20137.5. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Micro-carnivore \u2014 frozen daphnia, baby brine shrimp, micro pellets. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "three-spot-gourami",
+    "name": "Three Spot Gourami",
+    "scientificName": "Trichopodus trichopterus",
+    "family": "Osphronemidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "beginner",
+    "temperament": "semi-aggressive",
+    "diet": "Omnivore \u2014 flakes, pellets, frozen foods.",
+    "minTankSize": 20,
+    "maxSize": 6,
+    "temperature": {
+      "min": 72,
+      "max": 82
+    },
+    "ph": {
+      "min": 6.0,
+      "max": 8.0
+    },
+    "lifespan": "4-6 years",
+    "schooling": false,
+    "compatibleWith": [
+      "bristlenose-pleco",
+      "corydoras-catfish",
+      "black-skirt-tetra",
+      "tiger-barb"
+    ],
+    "incompatibleWith": [
+      "betta-fish",
+      "dwarf-gourami",
+      "cherry-shrimp"
+    ],
+    "searchVolume": 2900,
+    "keywords": [
+      "three spot gourami",
+      "blue gourami"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Three Spot Gourami (Trichopodus trichopterus) is a beginner-level freshwater fish growing to 6 inches. Semi-aggressive temperament, minimum 20 gallon tank.",
+    "metaTitle": "Three Spot Gourami Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Three Spot Gourami care guide. Tank size (20+ gal), temperature (72-82\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">20 gallon tank</a> with temperature 72\u201382\u00b0F and pH 6.0\u20138.0. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Omnivore \u2014 flakes, pellets, frozen foods. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "clown-loach",
+    "name": "Clown Loach",
+    "scientificName": "Chromobotia macracanthus",
+    "family": "Botiidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "intermediate",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 sinking pellets, frozen bloodworms, snails.",
+    "minTankSize": 75,
+    "maxSize": 12,
+    "temperature": {
+      "min": 77,
+      "max": 86
+    },
+    "ph": {
+      "min": 6.0,
+      "max": 7.5
+    },
+    "lifespan": "20-25 years",
+    "schooling": true,
+    "minSchoolSize": 5,
+    "compatibleWith": [
+      "tiger-barb",
+      "angelfish",
+      "bristlenose-pleco",
+      "corydoras-catfish",
+      "denison-barb"
+    ],
+    "incompatibleWith": [
+      "cherry-shrimp",
+      "betta-fish",
+      "neon-tetra"
+    ],
+    "searchVolume": 14800,
+    "keywords": [
+      "clown loach"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Clown Loach (Chromobotia macracanthus) is a intermediate-level freshwater fish growing to 12 inches. Peaceful temperament, minimum 75 gallon tank.",
+    "metaTitle": "Clown Loach Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Clown Loach care guide. Tank size (75+ gal), temperature (77-86\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">75 gallon tank</a> with temperature 77\u201386\u00b0F and pH 6.0\u20137.5. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n<p>Keep in groups of <strong>5+</strong> \u2014 schooling species that need companions for proper behavior and coloration.</p>\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Omnivore \u2014 sinking pellets, frozen bloodworms, snails. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "yoyo-loach",
+    "name": "Yoyo Loach",
+    "scientificName": "Botia almorhae",
+    "family": "Botiidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "intermediate",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 sinking pellets, frozen foods, snails.",
+    "minTankSize": 30,
+    "maxSize": 6,
+    "temperature": {
+      "min": 75,
+      "max": 86
+    },
+    "ph": {
+      "min": 6.5,
+      "max": 7.5
+    },
+    "lifespan": "5-8 years",
+    "schooling": true,
+    "minSchoolSize": 3,
+    "compatibleWith": [
+      "tiger-barb",
+      "bristlenose-pleco",
+      "corydoras-catfish",
+      "angelfish"
+    ],
+    "incompatibleWith": [
+      "cherry-shrimp",
+      "nerite-snail",
+      "mystery-snail"
+    ],
+    "searchVolume": 4400,
+    "keywords": [
+      "yoyo loach"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Yoyo Loach (Botia almorhae) is a intermediate-level freshwater fish growing to 6 inches. Peaceful temperament, minimum 30 gallon tank.",
+    "metaTitle": "Yoyo Loach Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Yoyo Loach care guide. Tank size (30+ gal), temperature (75-86\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">30 gallon tank</a> with temperature 75\u201386\u00b0F and pH 6.5\u20137.5. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n<p>Keep in groups of <strong>3+</strong> \u2014 schooling species that need companions for proper behavior and coloration.</p>\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Omnivore \u2014 sinking pellets, frozen foods, snails. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "synodontis-catfish",
+    "name": "Synodontis Catfish",
+    "scientificName": "Synodontis multipunctatus",
+    "family": "Mochokidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "intermediate",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 sinking pellets, frozen foods, algae wafers.",
+    "minTankSize": 30,
+    "maxSize": 8,
+    "temperature": {
+      "min": 75,
+      "max": 82
+    },
+    "ph": {
+      "min": 7.5,
+      "max": 8.5
+    },
+    "lifespan": "10-15 years",
+    "schooling": false,
+    "compatibleWith": [
+      "african-cichlid",
+      "electric-yellow-cichlid",
+      "peacock-cichlid",
+      "bristlenose-pleco"
+    ],
+    "incompatibleWith": [
+      "cherry-shrimp",
+      "neon-tetra"
+    ],
+    "searchVolume": 3600,
+    "keywords": [
+      "synodontis catfish"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Synodontis Catfish (Synodontis multipunctatus) is a intermediate-level freshwater fish growing to 8 inches. Peaceful temperament, minimum 30 gallon tank.",
+    "metaTitle": "Synodontis Catfish Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Synodontis Catfish care guide. Tank size (30+ gal), temperature (75-82\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">30 gallon tank</a> with temperature 75\u201382\u00b0F and pH 7.5\u20138.5. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Omnivore \u2014 sinking pellets, frozen foods, algae wafers. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "pictus-catfish",
+    "name": "Pictus Catfish",
+    "scientificName": "Pimelodus pictus",
+    "family": "Pimelodidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "intermediate",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 sinking pellets, frozen bloodworms. Nocturnal predator of small fish.",
+    "minTankSize": 55,
+    "maxSize": 5,
+    "temperature": {
+      "min": 75,
+      "max": 81
+    },
+    "ph": {
+      "min": 6.5,
+      "max": 7.5
+    },
+    "lifespan": "8-10 years",
+    "schooling": true,
+    "minSchoolSize": 3,
+    "compatibleWith": [
+      "bristlenose-pleco",
+      "angelfish",
+      "black-skirt-tetra"
+    ],
+    "incompatibleWith": [
+      "cherry-shrimp",
+      "neon-tetra",
+      "ember-tetra",
+      "chili-rasbora"
+    ],
+    "searchVolume": 4400,
+    "keywords": [
+      "pictus catfish"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Pictus Catfish (Pimelodus pictus) is a intermediate-level freshwater fish growing to 5 inches. Peaceful temperament, minimum 55 gallon tank.",
+    "metaTitle": "Pictus Catfish Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Pictus Catfish care guide. Tank size (55+ gal), temperature (75-81\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">55 gallon tank</a> with temperature 75\u201381\u00b0F and pH 6.5\u20137.5. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n<p>Keep in groups of <strong>3+</strong> \u2014 schooling species that need companions for proper behavior and coloration.</p>\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Omnivore \u2014 sinking pellets, frozen bloodworms. Nocturnal predator of small fish. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "rubber-lip-pleco",
+    "name": "Rubber Lip Pleco",
+    "scientificName": "Chaetostoma formosae",
+    "family": "Loricariidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Herbivore \u2014 algae, algae wafers, blanched vegetables.",
+    "minTankSize": 20,
+    "maxSize": 4.5,
+    "temperature": {
+      "min": 72,
+      "max": 80
+    },
+    "ph": {
+      "min": 6.5,
+      "max": 8.0
+    },
+    "lifespan": "10-12 years",
+    "schooling": false,
+    "compatibleWith": [
+      "neon-tetra",
+      "corydoras-catfish",
+      "guppy",
+      "cherry-shrimp",
+      "platy",
+      "harlequin-rasbora"
+    ],
+    "incompatibleWith": [
+      "african-cichlid",
+      "oscar-fish"
+    ],
+    "searchVolume": 3600,
+    "keywords": [
+      "rubber lip pleco"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Rubber Lip Pleco (Chaetostoma formosae) is a beginner-level freshwater fish growing to 4.5 inches. Peaceful temperament, minimum 20 gallon tank.",
+    "metaTitle": "Rubber Lip Pleco Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Rubber Lip Pleco care guide. Tank size (20+ gal), temperature (72-80\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">20 gallon tank</a> with temperature 72\u201380\u00b0F and pH 6.5\u20138.0. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Herbivore \u2014 algae, algae wafers, blanched vegetables. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "rainbowfish",
+    "name": "Boesemani Rainbowfish",
+    "scientificName": "Melanotaenia boesemani",
+    "family": "Melanotaeniidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 flakes, frozen foods, live brine shrimp.",
+    "minTankSize": 30,
+    "maxSize": 4.5,
+    "temperature": {
+      "min": 77,
+      "max": 86
+    },
+    "ph": {
+      "min": 7.0,
+      "max": 8.0
+    },
+    "lifespan": "5-8 years",
+    "schooling": true,
+    "minSchoolSize": 6,
+    "compatibleWith": [
+      "corydoras-catfish",
+      "bristlenose-pleco",
+      "angelfish",
+      "denison-barb",
+      "cherry-barb"
+    ],
+    "incompatibleWith": [
+      "betta-fish",
+      "cherry-shrimp",
+      "african-cichlid"
+    ],
+    "searchVolume": 9900,
+    "keywords": [
+      "boesemani rainbowfish",
+      "rainbow fish"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Boesemani Rainbowfish (Melanotaenia boesemani) is a beginner-level freshwater fish growing to 4.5 inches. Peaceful temperament, minimum 30 gallon tank.",
+    "metaTitle": "Boesemani Rainbowfish Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Boesemani Rainbowfish care guide. Tank size (30+ gal), temperature (77-86\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">30 gallon tank</a> with temperature 77\u201386\u00b0F and pH 7.0\u20138.0. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n<p>Keep in groups of <strong>6+</strong> \u2014 schooling species that need companions for proper behavior and coloration.</p>\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Omnivore \u2014 flakes, frozen foods, live brine shrimp. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "flowerhorn",
+    "name": "Flowerhorn Cichlid",
+    "scientificName": "Hybrid",
+    "family": "Cichlidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "intermediate",
+    "temperament": "aggressive",
+    "diet": "Carnivore \u2014 cichlid pellets, frozen shrimp, krill, flowerhorn pellets.",
+    "minTankSize": 55,
+    "maxSize": 12,
+    "temperature": {
+      "min": 80,
+      "max": 86
+    },
+    "ph": {
+      "min": 6.5,
+      "max": 8.0
+    },
+    "lifespan": "10-12 years",
+    "schooling": false,
+    "compatibleWith": [],
+    "incompatibleWith": [
+      "neon-tetra",
+      "cherry-shrimp",
+      "guppy",
+      "betta-fish",
+      "angelfish",
+      "corydoras-catfish"
+    ],
+    "searchVolume": 22200,
+    "keywords": [
+      "flowerhorn cichlid",
+      "flowerhorn fish"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Flowerhorn Cichlid (Hybrid) is a intermediate-level freshwater fish growing to 12 inches. Aggressive temperament, minimum 55 gallon tank.",
+    "metaTitle": "Flowerhorn Cichlid Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Flowerhorn Cichlid care guide. Tank size (55+ gal), temperature (80-86\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">55 gallon tank</a> with temperature 80\u201386\u00b0F and pH 6.5\u20138.0. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Carnivore \u2014 cichlid pellets, frozen shrimp, krill, flowerhorn pellets. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "arowana",
+    "name": "Silver Arowana",
+    "scientificName": "Osteoglossum bicirrhosum",
+    "family": "Osteoglossidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "advanced",
+    "temperament": "aggressive",
+    "diet": "Carnivore \u2014 large pellets, live/frozen fish, shrimp, insects.",
+    "minTankSize": 125,
+    "maxSize": 36,
+    "temperature": {
+      "min": 75,
+      "max": 82
+    },
+    "ph": {
+      "min": 6.0,
+      "max": 7.5
+    },
+    "lifespan": "15-20 years",
+    "schooling": false,
+    "compatibleWith": [
+      "oscar-fish"
+    ],
+    "incompatibleWith": [
+      "neon-tetra",
+      "cherry-shrimp",
+      "guppy",
+      "betta-fish",
+      "angelfish",
+      "corydoras-catfish"
+    ],
+    "searchVolume": 18100,
+    "keywords": [
+      "arowana fish",
+      "silver arowana"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Silver Arowana (Osteoglossum bicirrhosum) is a advanced-level freshwater fish growing to 36 inches. Aggressive temperament, minimum 125 gallon tank.",
+    "metaTitle": "Silver Arowana Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Silver Arowana care guide. Tank size (125+ gal), temperature (75-82\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">125 gallon tank</a> with temperature 75\u201382\u00b0F and pH 6.0\u20137.5. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Carnivore \u2014 large pellets, live/frozen fish, shrimp, insects. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "rope-fish",
+    "name": "Rope Fish",
+    "scientificName": "Erpetoichthys calabaricus",
+    "family": "Polypteridae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "intermediate",
+    "temperament": "peaceful",
+    "diet": "Carnivore \u2014 frozen bloodworms, live earthworms, sinking pellets. Nocturnal.",
+    "minTankSize": 55,
+    "maxSize": 15,
+    "temperature": {
+      "min": 72,
+      "max": 82
+    },
+    "ph": {
+      "min": 6.5,
+      "max": 7.5
+    },
+    "lifespan": "15-20 years",
+    "schooling": false,
+    "compatibleWith": [
+      "bristlenose-pleco",
+      "angelfish",
+      "rainbowfish"
+    ],
+    "incompatibleWith": [
+      "cherry-shrimp",
+      "neon-tetra",
+      "ember-tetra",
+      "chili-rasbora"
+    ],
+    "searchVolume": 6600,
+    "keywords": [
+      "rope fish",
+      "reed fish"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Rope Fish (Erpetoichthys calabaricus) is a intermediate-level freshwater fish growing to 15 inches. Peaceful temperament, minimum 55 gallon tank.",
+    "metaTitle": "Rope Fish Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Rope Fish care guide. Tank size (55+ gal), temperature (72-82\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">55 gallon tank</a> with temperature 72\u201382\u00b0F and pH 6.5\u20137.5. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Carnivore \u2014 frozen bloodworms, live earthworms, sinking pellets. Nocturnal. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "glass-catfish",
+    "name": "Glass Catfish",
+    "scientificName": "Kryptopterus vitreolus",
+    "family": "Siluridae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "intermediate",
+    "temperament": "peaceful",
+    "diet": "Carnivore \u2014 frozen bloodworms, brine shrimp, daphnia.",
+    "minTankSize": 20,
+    "maxSize": 5,
+    "temperature": {
+      "min": 75,
+      "max": 80
+    },
+    "ph": {
+      "min": 6.5,
+      "max": 7.0
+    },
+    "lifespan": "7-8 years",
+    "schooling": true,
+    "minSchoolSize": 5,
+    "compatibleWith": [
+      "neon-tetra",
+      "corydoras-catfish",
+      "harlequin-rasbora",
+      "cherry-shrimp",
+      "bristlenose-pleco"
+    ],
+    "incompatibleWith": [
+      "african-cichlid",
+      "oscar-fish",
+      "tiger-barb"
+    ],
+    "searchVolume": 4400,
+    "keywords": [
+      "glass catfish",
+      "ghost catfish"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Glass Catfish (Kryptopterus vitreolus) is a intermediate-level freshwater fish growing to 5 inches. Peaceful temperament, minimum 20 gallon tank.",
+    "metaTitle": "Glass Catfish Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Glass Catfish care guide. Tank size (20+ gal), temperature (75-80\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">20 gallon tank</a> with temperature 75\u201380\u00b0F and pH 6.5\u20137.0. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n<p>Keep in groups of <strong>5+</strong> \u2014 schooling species that need companions for proper behavior and coloration.</p>\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Carnivore \u2014 frozen bloodworms, brine shrimp, daphnia. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "bichir",
+    "name": "Senegal Bichir",
+    "scientificName": "Polypterus senegalus",
+    "family": "Polypteridae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "intermediate",
+    "temperament": "semi-aggressive",
+    "diet": "Carnivore \u2014 frozen shrimp, bloodworms, sinking pellets, live foods.",
+    "minTankSize": 40,
+    "maxSize": 12,
+    "temperature": {
+      "min": 75,
+      "max": 82
+    },
+    "ph": {
+      "min": 6.5,
+      "max": 7.5
+    },
+    "lifespan": "15-20 years",
+    "schooling": false,
+    "compatibleWith": [
+      "bristlenose-pleco",
+      "synodontis-catfish"
+    ],
+    "incompatibleWith": [
+      "cherry-shrimp",
+      "neon-tetra",
+      "ember-tetra",
+      "guppy",
+      "chili-rasbora"
+    ],
+    "searchVolume": 6600,
+    "keywords": [
+      "senegal bichir",
+      "bichir fish"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Senegal Bichir (Polypterus senegalus) is a intermediate-level freshwater fish growing to 12 inches. Semi-aggressive temperament, minimum 40 gallon tank.",
+    "metaTitle": "Senegal Bichir Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Senegal Bichir care guide. Tank size (40+ gal), temperature (75-82\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">40 gallon tank</a> with temperature 75\u201382\u00b0F and pH 6.5\u20137.5. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Carnivore \u2014 frozen shrimp, bloodworms, sinking pellets, live foods. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "panda-corydoras",
+    "name": "Panda Corydoras",
+    "scientificName": "Corydoras panda",
+    "family": "Callichthyidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 sinking pellets, algae wafers, frozen bloodworms.",
+    "minTankSize": 10,
+    "maxSize": 2,
+    "temperature": {
+      "min": 68,
+      "max": 77
+    },
+    "ph": {
+      "min": 6.0,
+      "max": 7.5
+    },
+    "lifespan": "10 years",
+    "schooling": true,
+    "minSchoolSize": 6,
+    "compatibleWith": [
+      "neon-tetra",
+      "ember-tetra",
+      "cherry-shrimp",
+      "betta-fish",
+      "guppy",
+      "harlequin-rasbora"
+    ],
+    "incompatibleWith": [
+      "african-cichlid",
+      "oscar-fish"
+    ],
+    "searchVolume": 3600,
+    "keywords": [
+      "panda corydoras",
+      "panda cory"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Panda Corydoras (Corydoras panda) is a beginner-level freshwater fish growing to 2 inches. Peaceful temperament, minimum 10 gallon tank.",
+    "metaTitle": "Panda Corydoras Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Panda Corydoras care guide. Tank size (10+ gal), temperature (68-77\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">10 gallon tank</a> with temperature 68\u201377\u00b0F and pH 6.0\u20137.5. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n<p>Keep in groups of <strong>6+</strong> \u2014 schooling species that need companions for proper behavior and coloration.</p>\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Omnivore \u2014 sinking pellets, algae wafers, frozen bloodworms. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "sterbai-corydoras",
+    "name": "Sterbai Corydoras",
+    "scientificName": "Corydoras sterbai",
+    "family": "Callichthyidae",
+    "category": "freshwater",
+    "type": "fish",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 sinking pellets, algae wafers, frozen foods.",
+    "minTankSize": 20,
+    "maxSize": 2.5,
+    "temperature": {
+      "min": 75,
+      "max": 82
+    },
+    "ph": {
+      "min": 6.0,
+      "max": 7.5
+    },
+    "lifespan": "10-15 years",
+    "schooling": true,
+    "minSchoolSize": 6,
+    "compatibleWith": [
+      "discus",
+      "cardinal-tetra",
+      "rummy-nose-tetra",
+      "german-blue-ram",
+      "angelfish",
+      "bristlenose-pleco"
+    ],
+    "incompatibleWith": [
+      "african-cichlid",
+      "oscar-fish"
+    ],
+    "searchVolume": 2900,
+    "keywords": [
+      "sterbai corydoras",
+      "sterbai cory"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Sterbai Corydoras (Corydoras sterbai) is a beginner-level freshwater fish growing to 2.5 inches. Peaceful temperament, minimum 20 gallon tank.",
+    "metaTitle": "Sterbai Corydoras Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Sterbai Corydoras care guide. Tank size (20+ gal), temperature (75-82\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">20 gallon tank</a> with temperature 75\u201382\u00b0F and pH 6.0\u20137.5. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n<p>Keep in groups of <strong>6+</strong> \u2014 schooling species that need companions for proper behavior and coloration.</p>\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Omnivore \u2014 sinking pellets, algae wafers, frozen foods. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "blue-dream-shrimp",
+    "name": "Blue Dream Shrimp",
+    "scientificName": "Neocaridina davidi var. Blue Dream",
+    "family": "Atyidae",
+    "category": "freshwater",
+    "type": "invertebrate",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 algae, biofilm, shrimp pellets, blanched vegetables.",
+    "minTankSize": 5,
+    "maxSize": 1.5,
+    "temperature": {
+      "min": 65,
+      "max": 80
+    },
+    "ph": {
+      "min": 6.5,
+      "max": 8.0
+    },
+    "lifespan": "1-2 years",
+    "schooling": true,
+    "minSchoolSize": 5,
+    "compatibleWith": [
+      "ember-tetra",
+      "otocinclus",
+      "nerite-snail",
+      "chili-rasbora",
+      "celestial-pearl-danio"
+    ],
+    "incompatibleWith": [
+      "angelfish",
+      "oscar-fish",
+      "betta-fish",
+      "african-cichlid"
+    ],
+    "searchVolume": 3600,
+    "keywords": [
+      "blue dream shrimp",
+      "blue shrimp"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Blue Dream Shrimp (Neocaridina davidi var. Blue Dream) is a beginner-level freshwater invertebrate growing to 1.5 inches. Peaceful temperament, minimum 5 gallon tank.",
+    "metaTitle": "Blue Dream Shrimp Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Blue Dream Shrimp care guide. Tank size (5+ gal), temperature (65-80\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">5 gallon tank</a> with temperature 65\u201380\u00b0F and pH 6.5\u20138.0. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n<p>Keep in groups of <strong>5+</strong> \u2014 schooling species that need companions for proper behavior and coloration.</p>\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Omnivore \u2014 algae, biofilm, shrimp pellets, blanched vegetables. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "bamboo-shrimp",
+    "name": "Bamboo Shrimp",
+    "scientificName": "Atyopsis moluccensis",
+    "family": "Atyidae",
+    "category": "freshwater",
+    "type": "invertebrate",
+    "careLevel": "intermediate",
+    "temperament": "peaceful",
+    "diet": "Filter feeder \u2014 filters microscopic particles from the water column.",
+    "minTankSize": 20,
+    "maxSize": 3,
+    "temperature": {
+      "min": 74,
+      "max": 82
+    },
+    "ph": {
+      "min": 6.5,
+      "max": 7.5
+    },
+    "lifespan": "1-2 years",
+    "schooling": false,
+    "compatibleWith": [
+      "cherry-shrimp",
+      "amano-shrimp",
+      "neon-tetra",
+      "corydoras-catfish",
+      "otocinclus"
+    ],
+    "incompatibleWith": [
+      "oscar-fish",
+      "african-cichlid",
+      "flowerhorn"
+    ],
+    "searchVolume": 2900,
+    "keywords": [
+      "bamboo shrimp",
+      "wood shrimp"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Bamboo Shrimp (Atyopsis moluccensis) is a intermediate-level freshwater invertebrate growing to 3 inches. Peaceful temperament, minimum 20 gallon tank.",
+    "metaTitle": "Bamboo Shrimp Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Bamboo Shrimp care guide. Tank size (20+ gal), temperature (74-82\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">20 gallon tank</a> with temperature 74\u201382\u00b0F and pH 6.5\u20137.5. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Filter feeder \u2014 filters microscopic particles from the water column. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
+  },
+  {
+    "slug": "rabbit-snail",
+    "name": "Rabbit Snail",
+    "scientificName": "Tylomelania spp.",
+    "family": "Pachychilidae",
+    "category": "freshwater",
+    "type": "invertebrate",
+    "careLevel": "beginner",
+    "temperament": "peaceful",
+    "diet": "Omnivore \u2014 algae wafers, blanched vegetables, calcium-rich foods.",
+    "minTankSize": 20,
+    "maxSize": 4,
+    "temperature": {
+      "min": 76,
+      "max": 84
+    },
+    "ph": {
+      "min": 7.5,
+      "max": 8.5
+    },
+    "lifespan": "3-5 years",
+    "schooling": false,
+    "compatibleWith": [
+      "cherry-shrimp",
+      "amano-shrimp",
+      "nerite-snail",
+      "mystery-snail",
+      "neon-tetra",
+      "corydoras-catfish"
+    ],
+    "incompatibleWith": [
+      "assassin-snail",
+      "clown-loach",
+      "yoyo-loach"
+    ],
+    "searchVolume": 3600,
+    "keywords": [
+      "rabbit snail",
+      "sulawesi snail"
+    ],
+    "imageUrl": "/images/fish/placeholder.jpg",
+    "description": "The Rabbit Snail (Tylomelania spp.) is a beginner-level freshwater invertebrate growing to 4 inches. Peaceful temperament, minimum 20 gallon tank.",
+    "metaTitle": "Rabbit Snail Care Guide: Tank Size, Diet & Tank Mates | World of Aquariums",
+    "metaDescription": "Complete Rabbit Snail care guide. Tank size (20+ gal), temperature (76-84\u00b0F), diet, tank mates.",
+    "careGuide": "<h2 id=\"tank-setup\">Tank Setup</h2>\n<p>Minimum <a href=\"/tank-sizes\">20 gallon tank</a> with temperature 76\u201384\u00b0F and pH 7.5\u20138.5. Use a reliable <a href=\"/equipment/heaters\">heater</a> and <a href=\"/equipment/test-kits\">test kit</a>.</p>\n\n<p>Good <a href=\"/equipment/filters\">filtration</a> is essential. Provide appropriate <a href=\"/equipment/substrate\">substrate</a> and hiding spots with driftwood or rocks.</p>\n\n<h2 id=\"diet\">Diet & Feeding</h2>\n<p>Omnivore \u2014 algae wafers, blanched vegetables, calcium-rich foods. Feed 1-2 times daily, only what can be consumed in 2-3 minutes.</p>\n\n<h2 id=\"tank-mates\">Tank Mates</h2>\n<p>Use our <a href=\"/compatibility\">fish compatibility checker</a> for detailed pairing analysis with any species.</p>\n\n<h2 id=\"health\">Health</h2>\n<p>Watch for <a href=\"/diseases/ich-white-spot-disease\">ich</a>, <a href=\"/diseases/fin-rot\">fin rot</a>, and stress indicators. Maintain stable parameters with regular <a href=\"/equipment/gravel-vacuums\">water changes</a> using <a href=\"/equipment/water-conditioners\">water conditioner</a>. See our <a href=\"/diseases\">fish diseases guide</a> for treatment.</p>"
   }
 ]

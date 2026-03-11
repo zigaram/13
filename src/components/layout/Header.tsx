@@ -76,6 +76,9 @@ const NAV_ITEMS = [
     href: '/calculators',
     children: [
       { label: 'Stocking Calculator', href: '/calculators/stocking' },
+      { label: 'Water Change Calculator', href: '/calculators/water-change' },
+      { label: 'Heater Size Calculator', href: '/calculators/heater-size' },
+      { label: 'Substrate Calculator', href: '/calculators/substrate' },
       { label: 'Tank Volume Calculator', href: '/calculators/tank-volume' },
     ],
   },
