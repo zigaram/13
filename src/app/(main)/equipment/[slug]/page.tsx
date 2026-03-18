@@ -227,7 +227,6 @@ export default async function EquipmentReviewPage({ params }: Props) {
               />
 
               <div className="ad-slot-sidebar" data-ad-slot="equipment-sidebar">Ad</div>
-              </div>
             </div>
           </aside>
         </div>
