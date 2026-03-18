@@ -225,6 +225,7 @@ export default async function EquipmentReviewPage({ params }: Props) {
                 maxLinks={8}
                 variant="ocean"
               />
+              </div>
 
               <div className="ad-slot-sidebar" data-ad-slot="equipment-sidebar">Ad</div>
             </div>
