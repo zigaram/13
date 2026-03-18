@@ -83,6 +83,10 @@ const NAV_ITEMS = [
       { label: 'Tank Volume Calculator', href: '/calculators/tank-volume' },
     ],
   },
+  {
+    label: '🛠️ Builder',
+    href: '/builder',
+  },
 ];
 
 export default function Header() {
