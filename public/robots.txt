@@ -1,0 +1,13 @@
+# World of Aquariums — worldofaquariums.com
+# https://worldofaquariums.com
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+
+# Sitemaps
+Sitemap: https://worldofaquariums.com/sitemap.xml
+
+# Crawl-delay (optional, polite to bots)
+# Crawl-delay: 1

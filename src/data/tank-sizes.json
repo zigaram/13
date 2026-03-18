@@ -1,0 +1,608 @@
+[
+  {
+    "slug": "3-gallon-fish-tank",
+    "gallons": 3,
+    "name": "3 Gallon Fish Tank",
+    "dimensions": [
+      {
+        "label": "Standard",
+        "length": 10,
+        "width": 8,
+        "height": 9,
+        "unit": "inches"
+      }
+    ],
+    "weight": {
+      "empty": 4,
+      "filled": 35
+    },
+    "recommendedFish": [
+      "cherry-shrimp",
+      "nerite-snail",
+      "mystery-snail"
+    ],
+    "recommendedFilter": "Small sponge filter or built-in nano filter",
+    "recommendedHeater": "10\u201325W mini heater (Fluval P10)",
+    "idealFor": [
+      "Shrimp-only tanks",
+      "Snail tanks",
+      "Planted nano tanks",
+      "Desktop decorations"
+    ],
+    "keywords": [
+      "3 gallon fish tank",
+      "3 gallon aquarium",
+      "3 gallon tank fish",
+      "nano fish tank",
+      "small fish tank"
+    ],
+    "searchVolume": 9900,
+    "description": "A 3 gallon tank is a tiny nano aquarium best suited for shrimp, snails, and plants rather than fish. While some nano species can technically survive in 3 gallons, the extremely small water volume makes maintaining stable water parameters very challenging. For most aquarists, a 3 gallon makes an excellent planted shrimp tank or desktop ecosystem \u2014 but a 5 gallon is the minimum recommended size for keeping fish.",
+    "careGuide": "<h2 id=\"overview\">3 Gallon Tank Overview</h2>\n<p>A 3 gallon tank (roughly 10\" \u00d7 8\" \u00d7 9\") is an ultra-nano setup that appeals to people with very limited space or those wanting a small desktop aquatic garden. At only about 35 lbs filled, it fits almost anywhere.</p>\n<p>The critical limitation of 3 gallons is <strong>water parameter instability</strong>. In such a tiny volume, temperature, pH, and ammonia levels can swing dramatically and rapidly. A small amount of uneaten food or a missed water change can create a toxic environment within hours. This makes 3 gallon tanks actually <strong>harder to maintain than larger tanks</strong> \u2014 not the \"easy beginner option\" many assume.</p>\n\n<h2 id=\"what-to-keep\">What Can Live in a 3 Gallon?</h2>\n<ul>\n<li><strong>Cherry shrimp (10\u201315):</strong> The best choice. Shrimp have a tiny bioload and thrive in planted nano tanks. They're fascinating to watch and breed readily.</li>\n<li><strong>Nerite snails (1\u20132):</strong> Great algae cleaners. They can't reproduce in freshwater, so no population explosions.</li>\n<li><strong>Live plants:</strong> A planted 3 gallon is beautiful \u2014 java moss, anubias nana petite, and bucephalandra are perfect nano-scale plants.</li>\n<li><strong>Betta fish:</strong> While some people keep bettas in 3 gallons, 5 gallons is the recommended minimum. If you do use 3 gallons for a betta, pristine water quality is essential \u2014 25\u201330% water changes twice per week.</li>\n</ul>\n<p><strong>Do NOT keep</strong> in a 3 gallon: schooling fish, goldfish, any fish over 1.5 inches, multiple fish species, or any fish requiring a heater without an appropriately sized mini heater.</p>\n\n<h2 id=\"maintenance\">Maintenance</h2>\n<p>Small tanks need more frequent care:</p>\n<ul>\n<li><strong>Twice weekly:</strong> 25\u201330% water changes (~1 gallon). Use dechlorinated water matched to tank temperature.</li>\n<li><strong>Weekly:</strong> Test parameters. Clean glass. Remove debris.</li>\n<li><strong>Feed sparingly:</strong> In 3 gallons, even a small amount of uneaten food can spike ammonia dangerously.</li>\n</ul>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>Is a 3 gallon tank good for beginners?</h3>\n<p>No \u2014 despite being small and affordable, 3 gallon tanks are actually harder to maintain than larger tanks due to parameter instability. Beginners should start with 5\u201310 gallons.</p>\n<h3>Can a betta live in a 3 gallon?</h3>\n<p>Survival is possible but not ideal. 5 gallons is the minimum recommended for a healthy betta. If using 3 gallons, maintain rigorous water change schedules.</p>",
+    "metaTitle": "3 Gallon Fish Tank Guide: Best for Shrimp & Nano Setups | World of Aquariums",
+    "metaDescription": "Complete 3 gallon tank guide. Best for shrimp and plants, not fish. What to keep, maintenance requirements, and why bigger is actually easier.",
+    "imageUrl": "/images/tanks/3-gallon-fish-tank.svg"
+  },
+  {
+    "slug": "5-gallon-fish-tank",
+    "gallons": 5,
+    "name": "5 Gallon Fish Tank",
+    "dimensions": [
+      {
+        "label": "Standard",
+        "length": 16,
+        "width": 8,
+        "height": 10,
+        "unit": "inches"
+      },
+      {
+        "label": "Fluval Spec V",
+        "length": 17.2,
+        "width": 10.6,
+        "height": 6.3,
+        "unit": "inches"
+      }
+    ],
+    "weight": {
+      "empty": 7,
+      "filled": 62
+    },
+    "recommendedFish": [
+      "betta-fish",
+      "cherry-shrimp",
+      "nerite-snail",
+      "mystery-snail",
+      "ember-tetra"
+    ],
+    "recommendedFilter": "Small sponge filter or low-flow HOB (Aqueon QuietFlow, Fluval Spec built-in)",
+    "recommendedHeater": "25\u201350W adjustable heater (Fluval M25, Eheim Jager 25W)",
+    "idealFor": [
+      "Betta fish",
+      "Shrimp tanks",
+      "Single species nano tanks",
+      "Desktop aquariums",
+      "Beginners with limited space"
+    ],
+    "keywords": [
+      "5 gallon fish tank",
+      "5 gallon aquarium",
+      "5 gallon betta tank",
+      "5 gallon tank stocking",
+      "best fish for 5 gallon tank",
+      "5 gallon nano tank"
+    ],
+    "searchVolume": 22200,
+    "description": "The 5 gallon fish tank is the most popular nano aquarium size and the minimum recommended tank for keeping a betta fish. While small, a well-set-up 5 gallon can be a stunning desktop aquarium with live plants, proper filtration, and a carefully chosen inhabitant. It's the perfect entry point into the hobby for those with limited space or budget.",
+    "careGuide": "<h2 id=\"overview\">5 Gallon Tank Overview</h2>\n<p>A 5 gallon fish tank occupies a sweet spot in the hobby \u2014 small enough for a desk or countertop (about 16 \u00d7 8 \u00d7 10 inches, roughly 62 lbs filled), yet large enough to maintain stable water parameters when properly filtered and heated. It's the smallest tank size recommended by most experienced aquarists for keeping fish, though some nano species can thrive in even smaller setups.</p>\n<p>The most common use for a 5 gallon tank is a betta fish setup. Male bettas are ideally suited to this size \u2014 they don't need the swimming space of schooling fish and actually prefer smaller, planted territories. However, a 5 gallon opens up other possibilities too, including shrimp-only tanks and planted nano aquascapes.</p>\n\n<h2 id=\"dimensions-weight\">Dimensions & Weight</h2>\n<p>Standard 5 gallon tanks measure approximately 16\" L \u00d7 8\" W \u00d7 10\" H, though dimensions vary significantly between manufacturers and styles. Popular options include the Fluval Spec V (17.2\" \u00d7 10.6\" \u00d7 6.3\"), the Marineland Portrait (11.8\" \u00d7 11.6\" \u00d7 17\", a tall portrait orientation), and basic rectangular tanks from Aqueon.</p>\n<p>A filled 5 gallon tank weighs approximately 55\u201365 lbs depending on substrate and decorations. While this is manageable, ensure whatever surface you place it on can comfortably support 70+ lbs to account for everything.</p>\n\n<h2 id=\"best-fish\">Best Fish for a 5 Gallon Tank</h2>\n<p>Stocking options for a 5 gallon are limited but rewarding:</p>\n<ul>\n<li><strong>Betta fish:</strong> The #1 choice. One male betta is perfect for a 5 gallon. Add a few nerite snails or cherry shrimp (in a heavily planted tank) for a small community.</li>\n<li><strong>Pea puffer:</strong> A single pea puffer (the world's smallest pufferfish) can live in a 5 gallon. Fascinating personality but needs live/frozen food.</li>\n<li><strong>Endler's livebearers:</strong> A small group of 3\u20134 males can work in a well-planted 5 gallon. Colorful and active.</li>\n<li><strong>Ember tetras:</strong> A school of 5\u20136 can work in a densely planted 5 gallon, though 10 gallons is preferable.</li>\n<li><strong>Cherry shrimp:</strong> A shrimp-only tank can house 20\u201330 cherry shrimp comfortably. Add live plants for a stunning nano ecosystem.</li>\n<li><strong>Nerite snails:</strong> 1\u20132 nerites can be kept alone or with a betta for algae control.</li>\n</ul>\n<p>Fish to <strong>avoid</strong> in a 5 gallon: goldfish (need 20+ gallons), neon tetras (need 10+ in a school), corydoras catfish (need 10+ gallons), any schooling fish, any fish that grows over 2 inches.</p>\n\n<h2 id=\"equipment\">Essential Equipment</h2>\n<ul>\n<li><strong>Filter:</strong> A small sponge filter or nano HOB filter is essential. The Fluval Spec V has an excellent built-in filtration system. For standalone tanks, a simple air-powered sponge filter is gentle enough for bettas and shrimp while providing biological and mechanical filtration.</li>\n<li><strong>Heater:</strong> A 25\u201350W adjustable heater maintains tropical temperatures (76\u201380\u00b0F). The Fluval M25 and Cobalt Aquatics Neo-Therm 25W are popular choices for 5 gallon tanks. Avoid preset heaters \u2014 adjustable gives you control.</li>\n<li><strong>Light:</strong> A small LED light designed for the tank size. Many 5 gallon kits include adequate lighting. For planted tanks, ensure the light provides at least 20\u201330 PAR at substrate level.</li>\n<li><strong>Lid:</strong> Essential, especially for bettas (they jump). Glass lids or the included kit lids work fine.</li>\n</ul>\n\n<h2 id=\"setup\">Setup Guide</h2>\n<ol>\n<li><strong>Choose location:</strong> Away from direct sunlight, on a sturdy, level surface. Near an outlet for filter, heater, and light. Away from heating/AC vents to prevent temperature fluctuations.</li>\n<li><strong>Add substrate:</strong> 5\u201310 lbs of gravel or sand (1\u20132 inch layer). For planted tanks, use nutrient-rich substrate like Fluval Stratum.</li>\n<li><strong>Install equipment:</strong> Set up filter, heater, and thermometer. Don't plug in the heater until the tank is filled with water.</li>\n<li><strong>Add water and dechlorinate:</strong> Fill with tap water treated with a water conditioner like Seachem Prime.</li>\n<li><strong>Add plants and hardscape:</strong> Live plants are highly recommended for 5 gallon tanks \u2014 they help maintain water quality in the small volume. Java fern, anubias, and java moss are excellent low-maintenance choices.</li>\n<li><strong>Cycle the tank:</strong> This is CRITICAL for small tanks. Run the tank for 4\u20136 weeks before adding fish, building up beneficial bacteria. Small tanks are more susceptible to ammonia spikes than larger ones.</li>\n<li><strong>Add fish slowly:</strong> Start with just one fish. In a 5 gallon, that's often all you'll add. Monitor water parameters closely for the first month.</li>\n</ol>\n\n<h2 id=\"maintenance\">Maintenance Schedule</h2>\n<p>Small tanks require more frequent maintenance because there's less water volume to dilute waste:</p>\n<ul>\n<li><strong>Weekly:</strong> 25\u201330% water change (about 1.5 gallons). Use a small siphon/gravel vacuum. Test water parameters (ammonia, nitrite, nitrate).</li>\n<li><strong>Bi-weekly:</strong> Rinse filter media in old tank water (never tap water). Trim plants if needed. Clean glass with an algae scraper.</li>\n<li><strong>Monthly:</strong> Deep gravel vacuum. Check heater accuracy with a separate thermometer. Replace any exhausted filter media.</li>\n</ul>\n<p>The most common mistake with 5 gallon tanks is skipping water changes. In a small volume, nitrate builds up fast and ammonia spikes are more dangerous. Consistency is key.</p>\n\n<h2 id=\"common-mistakes\">Common Mistakes</h2>\n<ul>\n<li><strong>Overstocking:</strong> The biggest mistake. A 5 gallon cannot support a community of multiple fish species. One betta OR a few nano fish is the limit.</li>\n<li><strong>Skipping the cycle:</strong> New tank syndrome kills more fish in small tanks than large ones. Always cycle before adding fish.</li>\n<li><strong>No heater:</strong> Bettas need 76\u201380\u00b0F. Room temperature water (68\u201372\u00b0F) is too cold and compromises immune function.</li>\n<li><strong>Overfeeding:</strong> In 5 gallons of water, uneaten food pollutes very quickly. Feed tiny amounts once daily.</li>\n<li><strong>Infrequent water changes:</strong> Small tanks need weekly water changes without exception.</li>\n</ul>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>How many fish can I keep in a 5 gallon tank?</h3>\n<p>For most setups: one betta fish, possibly with a few snails or shrimp. The old \"one inch per gallon\" rule is outdated and unreliable. In a 5 gallon, less is more \u2014 a single healthy, active fish in a well-maintained tank is far better than a cramped, stressed community.</p>\n<h3>Is a 5 gallon tank good for beginners?</h3>\n<p>Yes and no. It's affordable and space-efficient, but small tanks are actually harder to maintain than larger ones because water parameters fluctuate more rapidly. A 10 gallon is more forgiving for true beginners, but a 5 gallon works well if you commit to regular maintenance.</p>\n<h3>How much does a 5 gallon fish tank cost?</h3>\n<p>Basic 5 gallon tanks start around $15\u201325. Complete kits with filter, light, and lid range from $30\u201380. Premium options like the Fluval Spec V run $80\u2013100. Budget $100\u2013150 total including substrate, heater, plants, and water testing supplies.</p>\n<h3>Do I need a filter for a 5 gallon tank?</h3>\n<p>Absolutely yes. A filter is essential in any size tank for biological filtration (converting toxic ammonia to less harmful nitrate). Unfiltered 5 gallon tanks require daily water changes to prevent toxic buildup \u2014 a filter makes maintenance far more manageable.</p>",
+    "metaTitle": "5 Gallon Fish Tank Guide: Best Fish, Setup & Stocking Ideas | World of Aquariums",
+    "metaDescription": "Complete 5 gallon fish tank guide. Best fish (betta, shrimp, nano species), equipment, setup instructions, and stocking ideas for nano aquariums.",
+    "imageUrl": "/images/tanks/5-gallon-fish-tank.svg"
+  },
+  {
+    "slug": "10-gallon-fish-tank",
+    "gallons": 10,
+    "name": "10 Gallon Fish Tank",
+    "dimensions": [
+      {
+        "label": "Standard",
+        "length": 20,
+        "width": 10,
+        "height": 12,
+        "unit": "inches"
+      },
+      {
+        "label": "Leader",
+        "length": 20,
+        "width": 10,
+        "height": 12,
+        "unit": "inches"
+      }
+    ],
+    "weight": {
+      "empty": 11,
+      "filled": 111
+    },
+    "recommendedFish": [
+      "betta-fish",
+      "neon-tetra",
+      "guppy",
+      "cherry-shrimp",
+      "corydoras-catfish",
+      "ember-tetra",
+      "harlequin-rasbora",
+      "mystery-snail",
+      "pea-puffer",
+      "endlers-livebearer"
+    ],
+    "recommendedFilter": "Small HOB filter (Aqueon QuietFlow 10, Fluval C2) or sponge filter",
+    "recommendedHeater": "50W adjustable heater (Eheim Jager 50W, Fluval M50)",
+    "idealFor": [
+      "Beginner community tanks",
+      "Betta tank with tank mates",
+      "Nano schooling fish",
+      "Planted tanks",
+      "Shrimp breeding tanks",
+      "Kids' first aquarium"
+    ],
+    "keywords": [
+      "10 gallon fish tank",
+      "10 gallon aquarium",
+      "best fish for 10 gallon tank",
+      "10 gallon tank stocking",
+      "10 gallon fish tank ideas",
+      "10 gallon planted tank"
+    ],
+    "searchVolume": 40500,
+    "description": "The 10 gallon fish tank is the most popular aquarium size in the hobby and the gold standard starting point for beginners. At 20\" \u00d7 10\" \u00d7 12\" and about 111 lbs filled, it fits on most furniture, is affordable, and supports a surprisingly wide range of fish, plants, and stocking combinations. It's large enough for small community tanks yet compact enough for apartments and kids' rooms.",
+    "careGuide": "<h2 id=\"overview\">10 Gallon Tank Overview</h2>\n<p>The 10 gallon fish tank is where most aquarists begin their journey \u2014 and for good reason. It's the smallest practical size for keeping a small community of fish, widely available (every pet store carries them), affordable ($10\u201315 for just the tank), and fits on a desk, dresser, or small stand. At roughly 20\" \u00d7 10\" \u00d7 12\", it provides enough water volume to maintain relatively stable parameters while remaining manageable for beginners.</p>\n<p>Compared to a 5 gallon, the 10 gallon dramatically expands your stocking options. You can keep small schools of nano fish, a betta with proper tank mates, or a thriving planted aquascape. It's the sweet spot between \"too small for anything interesting\" and \"takes up significant space.\"</p>\n\n<h2 id=\"dimensions-weight\">Dimensions & Weight</h2>\n<p>The standard 10 gallon aquarium measures 20\" L \u00d7 10\" W \u00d7 12\" H and is nearly universal across manufacturers (Aqueon, Tetra, Marineland). This consistency means equipment, lids, and lights designed for 10 gallons are highly standardized and easy to find.</p>\n<p>Filled weight is approximately 111 lbs (11 lbs glass + ~84 lbs water + substrate and d\u00e9cor). This is manageable but requires a sturdy surface \u2014 avoid glass tables, flimsy shelving, or unstable dressers. A dedicated aquarium stand is ideal but not mandatory if you have solid furniture.</p>\n\n<h2 id=\"best-fish\">Best Fish for a 10 Gallon Tank</h2>\n<p>The 10 gallon is versatile enough for several stocking approaches:</p>\n<h3>Option 1: Betta Community</h3>\n<p>One male betta with peaceful tank mates \u2014 6 ember tetras or harlequin rasboras plus a few nerite snails. The tank mates should be non-fin-nipping and fast enough to avoid betta aggression.</p>\n<h3>Option 2: Nano School</h3>\n<p>A school of 8\u201310 neon tetras or ember tetras with a small cleanup crew (3 pygmy corydoras + 2 nerite snails). Colorful, active, and fascinating to watch.</p>\n<h3>Option 3: Livebearer Tank</h3>\n<p>5\u20136 guppies or endler's livebearers. Note: if you mix males and females, you will have babies \u2014 lots of them. Males-only avoids this.</p>\n<h3>Option 4: Shrimp Paradise</h3>\n<p>30\u201350+ cherry shrimp in a heavily planted tank. Mesmerizing to watch and virtually zero maintenance compared to fish. Add a few snails for cleanup.</p>\n<h3>Option 5: Pea Puffer Tank</h3>\n<p>2\u20133 pea puffers (with careful monitoring for aggression). Incredible personality and behavior, but requires live/frozen food.</p>\n<p>Fish to <strong>avoid</strong>: goldfish (need 20+ gal), angels (need 20+ gal), oscars, plecos (except dwarf varieties), and any fish over 3 inches adult size.</p>\n\n<h2 id=\"equipment\">Essential Equipment</h2>\n<ul>\n<li><strong>Filter:</strong> A small hang-on-back (HOB) filter rated for 10\u201320 gallons is standard. The Aqueon QuietFlow 10, Fluval C2, or AquaClear 20 are all excellent. A sponge filter is a great alternative \u2014 gentler flow, ideal for shrimp and fry.</li>\n<li><strong>Heater:</strong> A 50W adjustable heater is perfect. The Eheim Jager 50W, Cobalt Aquatics Neo-Therm 50W, and Fluval M50 are popular reliable choices. Avoid cheap, non-adjustable heaters.</li>\n<li><strong>Light:</strong> For a fish-only tank, the basic LED included in most kits is fine. For a planted tank, upgrade to a dedicated plant light like the Nicrew ClassicLED Plus or Fluval Plant 3.0 Nano.</li>\n<li><strong>Thermometer:</strong> Essential for verifying heater accuracy. Digital stick-on or submersible glass thermometers both work.</li>\n<li><strong>Test kit:</strong> The API Freshwater Master Test Kit is the gold standard. Test ammonia, nitrite, nitrate, and pH \u2014 especially during cycling and the first few months.</li>\n</ul>\n\n<h2 id=\"setup\">Setup Guide</h2>\n<ol>\n<li><strong>Place the tank:</strong> Level, sturdy surface away from direct sunlight and temperature extremes. Near an electrical outlet.</li>\n<li><strong>Rinse and add substrate:</strong> 10\u201320 lbs of gravel or sand (1\u20132 inch layer). Rinse thoroughly first to remove dust.</li>\n<li><strong>Add hardscape:</strong> Driftwood, rocks, or decorations. Create hiding spots \u2014 fish feel more secure and display better colors with places to retreat.</li>\n<li><strong>Fill with treated water:</strong> Use dechlorinated water. Seachem Prime is the best water conditioner.</li>\n<li><strong>Install equipment:</strong> Filter, heater, thermometer, light. Turn everything on.</li>\n<li><strong>Add live plants:</strong> Highly recommended. Java fern, anubias, java moss, and cryptocorynes are all excellent beginner choices that thrive in 10 gallon tanks.</li>\n<li><strong>Cycle the tank:</strong> Run for 4\u20136 weeks before adding fish. Add ammonia source (pure ammonia or fish food) and monitor the nitrogen cycle with your test kit. The cycle is complete when ammonia and nitrite both read 0 ppm and nitrate is present.</li>\n<li><strong>Add fish gradually:</strong> Start with just 2\u20133 fish. Wait 2 weeks, test water, then add more. Don't stock the full population at once.</li>\n</ol>\n\n<h2 id=\"planted-tank\">10 Gallon Planted Tank</h2>\n<p>A planted 10 gallon is one of the most rewarding setups in the hobby. The small size keeps costs low while allowing for stunning aquascapes. Best plants for a 10 gallon:</p>\n<ul>\n<li><strong>Background:</strong> Vallisneria, water wisteria, or bacopa caroliniana</li>\n<li><strong>Midground:</strong> Cryptocoryne wendtii, anubias nana, java fern</li>\n<li><strong>Foreground:</strong> Dwarf sagittaria, staurogyne repens, or monte carlo (with adequate light)</li>\n<li><strong>Floating:</strong> Amazon frogbit, salvinia, or red root floaters for surface cover</li>\n<li><strong>Moss:</strong> Java moss on driftwood for a natural, established look</li>\n</ul>\n<p>For a low-tech planted 10 gallon, you don't need CO2 injection. A decent light, liquid fertilizer once a week, and the plants listed above will create a beautiful, self-sustaining ecosystem.</p>\n\n<h2 id=\"maintenance\">Maintenance Schedule</h2>\n<ul>\n<li><strong>Weekly:</strong> 20\u201325% water change (~2 gallons). Gravel vacuum. Test water parameters. Clean glass if needed. Dose liquid fertilizer for planted tanks.</li>\n<li><strong>Bi-weekly:</strong> Rinse filter media in old tank water. Trim plants.</li>\n<li><strong>Monthly:</strong> Deep gravel clean. Verify heater accuracy. Replace filter cartridge or floss (keep bio-media).</li>\n</ul>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>How many fish can I put in a 10 gallon tank?</h3>\n<p>A reasonable guideline is 8\u201312 small fish (under 2 inches) or fewer larger fish. Quality matters more than quantity \u2014 an understocked tank with healthy, vibrant fish is far better than a cramped, stressed community. Specific examples: 8\u201310 neon tetras, or 6 guppies + 3 pygmy corydoras, or 1 betta + 6 ember tetras.</p>\n<h3>How much does a 10 gallon fish tank weigh?</h3>\n<p>Empty: about 11 lbs. Filled with water, substrate, and equipment: approximately 110\u2013120 lbs. Always place on a sturdy, level surface.</p>\n<h3>Is a 10 gallon tank good for beginners?</h3>\n<p>Yes \u2014 it's the most recommended starting size. Large enough for stable water chemistry and diverse stocking, yet small enough to be affordable and manageable. A 10 gallon with a simple setup can be running for under $100 total.</p>\n<h3>Can I keep goldfish in a 10 gallon tank?</h3>\n<p>No. Goldfish produce enormous amounts of waste and need at least 20 gallons for a single fancy goldfish, or 30+ gallons for a common/comet. A 10 gallon will quickly become toxic for goldfish.</p>\n<h3>How much does it cost to set up a 10 gallon tank?</h3>\n<p>Budget: $50\u201375 (basic tank + kit). Mid-range: $100\u2013150 (quality equipment + live plants). Premium: $150\u2013250 (high-end light, filter, aquascape). The tank itself is often the cheapest part \u2014 Petco's dollar-per-gallon sales sell 10 gallon tanks for $10.</p>",
+    "metaTitle": "10 Gallon Fish Tank Guide: Best Fish, Setup & Stocking Ideas | World of Aquariums",
+    "metaDescription": "Complete 10 gallon fish tank guide. Best fish, stocking combinations, equipment, planted tank ideas, and setup instructions for the hobby's most popular tank size.",
+    "imageUrl": "/images/tanks/10-gallon-fish-tank.svg"
+  },
+  {
+    "slug": "15-gallon-fish-tank",
+    "gallons": 15,
+    "name": "15 Gallon Fish Tank",
+    "dimensions": [
+      {
+        "label": "Standard",
+        "length": 24,
+        "width": 12,
+        "height": 12,
+        "unit": "inches"
+      },
+      {
+        "label": "Column",
+        "length": 13,
+        "width": 13,
+        "height": 24,
+        "unit": "inches"
+      }
+    ],
+    "weight": {
+      "empty": 21,
+      "filled": 170
+    },
+    "recommendedFish": [
+      "betta-fish",
+      "neon-tetra",
+      "guppy",
+      "cherry-shrimp",
+      "corydoras-catfish",
+      "ember-tetra",
+      "harlequin-rasbora",
+      "endlers-livebearer",
+      "honey-gourami"
+    ],
+    "recommendedFilter": "HOB filter (AquaClear 20\u201330) or sponge filter",
+    "recommendedHeater": "50\u201375W adjustable heater",
+    "idealFor": [
+      "Step-up from 10 gallons",
+      "Betta community tanks",
+      "Small community tanks",
+      "Apartment living",
+      "Column/portrait style tanks"
+    ],
+    "keywords": [
+      "15 gallon fish tank",
+      "15 gallon aquarium",
+      "best fish for 15 gallon",
+      "15 gallon tank stocking",
+      "15 gallon column tank"
+    ],
+    "searchVolume": 6600,
+    "description": "The 15 gallon fish tank fills the gap between the very popular 10 and 20 gallon sizes, offering roughly 50% more volume than a 10 gallon without taking up significantly more space. It's available in standard rectangular and column/portrait configurations, making it a versatile choice for spaces where a 20 gallon doesn't quite fit. The extra 5 gallons over a 10 gallon meaningfully expands stocking options.",
+    "careGuide": "<h2 id=\"overview\">15 Gallon Tank Overview</h2>\n<p>The 15 gallon aquarium is a \"between size\" that's less standardized than the ubiquitous 10 or 20 gallon tanks. It comes in various form factors \u2014 standard rectangular (24\" \u00d7 12\" \u00d7 12\"), column/portrait (tall and narrow), and specialty shapes. The Fluval Flex 15 is one of the most popular 15 gallon options, featuring a curved front panel and built-in filtration.</p>\n<p>The extra 5 gallons over a 10 gallon provides more stable water parameters, more swimming space, and the ability to keep slightly larger schools or an additional species in your community. It's a worthwhile upgrade for anyone who finds a 10 gallon limiting but can't fit a 20.</p>\n\n<h2 id=\"best-fish\">Best Fish for a 15 Gallon Tank</h2>\n<ul>\n<li><strong>Honey gourami community:</strong> 1 honey gourami + 8 ember tetras + 4 pygmy corydoras + nerite snails. A peaceful, colorful setup.</li>\n<li><strong>Betta community (expanded):</strong> 1 betta + 8 harlequin rasboras + 3 nerite snails. More room than a 10 gallon for the betta to coexist with tank mates.</li>\n<li><strong>Nano schooling:</strong> 10\u201312 neon tetras + 6 pygmy corydoras. A larger school than a 10 gallon can support, creating a more impressive display.</li>\n<li><strong>Guppy tank:</strong> 8\u201310 guppies (males only to avoid overpopulation) with a small cleanup crew.</li>\n</ul>\n\n<h2 id=\"column-tanks\">Column/Portrait Tanks</h2>\n<p>15 gallon column tanks are popular for their small footprint and dramatic height. However, they have limitations:</p>\n<ul>\n<li>Less swimming room horizontally \u2014 most fish swim side to side, not up and down.</li>\n<li>Harder to light effectively \u2014 deep, narrow tanks need focused, powerful lights.</li>\n<li>More difficult to maintain \u2014 reaching the bottom of a tall tank is awkward.</li>\n<li>Better for fish that use vertical space \u2014 bettas (they visit the surface frequently) and shrimp.</li>\n</ul>\n\n<h2 id=\"equipment\">Equipment</h2>\n<ul>\n<li><strong>Filter:</strong> AquaClear 20 or 30, or the Fluval Flex built-in system if using that tank.</li>\n<li><strong>Heater:</strong> 50\u201375W adjustable. Matches the tank well without overheating.</li>\n<li><strong>Light:</strong> Depends on form factor. Standard 24\" fixtures work for rectangular. Column tanks may need clip-on or pendant lights.</li>\n</ul>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>Is a 15 gallon better than a 10 gallon?</h3>\n<p>Yes \u2014 more volume means more stability and more stocking options. If you have the space and budget, 15 is always preferable to 10.</p>\n<h3>How many fish in a 15 gallon?</h3>\n<p>10\u201315 small fish comfortably. The extra volume over a 10 gallon typically allows for one additional species or a larger school.</p>",
+    "metaTitle": "15 Gallon Fish Tank Guide: Setup, Stocking & Column Tanks | World of Aquariums",
+    "metaDescription": "Complete 15 gallon fish tank guide. Standard and column configurations. Best fish, stocking ideas, equipment, and comparison with 10 and 20 gallon tanks.",
+    "imageUrl": "/images/tanks/15-gallon-fish-tank.svg"
+  },
+  {
+    "slug": "20-gallon-fish-tank",
+    "gallons": 20,
+    "name": "20 Gallon Fish Tank",
+    "dimensions": [
+      {
+        "label": "Standard (High)",
+        "length": 24,
+        "width": 12,
+        "height": 16,
+        "unit": "inches"
+      },
+      {
+        "label": "Long",
+        "length": 30,
+        "width": 12,
+        "height": 12,
+        "unit": "inches"
+      }
+    ],
+    "weight": {
+      "empty": 25,
+      "filled": 225
+    },
+    "recommendedFish": [
+      "neon-tetra",
+      "guppy",
+      "corydoras-catfish",
+      "dwarf-gourami",
+      "platy",
+      "cherry-barb",
+      "harlequin-rasbora",
+      "kuhli-loach",
+      "cherry-shrimp",
+      "bristlenose-pleco"
+    ],
+    "recommendedFilter": "HOB filter rated for 20\u201340 gal (AquaClear 30, Fluval C3) or canister (Fluval 107)",
+    "recommendedHeater": "100W adjustable heater (Eheim Jager 100W, Cobalt Neo-Therm 100W)",
+    "idealFor": [
+      "Community tanks",
+      "First goldfish tank (fancy)",
+      "Planted aquascapes",
+      "Breeding setups",
+      "Dwarf cichlid tanks"
+    ],
+    "keywords": [
+      "20 gallon fish tank",
+      "20 gallon aquarium",
+      "20 gallon long",
+      "best fish for 20 gallon tank",
+      "20 gallon tank stocking",
+      "20 gallon planted tank"
+    ],
+    "searchVolume": 27100,
+    "description": "The 20 gallon fish tank is where the aquarium hobby truly opens up. Available in both Standard (High) and Long configurations, this size supports genuine community tanks with multiple species, provides enough room for a single fancy goldfish, and is the most popular size for planted aquascapes and breeding setups. The 20 gallon Long variant (30\" \u00d7 12\" \u00d7 12\") is particularly beloved for its extra horizontal swimming space.",
+    "careGuide": "<h2 id=\"overview\">20 Gallon Tank Overview</h2>\n<p>The 20 gallon aquarium comes in two standard configurations, each with distinct advantages. The 20 gallon High (24\" \u00d7 12\" \u00d7 16\") has a smaller footprint but more vertical space, while the 20 gallon Long (30\" \u00d7 12\" \u00d7 12\") provides more horizontal swimming room and bottom area. For most freshwater setups, the 20 Long is preferred \u2014 most fish swim horizontally, not vertically, and the extra length provides better territory distribution in community tanks.</p>\n<p>At 20 gallons, you cross a threshold where community fishkeeping becomes genuinely viable. You can maintain stable schools of 10+ nano fish, keep species that need more space (like dwarf gouramis or a fancy goldfish), and create planted aquascapes with real depth and perspective.</p>\n\n<h2 id=\"20-high-vs-long\">20 High vs 20 Long</h2>\n<ul>\n<li><strong>20 High (24\" \u00d7 12\" \u00d7 16\"):</strong> Better for tall plants and aquascapes that use vertical space. Good for species that occupy different water levels. Takes up less counter/shelf space. Slightly harder to light evenly due to depth.</li>\n<li><strong>20 Long (30\" \u00d7 12\" \u00d7 12\"):</strong> More swimming room for active fish. Better for bottom dwellers (more floor space). Easier to light, clean, and aquascape. Generally preferred by experienced aquarists. Excellent for breeding setups.</li>\n</ul>\n\n<h2 id=\"best-fish\">Best Fish for a 20 Gallon Tank</h2>\n<h3>Community Tank (peaceful mix)</h3>\n<p>A classic community: 8\u201310 neon or cardinal tetras + 4\u20136 corydoras catfish + 1 dwarf gourami or pair of honey gouramis + 2\u20133 nerite snails. Covers all water levels \u2014 tetras in the mid/top, corys on the bottom, gourami as a centerpiece.</p>\n<h3>Livebearer Community</h3>\n<p>8\u201310 guppies or endlers + 6 platies or swordtails + 4 corydoras. Colorful, active, and prolific breeders (be prepared for babies).</p>\n<h3>Single Fancy Goldfish</h3>\n<p>20 gallons is the minimum for one fancy goldfish (fantail, oranda, ryukin). Add 10 gallons per additional goldfish. Not suitable for common/comet goldfish (need 30+ gal each).</p>\n<h3>Dwarf Cichlid Tank</h3>\n<p>A pair of German Blue Rams or Apistogramma with 8 tetras and 4 corydoras. More advanced but incredibly rewarding \u2014 dwarf cichlids display fascinating breeding behavior.</p>\n<h3>Planted Shrimp Tank</h3>\n<p>100+ cherry shrimp in a heavily planted aquascape with mosses, ferns, and crypts. Possibly the most relaxing setup in the hobby.</p>\n\n<h2 id=\"equipment\">Essential Equipment</h2>\n<ul>\n<li><strong>Filter:</strong> HOB rated for 30\u201340 gallons (AquaClear 30 or 50, Seachem Tidal 35) provides adequate flow. A canister filter (Fluval 107) is a premium option that provides superior filtration and runs quieter.</li>\n<li><strong>Heater:</strong> 100W adjustable is standard. In cooler rooms, consider 150W for extra capacity. Place near filter outflow for heat distribution.</li>\n<li><strong>Light:</strong> For planted tanks, the Fluval Plant 3.0 (24\"), Finnex Planted+ 24/7, or Nicrew SkyLED Plus are excellent options at different price points.</li>\n<li><strong>Stand:</strong> At 225 lbs filled, a dedicated aquarium stand is strongly recommended. Standard furniture may not support this weight safely long-term.</li>\n</ul>\n\n<h2 id=\"planted-tank\">20 Gallon Planted Tank</h2>\n<p>The 20 gallon \u2014 especially the Long \u2014 is considered one of the best sizes for planted aquascaping. It's large enough for dramatic layouts but small enough to keep costs reasonable. The 20 Long's shallow depth (12\") makes it easy to light effectively without expensive fixtures.</p>\n<p>A classic low-tech planted 20 Long might include: Vallisneria in the back, cryptocorynes and anubias in the midground, dwarf sagittaria or monte carlo in the foreground, and java moss on a piece of driftwood. No CO2 needed \u2014 just a decent light, root tabs, and liquid fertilizer.</p>\n\n<h2 id=\"maintenance\">Maintenance Schedule</h2>\n<ul>\n<li><strong>Weekly:</strong> 20\u201325% water change (~4\u20135 gallons). Gravel vacuum front sections. Test parameters if issues suspected.</li>\n<li><strong>Bi-weekly:</strong> Rinse filter media. Trim plants. Clean glass.</li>\n<li><strong>Monthly:</strong> Deep clean. Check equipment. Replace consumables.</li>\n</ul>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>How many fish can live in a 20 gallon tank?</h3>\n<p>Roughly 15\u201320 small fish (under 2\") or fewer larger fish. Example: 10 tetras + 6 corydoras + 1 centerpiece fish is a well-balanced community. Avoid overcrowding \u2014 it's the most common cause of water quality problems.</p>\n<h3>Should I get a 20 High or 20 Long?</h3>\n<p>20 Long is almost always the better choice for fishkeeping. More swimming space, more bottom area, easier to maintain and light. The only reason to choose High is if counter space is very limited.</p>\n<h3>Can I keep goldfish in a 20 gallon?</h3>\n<p>One fancy goldfish (fantail, oranda, ryukin) \u2014 yes. Common/comet goldfish \u2014 no, they need 30+ gallons each. Never keep two goldfish in a 20 gallon.</p>\n<h3>How much does a 20 gallon tank weigh?</h3>\n<p>Empty: ~25 lbs. Filled: ~225 lbs. A proper stand is highly recommended at this size.</p>",
+    "metaTitle": "20 Gallon Fish Tank Guide: Best Fish, Setup & 20 Long vs High | World of Aquariums",
+    "metaDescription": "Complete 20 gallon fish tank guide. 20 Long vs High comparison, best fish, community stocking ideas, planted tank setup, and equipment recommendations.",
+    "imageUrl": "/images/tanks/20-gallon-fish-tank.svg"
+  },
+  {
+    "slug": "29-gallon-fish-tank",
+    "gallons": 29,
+    "name": "29 Gallon Fish Tank",
+    "dimensions": [
+      {
+        "label": "Standard",
+        "length": 30,
+        "width": 12,
+        "height": 18,
+        "unit": "inches"
+      }
+    ],
+    "weight": {
+      "empty": 40,
+      "filled": 330
+    },
+    "recommendedFish": [
+      "angelfish",
+      "dwarf-gourami",
+      "pearl-gourami",
+      "neon-tetra",
+      "corydoras-catfish",
+      "german-blue-ram",
+      "cherry-barb",
+      "harlequin-rasbora",
+      "bristlenose-pleco",
+      "kuhli-loach"
+    ],
+    "recommendedFilter": "HOB (AquaClear 50) or canister filter (Fluval 207)",
+    "recommendedHeater": "150W adjustable heater",
+    "idealFor": [
+      "Angelfish tanks",
+      "Larger community setups",
+      "Intermediate aquarists",
+      "Tall planted aquascapes"
+    ],
+    "keywords": [
+      "29 gallon fish tank",
+      "29 gallon aquarium",
+      "best fish for 29 gallon",
+      "29 gallon tank stocking",
+      "29 gallon fish tank setup"
+    ],
+    "searchVolume": 8100,
+    "description": "The 29 gallon fish tank shares the same 30\" \u00d7 12\" footprint as the popular 20 Long but adds 6 inches of height (18\" vs 12\"), making it ideal for taller fish like angelfish and species that appreciate vertical swimming space. It's one of the most popular \"step up\" sizes for aquarists outgrowing their 10 or 20 gallon setups.",
+    "careGuide": "<h2 id=\"overview\">29 Gallon Tank Overview</h2>\n<p>The 29 gallon aquarium measures 30\" \u00d7 12\" \u00d7 18\" \u2014 the exact same length and width as a 20 Long, but with 6 extra inches of height. This additional vertical space opens up stocking options that the shallower 20 Long can't support, most notably angelfish, which need at least 18\" of water depth to develop their tall body shape properly.</p>\n<p>At 330 lbs filled, a 29 gallon definitely requires a proper aquarium stand. It's a substantial tank that provides real presence in a room while remaining manageable for intermediate aquarists.</p>\n\n<h2 id=\"best-fish\">Best Fish for a 29 Gallon Tank</h2>\n<h3>Angelfish Community</h3>\n<p>A pair of angelfish with 8\u201310 rummy nose tetras and 6 corydoras catfish. The 29's height is perfect for angelfish, and the tetras are fast enough to avoid being bullied. Avoid small fish like neon tetras once angelfish reach adult size \u2014 they may become food.</p>\n<h3>Pearl Gourami Community</h3>\n<p>A pair of pearl gouramis (one of the most beautiful freshwater fish) with 10 harlequin rasboras, 6 kuhli loaches, and a bristlenose pleco. Peaceful, elegant, and easy to maintain.</p>\n<h3>Dwarf Cichlid Breeding Tank</h3>\n<p>2\u20133 pairs of German Blue Rams or Apistogramma with a school of tetras. The extra height provides territory separation, and you can observe fascinating breeding and parental care behaviors.</p>\n<h3>Large Community</h3>\n<p>12 neon/cardinal tetras + 6 corydoras + 6 cherry barbs + 2 honey gouramis + 1 bristlenose pleco + nerite snails. A vibrant, active community that showcases fish from all water levels.</p>\n\n<h2 id=\"29-vs-20-long\">29 Gallon vs 20 Long</h2>\n<ul>\n<li>Same footprint (30\" \u00d7 12\") \u2014 fits the same space and stands.</li>\n<li>29 gal adds 6\" height \u2014 essential for tall-bodied fish like angelfish.</li>\n<li>50% more water volume means more stable parameters and more stocking capacity.</li>\n<li>Slightly harder to light evenly due to extra depth. May need a stronger fixture for planted tanks.</li>\n<li>More weight (330 vs 225 lbs) \u2014 a proper stand is non-negotiable.</li>\n</ul>\n\n<h2 id=\"equipment\">Equipment</h2>\n<ul>\n<li><strong>Filter:</strong> AquaClear 50 (HOB) or Fluval 207 (canister). The AquaClear 50 is the go-to budget choice. A canister provides cleaner look (no HOB hanging off the back) and superior bio-filtration.</li>\n<li><strong>Heater:</strong> 150W adjustable. The extra volume and height mean a 100W may struggle in cool rooms.</li>\n<li><strong>Light:</strong> Need a 30\" fixture. For plants, consider the Fluval Plant 3.0 (30\") or Finnex Planted+ 24/7. The extra depth means you may need higher PAR output than a 20 Long for the same substrate-level light.</li>\n</ul>\n\n<h2 id=\"maintenance\">Maintenance</h2>\n<ul>\n<li><strong>Weekly:</strong> 20\u201325% water change (~6\u20137 gallons). Standard siphon with gravel vacuum.</li>\n<li><strong>Bi-weekly:</strong> Filter maintenance, plant trimming, glass cleaning.</li>\n<li><strong>Monthly:</strong> Deep clean, equipment check.</li>\n</ul>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>Can I keep angelfish in a 29 gallon?</h3>\n<p>Yes \u2014 a pair of angelfish works well in a 29 gallon. The 18\" height is adequate for their body shape. Don't keep more than 2 angels in a 29, and avoid keeping them with very small fish that could become prey.</p>\n<h3>Is a 29 gallon good for beginners?</h3>\n<p>It's fine for beginners who want to skip the smaller tank phase. The larger water volume is actually more forgiving of mistakes than a 10 gallon. The main consideration is the stand requirement and higher startup cost.</p>\n<h3>How many fish in a 29 gallon?</h3>\n<p>Approximately 20\u201325 small fish or fewer larger fish. A well-planned community with fish at different water levels makes the most of the available space.</p>",
+    "metaTitle": "29 Gallon Fish Tank Guide: Best Fish, Setup & Stocking | World of Aquariums",
+    "metaDescription": "Complete 29 gallon fish tank guide. Perfect for angelfish. Stocking ideas, equipment, 29 vs 20 Long comparison, and community tank setups.",
+    "imageUrl": "/images/tanks/29-gallon-fish-tank.svg"
+  },
+  {
+    "slug": "30-gallon-fish-tank",
+    "gallons": 30,
+    "name": "30 Gallon Fish Tank",
+    "dimensions": [
+      {
+        "label": "Standard",
+        "length": 36,
+        "width": 12,
+        "height": 16,
+        "unit": "inches"
+      },
+      {
+        "label": "Long",
+        "length": 36,
+        "width": 12,
+        "height": 16,
+        "unit": "inches"
+      }
+    ],
+    "weight": {
+      "empty": 43,
+      "filled": 348
+    },
+    "recommendedFish": [
+      "angelfish",
+      "dwarf-gourami",
+      "pearl-gourami",
+      "neon-tetra",
+      "corydoras-catfish",
+      "german-blue-ram",
+      "boesemani-rainbowfish",
+      "bristlenose-pleco",
+      "swordtail",
+      "molly"
+    ],
+    "recommendedFilter": "HOB (AquaClear 50) or canister (Fluval 107/207)",
+    "recommendedHeater": "100\u2013150W adjustable",
+    "idealFor": [
+      "Single goldfish (common/comet)",
+      "Angelfish pair",
+      "Medium community tanks",
+      "Growing out from smaller tanks"
+    ],
+    "keywords": [
+      "30 gallon fish tank",
+      "30 gallon aquarium",
+      "best fish for 30 gallon",
+      "30 gallon tank stocking",
+      "30 gallon fish tank setup"
+    ],
+    "searchVolume": 12100,
+    "description": "The 30 gallon fish tank (36\" \u00d7 12\" \u00d7 16\") hits a sweet spot for aquarists wanting more capacity than a 20 gallon without jumping to the 40+ gallon range. It's the minimum recommended size for a single common goldfish and supports a comfortable angelfish pair. The 3-foot length provides good swimming space while remaining compact enough for most living spaces.",
+    "careGuide": "<h2 id=\"overview\">30 Gallon Tank Overview</h2>\n<p>The 30 gallon aquarium measures 36\" \u00d7 12\" \u00d7 16\" \u2014 sharing the same width and height as many 20 gallon variants but adding 6\u201312 inches of length. This 3-foot tank provides a noticeable step up in swimming room and stocking capacity over 20 gallons while remaining practical for most homes.</p>\n<p>At about 348 lbs filled, a stand is strongly recommended but the tank is still manageable compared to the 55+ gallon range. The 30 gallon is particularly popular for single goldfish setups and angelfish pairs.</p>\n\n<h2 id=\"best-fish\">Best Fish for a 30 Gallon Tank</h2>\n<h3>Common Goldfish</h3>\n<p>30 gallons is the minimum for a single common or comet goldfish (they need the length for swimming). These fish can reach 12+ inches and produce enormous waste \u2014 heavy filtration is essential. Add 10+ gallons per additional goldfish.</p>\n<h3>Angelfish Pair</h3>\n<p>A pair of angelfish with a school of medium-sized tetras (rummy nose, black skirt) and corydoras. The 16\" height is adequate for angelfish development.</p>\n<h3>Large Community</h3>\n<p>10\u201312 tetras + 6 corydoras + 4\u20136 livebearers (platies or swordtails) + 1 bristlenose pleco + 1 dwarf gourami. A diverse, vibrant community.</p>\n<h3>Rainbowfish School</h3>\n<p>6\u20138 Boesemani or Praecox rainbowfish with a corydoras school. The 36\" length gives these active swimmers room to show off.</p>\n\n<h2 id=\"equipment\">Equipment</h2>\n<ul>\n<li><strong>Filter:</strong> AquaClear 50 (HOB) handles a standard community. For messy fish like goldfish, upgrade to AquaClear 70 or a canister filter (Fluval 207).</li>\n<li><strong>Heater:</strong> 100\u2013150W adjustable. 150W for rooms that get cool.</li>\n<li><strong>Light:</strong> 36\" fixture. Nicrew ClassicLED Plus or Fluval Plant 3.0 (36\") for planted setups.</li>\n</ul>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>30 gallon vs 29 gallon \u2014 what's the difference?</h3>\n<p>A 29 gallon is 30\" \u00d7 12\" \u00d7 18\" (taller, shorter). A 30 gallon is 36\" \u00d7 12\" \u00d7 16\" (longer, shorter). The 30 has 6 more inches of swimming length but 2\" less height. For most fish, the extra length is more beneficial.</p>\n<h3>How many fish in a 30 gallon?</h3>\n<p>20\u201330 small fish or fewer larger species. The 3-foot length supports a diverse community with species occupying different zones.</p>\n<h3>Can I keep goldfish in a 30 gallon?</h3>\n<p>One common/comet goldfish \u2014 yes. One or two fancy goldfish \u2014 yes. Multiple common goldfish \u2014 no, need 40+ gallons.</p>",
+    "metaTitle": "30 Gallon Fish Tank Guide: Best Fish, Stocking & Setup | World of Aquariums",
+    "metaDescription": "Complete 30 gallon fish tank guide. Ideal for goldfish and angelfish. Stocking ideas, equipment, and community tank setups for the 3-foot tank.",
+    "imageUrl": "/images/tanks/30-gallon-fish-tank.svg"
+  },
+  {
+    "slug": "40-gallon-fish-tank",
+    "gallons": 40,
+    "name": "40 Gallon Fish Tank",
+    "dimensions": [
+      {
+        "label": "Breeder",
+        "length": 36,
+        "width": 18,
+        "height": 16,
+        "unit": "inches"
+      },
+      {
+        "label": "Long",
+        "length": 48,
+        "width": 12,
+        "height": 16,
+        "unit": "inches"
+      }
+    ],
+    "weight": {
+      "empty": 55,
+      "filled": 455
+    },
+    "recommendedFish": [
+      "angelfish",
+      "discus",
+      "german-blue-ram",
+      "pearl-gourami",
+      "boesemani-rainbowfish",
+      "corydoras-catfish",
+      "bristlenose-pleco",
+      "cherry-barb",
+      "congo-tetra",
+      "firemouth-cichlid"
+    ],
+    "recommendedFilter": "Canister filter (Fluval 207/307) or large HOB (AquaClear 70)",
+    "recommendedHeater": "200W adjustable heater (or 2 \u00d7 100W for redundancy)",
+    "idealFor": [
+      "Breeder tanks",
+      "Medium cichlid communities",
+      "Discus (single/pair)",
+      "Serious planted aquascapes",
+      "Rainbowfish displays"
+    ],
+    "keywords": [
+      "40 gallon fish tank",
+      "40 gallon breeder",
+      "40 gallon aquarium",
+      "best fish for 40 gallon",
+      "40 gallon breeder stocking",
+      "40 gallon tank setup"
+    ],
+    "searchVolume": 14800,
+    "description": "The 40 gallon fish tank \u2014 especially the Breeder variant (36\" \u00d7 18\" \u00d7 16\") \u2014 is a favorite among experienced aquarists for its exceptional footprint-to-volume ratio. The 40 Breeder's extra 18\" width (vs the standard 12\") provides significantly more floor space and aquascaping depth than typical tanks, making it ideal for breeding setups, bottom-dwelling fish, and aquascapes with true front-to-back perspective.",
+    "careGuide": "<h2 id=\"overview\">40 Gallon Tank Overview</h2>\n<p>The 40 gallon comes in two main configurations. The 40 Breeder (36\" \u00d7 18\" \u00d7 16\") is by far the more popular choice, beloved for its wide, shallow profile that provides exceptional bottom area and makes aquascaping and maintenance easy. The 40 Long (48\" \u00d7 12\" \u00d7 16\") is less common but offers maximum horizontal swimming space.</p>\n<p>The 40 Breeder specifically has achieved cult status in the hobby. Its 18\" depth (front to back) allows for proper aquascaping with foreground, midground, and background zones \u2014 something narrower tanks can't achieve. Breeders use it for its large floor area. Aquascapers love the perspective it creates. And fishkeepers appreciate the volume-to-footprint ratio.</p>\n\n<h2 id=\"40-breeder\">Why the 40 Breeder is Special</h2>\n<ul>\n<li><strong>18\" width:</strong> Most tanks are 12\" wide. The extra 6\" creates dramatically more aquascaping depth and floor area for bottom-dwelling fish.</li>\n<li><strong>Low profile:</strong> At 16\" tall, it's easy to reach the bottom during maintenance \u2014 no need for extra-long tools.</li>\n<li><strong>Lighting:</strong> The shallow depth means moderate lights easily reach the bottom, making planted tanks straightforward.</li>\n<li><strong>Versatility:</strong> Works as a freshwater community, breeding tank, paludarium, or even a reptile enclosure.</li>\n<li><strong>Cost:</strong> Often available for $40\u201350 during Petco dollar-per-gallon sales \u2014 incredible value for the volume.</li>\n</ul>\n\n<h2 id=\"best-fish\">Best Fish for a 40 Gallon Tank</h2>\n<h3>Rainbowfish Display</h3>\n<p>8 Boesemani rainbowfish + 8 corydoras + 1 bristlenose pleco. Rainbowfish are one of the most underrated groups \u2014 their iridescent colors are stunning and they're active, peaceful swimmers. The 40 Breeder gives them room to display.</p>\n<h3>Angelfish Community</h3>\n<p>2\u20134 angelfish + 12 rummy nose tetras + 8 corydoras + 1 bristlenose pleco. The extra width gives angelfish room to establish territories without constant aggression.</p>\n<h3>Dwarf Cichlid Paradise</h3>\n<p>3\u20134 pairs of mixed Apistogramma species with a school of cardinal tetras and corydoras. The 40 Breeder's floor space allows multiple pairs to establish separate territories.</p>\n<h3>Planted Aquascape</h3>\n<p>The 40 Breeder is possibly the best tank size for a dedicated planted aquascape. The dimensions allow for Iwagumi, nature-style, and Dutch layouts with proper sense of depth. Stock lightly with small schooling fish that complement the plants.</p>\n\n<h2 id=\"equipment\">Equipment</h2>\n<ul>\n<li><strong>Filter:</strong> Canister filter is ideal at this size \u2014 the Fluval 207 or 307, Eheim Classic 250, or SunSun HW-302 all work. A large HOB (AquaClear 70) is a budget alternative. For the 40 Breeder's wide footprint, a spray bar on the canister output helps distribute flow evenly.</li>\n<li><strong>Heater:</strong> 200W adjustable. For critical setups, use two 100W heaters on opposite sides for redundancy and even heating across the wide tank.</li>\n<li><strong>Light:</strong> Need a 36\" fixture for the Breeder. Two shorter lights side-by-side work too. The Fluval Plant 3.0 (36\") or two Nicrew ClassicLED Plus (18\" each) are popular for planted setups.</li>\n<li><strong>Stand:</strong> At 455 lbs filled, a proper stand is absolutely required. Metal or hardwood stands designed for 40 gallons. Never use standard household furniture.</li>\n</ul>\n\n<h2 id=\"maintenance\">Maintenance</h2>\n<ul>\n<li><strong>Weekly:</strong> 25% water change (~10 gallons). The wide opening of the 40 Breeder makes water changes and gravel vacuuming easy.</li>\n<li><strong>Bi-weekly:</strong> Canister filter rinse (in old tank water). Plant trimming.</li>\n<li><strong>Monthly:</strong> Deep substrate cleaning. Equipment inspection.</li>\n</ul>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>What's the difference between 40 Breeder and 40 Long?</h3>\n<p>40 Breeder is 36\" \u00d7 18\" \u00d7 16\" (wide and shallow). 40 Long is 48\" \u00d7 12\" \u00d7 16\" (long and narrow). The Breeder is more popular due to its superior width for aquascaping and bottom-dwelling fish.</p>\n<h3>How many fish in a 40 gallon?</h3>\n<p>25\u201335 small fish or a mix of sizes. The 40 Breeder's wide footprint supports more bottom-dwellers than a standard 40 gallon. A well-planned community can feel like a complete underwater ecosystem.</p>\n<h3>Is the 40 Breeder good for beginners?</h3>\n<p>Excellent \u2014 if you have the space and budget. The large water volume is very forgiving of mistakes, and the wide opening makes maintenance easy. It's a tank many beginners wish they'd started with.</p>",
+    "metaTitle": "40 Gallon Fish Tank Guide: 40 Breeder Setup, Fish & Stocking | World of Aquariums",
+    "metaDescription": "Complete 40 gallon fish tank guide. Why the 40 Breeder is the hobby's best-kept secret. Stocking ideas, equipment, planted tank tips, and community setups.",
+    "imageUrl": "/images/tanks/40-gallon-fish-tank.svg"
+  },
+  {
+    "slug": "55-gallon-fish-tank",
+    "gallons": 55,
+    "name": "55 Gallon Fish Tank",
+    "dimensions": [
+      {
+        "label": "Standard",
+        "length": 48,
+        "width": 12,
+        "height": 21,
+        "unit": "inches"
+      }
+    ],
+    "weight": {
+      "empty": 78,
+      "filled": 625
+    },
+    "recommendedFish": [
+      "angelfish",
+      "discus",
+      "oscar-fish",
+      "silver-dollar-fish",
+      "boesemani-rainbowfish",
+      "congo-tetra",
+      "pearl-gourami",
+      "bristlenose-pleco",
+      "corydoras-catfish",
+      "firemouth-cichlid"
+    ],
+    "recommendedFilter": "Canister filter (Fluval 307, Eheim Classic 350) \u2014 dual canister ideal",
+    "recommendedHeater": "300W adjustable (or 2 \u00d7 150W on opposite ends)",
+    "idealFor": [
+      "Oscar fish",
+      "Discus tanks",
+      "Large community tanks",
+      "African cichlid tanks",
+      "Display tanks",
+      "Living room centerpieces"
+    ],
+    "keywords": [
+      "55 gallon fish tank",
+      "55 gallon aquarium",
+      "best fish for 55 gallon",
+      "55 gallon tank stocking",
+      "55 gallon fish tank setup",
+      "55 gallon tank stand"
+    ],
+    "searchVolume": 22200,
+    "description": "The 55 gallon fish tank is the classic \"big tank\" that many aquarists dream of. At 48\" \u00d7 12\" \u00d7 21\", it makes a commanding presence in any room and supports impressive species like oscars, discus, and large angelfish groups. It's the most popular large tank size due to being widely available, reasonably priced, and fitting through standard doorways. The 4-foot length creates spectacular community and planted displays.",
+    "careGuide": "<h2 id=\"overview\">55 Gallon Tank Overview</h2>\n<p>The 55 gallon aquarium (48\" \u00d7 12\" \u00d7 21\") is the standard \"large tank\" of the hobby. Its 4-foot length creates a dramatic display, and the 55 gallon size is where you can start keeping impressive species that need serious swimming room. At 625 lbs filled, it's a commitment in space, weight, and maintenance \u2014 but the payoff is a stunning display that becomes the focal point of any room.</p>\n<p>One common criticism of the 55 gallon is its narrow width \u2014 at only 12\" deep (front to back), it's the same width as a 10 gallon tank. This limits aquascaping depth and can feel narrow for large fish. For this reason, some aquarists prefer a 75 gallon (48\" \u00d7 18\" \u00d7 21\") which adds 6\" of width for a marginal increase in footprint. Still, the 55 remains the most popular large tank due to widespread availability and lower cost.</p>\n\n<h2 id=\"best-fish\">Best Fish for a 55 Gallon Tank</h2>\n<h3>Oscar Tank</h3>\n<p>A single oscar can live in a 55 gallon. Oscars are often called \"water puppies\" for their dog-like personalities \u2014 they recognize their owners, beg for food, and have distinct individual temperaments. Pair with a large pleco for cleanup. Note: two oscars need 75+ gallons.</p>\n<h3>Discus Tank</h3>\n<p>4\u20135 discus in a well-maintained, warm (82\u201386\u00b0F) planted tank. Discus are the \"kings of the aquarium\" \u2014 among the most beautiful freshwater fish but demanding in their care requirements. The 55 gallon's height accommodates their tall body shape.</p>\n<h3>Large Community</h3>\n<p>4 angelfish + 12 rummy nose tetras + 10 corydoras + 6 cherry barbs + 1 bristlenose pleco + 6 kuhli loaches. The 4-foot length allows multiple species to establish territories and swim freely.</p>\n<h3>African Cichlid Tank</h3>\n<p>15\u201320 mbuna cichlids with rock work creating caves and territories. African cichlids bring explosion of color \u2014 electric blues, bright yellows, vivid oranges. They require hard, alkaline water and are moderately aggressive, making overstocking (counterintuitively) a strategy to distribute aggression.</p>\n<h3>Rainbowfish Display</h3>\n<p>12+ Boesemani or Turquoise rainbowfish with 8 Congo tetras and 8 corydoras. The 4-foot swim length lets these active fish display their best behavior and colors.</p>\n\n<h2 id=\"equipment\">Equipment</h2>\n<ul>\n<li><strong>Filter:</strong> A canister filter is practically required at this size. Fluval 307 or 407, Eheim Classic 350, or two smaller canisters. Total flow should be 4\u20138x tank volume per hour (220\u2013440 GPH).</li>\n<li><strong>Heater:</strong> 300W total. Either one 300W unit or two 150W heaters on opposite ends of the 4-foot tank. Dual heaters provide redundancy and more even heating.</li>\n<li><strong>Light:</strong> Need a 48\" fixture or two 24\" fixtures side by side. For planted tanks: Fluval Plant 3.0 (48\") or two Finnex Planted+ 24/7 HLC units.</li>\n<li><strong>Stand:</strong> Non-negotiable. At 625 lbs, you need a stand specifically rated for 55 gallons. Metal stands ($50\u201380) or hardwood furniture-style stands ($100\u2013300) are available.</li>\n<li><strong>Substrate:</strong> 50\u201375 lbs for a 1\u20132\" layer. Plan for $30\u201380 depending on type.</li>\n</ul>\n\n<h2 id=\"setup-cost\">Setup Cost Breakdown</h2>\n<ul>\n<li><strong>Tank:</strong> $80\u2013120 (or $55 during dollar-per-gallon sales)</li>\n<li><strong>Stand:</strong> $50\u2013300 depending on style</li>\n<li><strong>Filter (canister):</strong> $80\u2013200</li>\n<li><strong>Heater:</strong> $25\u201350</li>\n<li><strong>Light:</strong> $30\u2013150 depending on planted vs fish-only</li>\n<li><strong>Substrate:</strong> $30\u201380</li>\n<li><strong>D\u00e9cor/plants:</strong> $30\u2013100+</li>\n<li><strong>Water testing:</strong> $25 (API Master Test Kit)</li>\n<li><strong>Total estimate:</strong> $350\u20131,000+ depending on choices</li>\n</ul>\n\n<h2 id=\"maintenance\">Maintenance</h2>\n<ul>\n<li><strong>Weekly:</strong> 25% water change (~14 gallons). A Python No Spill Clean and Fill or similar water changer is highly recommended at this volume \u2014 carrying buckets gets old fast.</li>\n<li><strong>Bi-weekly:</strong> Canister filter rinse. Plant trimming. Glass cleaning.</li>\n<li><strong>Monthly:</strong> Deep substrate clean. Check equipment. Test parameters.</li>\n</ul>\n<p>A Python water changer that connects to your faucet is one of the best investments for a 55 gallon \u2014 it eliminates carrying heavy buckets and makes water changes take 15 minutes instead of 45.</p>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>How much does a 55 gallon fish tank weigh?</h3>\n<p>Empty: ~78 lbs. Filled: ~625 lbs. It must be on a dedicated aquarium stand \u2014 no exceptions. Also consider floor load capacity in upstairs rooms.</p>\n<h3>How many fish in a 55 gallon?</h3>\n<p>40\u201350 small fish or fewer larger fish. A 55 gallon can support a genuinely impressive community. Plan species across different water levels (top, mid, bottom) for the most dynamic display.</p>\n<h3>55 gallon vs 75 gallon \u2014 which should I get?</h3>\n<p>If space and budget allow, the 75 gallon (48\" \u00d7 18\" \u00d7 21\") is a significant upgrade for only a 36% increase in volume. The extra 6\" of width makes a huge difference in aquascaping options and fish comfort. But the 55 is more affordable and easier to find.</p>\n<h3>Can an oscar live in a 55 gallon?</h3>\n<p>A single oscar can, though 75 gallons is ideal. Oscars grow to 12\u201314 inches and are extremely messy \u2014 heavy filtration is essential.</p>",
+    "metaTitle": "55 Gallon Fish Tank Guide: Best Fish, Setup & Equipment | World of Aquariums",
+    "metaDescription": "Complete 55 gallon fish tank guide. Best fish including oscars and discus. Equipment, setup costs, community stocking ideas, and maintenance tips.",
+    "imageUrl": "/images/tanks/55-gallon-fish-tank.svg"
+  },
+  {
+    "slug": "75-gallon-fish-tank",
+    "gallons": 75,
+    "name": "75 Gallon Fish Tank",
+    "dimensions": [
+      {
+        "label": "Standard",
+        "length": 48,
+        "width": 18,
+        "height": 21,
+        "unit": "inches"
+      }
+    ],
+    "weight": {
+      "empty": 140,
+      "filled": 850
+    },
+    "recommendedFish": [
+      "oscar-fish",
+      "discus",
+      "angelfish",
+      "boesemani-rainbowfish",
+      "silver-dollar-fish",
+      "congo-tetra",
+      "firemouth-cichlid",
+      "convict-cichlid",
+      "bristlenose-pleco",
+      "clown-pleco"
+    ],
+    "recommendedFilter": "Canister filter (Fluval 407, Eheim Classic 600) \u2014 dual filtration recommended",
+    "recommendedHeater": "300\u2013400W total (two heaters recommended)",
+    "idealFor": [
+      "Oscar pairs",
+      "Discus groups",
+      "Large cichlid communities",
+      "Show-quality planted tanks",
+      "Living room centerpieces"
+    ],
+    "keywords": [
+      "75 gallon fish tank",
+      "75 gallon aquarium",
+      "best fish for 75 gallon",
+      "75 gallon tank setup",
+      "75 gallon tank stocking",
+      "75 gallon fish tank stand"
+    ],
+    "searchVolume": 14800,
+    "description": "The 75 gallon fish tank (48\" \u00d7 18\" \u00d7 21\") is the same length and height as the 55 gallon but adds 6 inches of width \u2014 and those 6 inches make an enormous difference. The 18\" depth allows for real aquascaping dimension, gives large fish comfortable turning room, and creates a display tank that looks and feels like a professional installation. Many experienced aquarists consider the 75 gallon the ideal large tank size.",
+    "careGuide": "<h2 id=\"overview\">75 Gallon Tank Overview</h2>\n<p>The 75 gallon aquarium occupies what many experienced hobbyists consider the sweet spot for large tanks. It shares the 48\" \u00d7 21\" front face with the 55 gallon but adds 6\" of depth (18\" vs 12\"), increasing the volume by 36% while requiring only marginally more floor space. That extra depth transforms the tank \u2014 large fish have room to turn comfortably, aquascapes gain genuine front-to-back perspective, and the overall viewing experience is dramatically improved.</p>\n<p>At 850 lbs filled, a 75 gallon is a serious installation. Floor load capacity, a robust stand, and planning for water change logistics are all important considerations before purchase.</p>\n\n<h2 id=\"75-vs-55\">75 Gallon vs 55 Gallon</h2>\n<ul>\n<li><strong>Same length (48\") and height (21\").</strong> Same stand length \u2014 may fit in the same wall space.</li>\n<li><strong>6\" wider (18\" vs 12\").</strong> Massive improvement in fish comfort and aquascaping depth.</li>\n<li><strong>36% more volume.</strong> Significantly more stable water parameters and stocking capacity.</li>\n<li><strong>225 lbs heavier filled (850 vs 625).</strong> Floor load capacity matters \u2014 especially on upper floors.</li>\n<li><strong>Marginally more expensive.</strong> The tank costs $30\u201350 more, but much of the same equipment works for both sizes.</li>\n</ul>\n<p>If you're debating between 55 and 75 gallon, the universal advice from experienced aquarists is: <strong>get the 75.</strong> The extra width is worth every penny and you'll never wish you'd gone smaller.</p>\n\n<h2 id=\"best-fish\">Best Fish for a 75 Gallon Tank</h2>\n<h3>Oscar Pair</h3>\n<p>75 gallons is the recommended minimum for a pair of oscars. These intelligent, personable fish need the space to coexist. Heavy filtration is essential \u2014 oscars are incredibly messy.</p>\n<h3>Discus School</h3>\n<p>5\u20136 discus in a warm (82\u201386\u00b0F), well-maintained planted tank. The 18\" depth gives discus comfortable swimming room and allows for a stunning aquascape backdrop.</p>\n<h3>Large Angelfish Community</h3>\n<p>4\u20136 angelfish with 15+ cardinal tetras, 10 corydoras, and a school of 8 Congo tetras. The 75's dimensions create a show-quality community tank.</p>\n<h3>African Cichlid Display</h3>\n<p>20\u201330 mbuna cichlids with extensive rockwork. The extra width allows for more cave structures and territory boundaries, reducing aggression compared to a narrow 55 gallon.</p>\n<h3>Planted Showpiece</h3>\n<p>A dedicated aquascaped 75 gallon is competition-worthy. The depth allows for elaborate hardscape with proper foreground-to-background transitions. Stock lightly with one impressive school.</p>\n\n<h2 id=\"equipment\">Equipment</h2>\n<ul>\n<li><strong>Filter:</strong> Canister filter rated for 75\u2013100+ gallons. Fluval FX4 (for messy fish like oscars), Fluval 407, or Eheim Classic 600. Many aquarists run dual canisters for redundancy and more complete filtration coverage.</li>\n<li><strong>Heater:</strong> 300\u2013400W total. Always use two heaters (e.g., 2 \u00d7 200W) on opposite ends. This ensures even heating across 4 feet and provides backup if one fails.</li>\n<li><strong>Light:</strong> 48\" fixture or dual 24\" fixtures. For heavy planting, the Fluval Plant 3.0 (48\") or AI Prime combo provides excellent coverage.</li>\n<li><strong>Water changer:</strong> A Python No Spill Clean and Fill or similar faucet-connected water changer is nearly essential. Changing 19 gallons (25%) with buckets is exhausting.</li>\n</ul>\n\n<h2 id=\"maintenance\">Maintenance</h2>\n<ul>\n<li><strong>Weekly:</strong> 25% water change (~19 gallons). Use a water changer system. Test parameters monthly once stable.</li>\n<li><strong>Bi-weekly:</strong> Alternate canister filter cleaning (if running dual). Plant maintenance.</li>\n<li><strong>Monthly:</strong> Deep substrate cleaning in sections. Equipment inspection.</li>\n</ul>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>How much does a 75 gallon tank weigh filled?</h3>\n<p>Approximately 850 lbs. Verify your floor can handle this weight, especially on upper floors. A standard residential floor supports ~40 lbs per square foot \u2014 a 75 gallon on a stand concentrates significant weight on a small area.</p>\n<h3>How much does it cost to set up a 75 gallon?</h3>\n<p>Budget $500\u20131,500+ depending on equipment choices. Tank ($150\u2013250), stand ($100\u2013400), canister filter ($100\u2013300), heaters ($40\u201380), lighting ($50\u2013250), substrate ($50\u2013100), fish/plants ($100\u2013300+).</p>\n<h3>Can I keep a 75 gallon on the second floor?</h3>\n<p>Usually yes, but check your home's structural details. Place the stand perpendicular to floor joists, against a load-bearing wall if possible. If in doubt, consult a structural engineer \u2014 it's cheaper than repairing a collapsed floor.</p>",
+    "metaTitle": "75 Gallon Fish Tank Guide: Setup, Best Fish & 75 vs 55 Comparison | World of Aquariums",
+    "metaDescription": "Complete 75 gallon fish tank guide. Why 75 beats 55, best fish (oscars, discus, angelfish), equipment, setup costs, and maintenance tips.",
+    "imageUrl": "/images/tanks/75-gallon-fish-tank.svg"
+  },
+  {
+    "slug": "125-gallon-fish-tank",
+    "gallons": 125,
+    "name": "125 Gallon Fish Tank",
+    "dimensions": [
+      {
+        "label": "Standard",
+        "length": 72,
+        "width": 18,
+        "height": 21,
+        "unit": "inches"
+      }
+    ],
+    "weight": {
+      "empty": 206,
+      "filled": 1400
+    },
+    "recommendedFish": [
+      "oscar-fish",
+      "discus",
+      "silver-dollar-fish",
+      "angelfish",
+      "boesemani-rainbowfish",
+      "firemouth-cichlid",
+      "convict-cichlid",
+      "jack-dempsey-cichlid",
+      "bristlenose-pleco"
+    ],
+    "recommendedFilter": "Dual canister filters (Fluval FX4/FX6) or large sump",
+    "recommendedHeater": "Two 300W heaters on opposite ends",
+    "idealFor": [
+      "Oscar pairs or groups",
+      "Large discus schools",
+      "African cichlid displays",
+      "Dream tank builds",
+      "Living room centerpieces"
+    ],
+    "keywords": [
+      "125 gallon fish tank",
+      "125 gallon aquarium",
+      "best fish for 125 gallon",
+      "125 gallon tank setup",
+      "125 gallon fish tank stand",
+      "large aquarium"
+    ],
+    "searchVolume": 8100,
+    "description": "The 125 gallon fish tank (72\" \u00d7 18\" \u00d7 21\") is a serious display aquarium \u2014 6 feet of stunning aquatic landscape that becomes the centerpiece of any room. At this size, you can keep virtually any freshwater species, create competition-worthy aquascapes, and build communities that rival professional installations. It's a dream tank that requires planning, investment, and commitment \u2014 but delivers an unmatched aquatic experience.",
+    "careGuide": "<h2 id=\"overview\">125 Gallon Tank Overview</h2>\n<p>The 125 gallon aquarium is a 6-foot, 18\"-wide display tank that represents the upper end of what most hobbyists keep at home. At 72\" \u00d7 18\" \u00d7 21\", it provides 6 linear feet of swimming space and enough volume to maintain virtually any freshwater species with room to spare.</p>\n<p>At approximately 1,400 lbs filled (nearly 3/4 of a ton), planning for a 125 gallon requires serious consideration of floor support, delivery logistics, and long-term commitment. This is not an impulse purchase \u2014 but for those who plan carefully, it's the ultimate home aquarium experience.</p>\n\n<h2 id=\"planning\">Planning Considerations</h2>\n<ul>\n<li><strong>Floor load:</strong> 1,400 lbs concentrated on a stand footprint. Ground-floor placement on concrete slab is ideal. Upper floors may require structural assessment \u2014 consult an engineer if uncertain.</li>\n<li><strong>Delivery:</strong> A 125 gallon glass tank weighs 200+ lbs empty and is 6 feet long. Plan how it will enter your home \u2014 measure doorways, hallways, and staircases.</li>\n<li><strong>Electrical:</strong> Multiple pieces of equipment (heaters, filters, lights) may draw significant power. Ensure your outlet circuit can handle the load.</li>\n<li><strong>Water changes:</strong> A 25% water change is ~31 gallons. A Python water changer or dedicated plumbing is essentially required at this volume.</li>\n<li><strong>Ongoing costs:</strong> Electricity (heaters, filters, lights), water, replacement media, food, and medications all scale with tank size. Budget $30\u201350/month for routine expenses.</li>\n</ul>\n\n<h2 id=\"best-fish\">Best Fish for a 125 Gallon</h2>\n<h3>Oscar Community</h3>\n<p>2\u20133 oscars with a large pleco and perhaps a school of silver dollars. Oscars finally have room to swim, display, and interact. This is the tank that does oscars justice.</p>\n<h3>Discus Showpiece</h3>\n<p>8\u201310 discus in a warm, beautifully planted tank. A school of this size allows discus to display their full social behaviors and the color variety is breathtaking.</p>\n<h3>Massive Community</h3>\n<p>6 angelfish + 20 rummy nose tetras + 12 corydoras + 8 Congo tetras + 8 cherry barbs + 2 pearl gouramis + 2 bristlenose plecos. A living, breathing underwater ecosystem.</p>\n<h3>New World Cichlid Tank</h3>\n<p>Mixed cichlid community \u2014 firemouths, convicts, Jack Dempseys (with careful selection). The 6-foot length allows territory establishment with less aggression.</p>\n<h3>Competition Aquascape</h3>\n<p>A 6-foot planted aquascape is the canvas for a masterpiece. With proper hardscape, plant selection, and lighting, a 125 can compete with professional installations.</p>\n\n<h2 id=\"equipment\">Equipment</h2>\n<ul>\n<li><strong>Filtration:</strong> Dual canister filters (Fluval FX4 + FX6, or two FX4s) providing 1,000+ GPH combined flow. Alternatively, a sump system (20\u201330 gallon sump beneath the stand) provides the most capacity and flexibility. For oscars and messy fish, a sump is ideal.</li>\n<li><strong>Heating:</strong> Two 300W heaters placed at opposite ends of the 6-foot tank. Dual heaters ensure even temperature and provide redundancy.</li>\n<li><strong>Lighting:</strong> Two 36\" fixtures or three 24\" fixtures to cover the 72\" length evenly. For a show-quality planted setup, the Fluval Plant 3.0 (dual) or an AI Blade system provides professional-level coverage.</li>\n<li><strong>Stand:</strong> Must be rated for 125 gallons \u2014 this is non-negotiable. Professional-grade metal or hardwood stands. Many aquarists build custom stands to match their home d\u00e9cor.</li>\n</ul>\n\n<h2 id=\"costs\">Estimated Setup Costs</h2>\n<ul>\n<li><strong>Tank:</strong> $300\u2013600</li>\n<li><strong>Stand:</strong> $200\u2013800 (custom stands can exceed $1,000)</li>\n<li><strong>Filtration (dual canister or sump):</strong> $200\u2013600</li>\n<li><strong>Heaters (\u00d72):</strong> $60\u2013100</li>\n<li><strong>Lighting:</strong> $100\u2013500</li>\n<li><strong>Substrate (100+ lbs):</strong> $80\u2013200</li>\n<li><strong>Hardscape and plants:</strong> $100\u2013500+</li>\n<li><strong>Fish:</strong> $100\u2013500+</li>\n<li><strong>Total estimate:</strong> $1,200\u20133,500+</li>\n</ul>\n\n<h2 id=\"maintenance\">Maintenance</h2>\n<ul>\n<li><strong>Weekly:</strong> 25% water change (~31 gallons) using a water changer system. 45\u201360 minutes including gravel vacuuming.</li>\n<li><strong>Bi-weekly:</strong> Alternate canister filter cleaning. Plant maintenance.</li>\n<li><strong>Monthly:</strong> Sectional deep cleaning. Equipment inspection. Water parameter testing.</li>\n</ul>\n\n<h2 id=\"faq\">Frequently Asked Questions</h2>\n<h3>Can my floor support a 125 gallon tank?</h3>\n<p>Ground floor on a concrete slab \u2014 almost certainly yes. Upper floors \u2014 it depends on construction. Standard residential floors support ~40 lbs/sq ft. A 125 gallon on a stand concentrates roughly 1,400 lbs on ~6 square feet (~233 lbs/sq ft) at each leg. Place perpendicular to floor joists, against a load-bearing wall, and consult a professional if uncertain.</p>\n<h3>How much does it cost to maintain a 125 gallon monthly?</h3>\n<p>Approximately $30\u201350/month for electricity, water, filter media replacement, food, and water conditioner. More if you keep demanding species requiring specialized food or medications.</p>\n<h3>125 gallon vs 120 gallon \u2014 what's the difference?</h3>\n<p>Both are 6 feet long. The 125 is 72\" \u00d7 18\" \u00d7 21\". The 120 is typically 72\" \u00d7 18\" \u00d7 24\" (taller) or 48\" \u00d7 24\" \u00d7 24\" (shorter but wider). Check exact dimensions \u2014 the same volume can come in very different proportions.</p>",
+    "metaTitle": "125 Gallon Fish Tank Guide: Dream Tank Setup & Stocking | World of Aquariums",
+    "metaDescription": "Complete 125 gallon fish tank guide. Planning, equipment, costs, stocking ideas for oscars, discus, and massive communities. The ultimate home aquarium.",
+    "imageUrl": "/images/tanks/125-gallon-fish-tank.svg"
+  }
+]

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="ogbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#072D4A"/>
+      <stop offset="100%" style="stop-color:#0B476F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#ogbg)"/>
+  <text x="600" y="280" text-anchor="middle" fill="white" font-size="64" font-family="system-ui, sans-serif" font-weight="800">World of Aquariums</text>
+  <text x="600" y="340" text-anchor="middle" fill="#7CD1FD" font-size="28" font-family="system-ui, sans-serif">Fish Care, Tank Setup, Equipment Reviews &amp; Interactive Tools</text>
+  <path d="M560,420 c-10,13-30,23-47,27 7,17 10,37 0,53 20,0 37,13 47,33 10-20 27-33 47-33-10-17-7-37 0-53-17-3-37-13-47-27z" fill="white" opacity="0.15"/>
+  <circle cx="545" cy="440" r="4" fill="white" opacity="0.08"/>
+</svg>

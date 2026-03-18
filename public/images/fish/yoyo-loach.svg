@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <linearGradient id="bg_63" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#E0F2FE"/>
+      <stop offset="100%" style="stop-color:#BAE6FD"/>
+    </linearGradient>
+    <linearGradient id="fish_63" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B5CF6"/>
+      <stop offset="100%" style="stop-color:#7C3AED"/>
+    </linearGradient>
+    <radialGradient id="light_63" cx="50%" cy="0%" r="80%">
+      <stop offset="0%" style="stop-color:white;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:white;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- Background water -->
+  <rect width="400" height="300" rx="16" fill="url(#bg_63)"/>
+  <rect width="400" height="300" rx="16" fill="url(#light_63)"/>
+  
+  <!-- Sand/substrate -->
+  <ellipse cx="200" cy="290" rx="210" ry="25" fill="#F5DEB3" opacity="0.4"/>
+  
+  <!-- Plants -->
+  
+  <path d="M62,285 Q54,250 57,230 Q67,240 62,285" fill="#86EFAC" opacity="0.5"/>
+  <path d="M67,285 Q77,245 72,225 Q64,235 67,285" fill="#4ADE80" opacity="0.4"/>
+  
+  <path d="M162,285 Q154,240 157,215 Q167,230 162,285" fill="#86EFAC" opacity="0.5"/>
+  <path d="M167,285 Q177,237 172,213 Q164,227 167,285" fill="#4ADE80" opacity="0.4"/>
+  
+  
+  <!-- Bubbles -->
+  <circle cx="262" cy="92" r="5" fill="white" opacity="0.15"/>
+  <circle cx="287" cy="72" r="6" fill="white" opacity="0.2"/>
+  <circle cx="312" cy="52" r="7" fill="white" opacity="0.25"/>
+  
+  <!-- Fish body -->
+  <ellipse cx="240" cy="150" rx="41" ry="26" fill="url(#fish_63)"/>
+  
+  <!-- Tail -->
+  <path d="M199,150 L167,118 L167,182 Z" fill="#7C3AED"/>
+  
+  <!-- Dorsal fin -->
+  
+  
+  <!-- Ventral fin -->
+  <path d="M240,176 Q245,188 225,184" fill="#7C3AED" opacity="0.6"/>
+  
+  <!-- Pectoral fin -->
+  <ellipse cx="253.66666666666666" cy="163" rx="10" ry="6" fill="#7C3AED" opacity="0.5" transform="rotate(-20 253.66666666666666 163)"/>
+  
+  <!-- Stripes or dots -->
+  <line x1="212.66666666666666" y1="129" x2="212.66666666666666" y2="171" stroke="#A78BFA" stroke-width="3" opacity="0.4"/><line x1="240" y1="129" x2="240" y2="171" stroke="#A78BFA" stroke-width="3" opacity="0.4"/><line x1="267.3333333333333" y1="129" x2="267.3333333333333" y2="171" stroke="#A78BFA" stroke-width="3" opacity="0.4"/>
+  
+  
+  <!-- Eye -->
+  <circle cx="214" cy="141.33333333333334" r="6" fill="white"/>
+  <circle cx="215" cy="141.33333333333334" r="3.5" fill="#1E293B"/>
+  <circle cx="216" cy="140.33333333333334" r="1.2" fill="white"/>
+  
+  <!-- Mouth -->
+  <path d="M278,152 Q283,154 278,156" fill="none" stroke="#7C3AED" stroke-width="1.5" opacity="0.6"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <linearGradient id="pbg_3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ECFDF5"/>
+      <stop offset="100%" style="stop-color:#D1FAE5"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" rx="16" fill="url(#pbg_3)"/>
+  
+  <!-- Substrate -->
+  <ellipse cx="200" cy="285" rx="210" ry="20" fill="#D2B48C" opacity="0.3"/>
+  
+  
+      <path d="M200,250 Q160.0153689607046,232.89899283371656 106.03073792140917,215.79798566743312 Q176.0153689607046,232.89899283371656 200,250" 
+            fill="#14B8A6" opacity="0.6" stroke="#0D9488" stroke-width="0.5"/><path d="M200,250 Q168.0153689607046,232.89899283371656 106.03073792140917,215.79798566743312" fill="none" stroke="#5EEAD4" stroke-width="0.8" opacity="0.3"/>
+      <path d="M200,250 Q148.3211781824477,209.0423977855504 142.64235636489542,168.0847955711008 Q164.3211781824477,209.0423977855504 200,250" 
+            fill="#0D9488" opacity="0.63" stroke="#0D9488" stroke-width="0.5"/><path d="M200,250 Q156.3211781824477,209.0423977855504 142.64235636489542,168.0847955711008" fill="none" stroke="#5EEAD4" stroke-width="0.8" opacity="0.3"/>
+      <path d="M200,250 Q207,200 200,150 Q223,200 200,250" 
+            fill="#14B8A6" opacity="0.6599999999999999" stroke="#0D9488" stroke-width="0.5"/><path d="M200,250 Q215,200 200,150" fill="none" stroke="#5EEAD4" stroke-width="0.8" opacity="0.3"/>
+      <path d="M200,250 Q205.67882181755232,209.0423977855504 257.35764363510464,168.0847955711008 Q221.67882181755232,209.0423977855504 200,250" 
+            fill="#0D9488" opacity="0.69" stroke="#0D9488" stroke-width="0.5"/><path d="M200,250 Q213.67882181755232,209.0423977855504 257.35764363510464,168.0847955711008" fill="none" stroke="#5EEAD4" stroke-width="0.8" opacity="0.3"/>
+</svg>

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <linearGradient id="bg_49" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#E0F2FE"/>
+      <stop offset="100%" style="stop-color:#BAE6FD"/>
+    </linearGradient>
+    <linearGradient id="fish_49" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EF4444"/>
+      <stop offset="100%" style="stop-color:#DC2626"/>
+    </linearGradient>
+    <radialGradient id="light_49" cx="50%" cy="0%" r="80%">
+      <stop offset="0%" style="stop-color:white;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:white;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- Background water -->
+  <rect width="400" height="300" rx="16" fill="url(#bg_49)"/>
+  <rect width="400" height="300" rx="16" fill="url(#light_49)"/>
+  
+  <!-- Sand/substrate -->
+  <ellipse cx="200" cy="290" rx="210" ry="25" fill="#F5DEB3" opacity="0.4"/>
+  
+  <!-- Plants -->
+  
+  <path d="M76,285 Q68,250 71,230 Q81,240 76,285" fill="#86EFAC" opacity="0.5"/>
+  <path d="M81,285 Q91,245 86,225 Q78,235 81,285" fill="#4ADE80" opacity="0.4"/>
+  
+  <path d="M176,285 Q168,240 171,215 Q181,230 176,285" fill="#86EFAC" opacity="0.5"/>
+  <path d="M181,285 Q191,237 186,213 Q178,227 181,285" fill="#4ADE80" opacity="0.4"/>
+  
+  <path d="M276,285 Q268,230 271,200 Q281,220 276,285" fill="#86EFAC" opacity="0.5"/>
+  <path d="M281,285 Q291,229 286,201 Q278,219 281,285" fill="#4ADE80" opacity="0.4"/>
+  
+  <path d="M376,285 Q368,220 371,185 Q381,210 376,285" fill="#86EFAC" opacity="0.5"/>
+  <path d="M381,285 Q391,221 386,189 Q378,211 381,285" fill="#4ADE80" opacity="0.4"/>
+  
+  
+  <!-- Bubbles -->
+  <circle cx="266" cy="91" r="3" fill="white" opacity="0.15"/>
+  <circle cx="291" cy="71" r="4" fill="white" opacity="0.2"/>
+  <circle cx="316" cy="51" r="5" fill="white" opacity="0.25"/>
+  <circle cx="341" cy="31" r="6" fill="white" opacity="0.30000000000000004"/>
+  <circle cx="366" cy="11" r="7" fill="white" opacity="0.35"/>
+  
+  <!-- Fish body -->
+  <ellipse cx="240" cy="150" rx="48" ry="25.5" fill="url(#fish_49)"/>
+  
+  <!-- Tail -->
+  <path d="M192,150 L161,119 L161,181 Z" fill="#DC2626"/>
+  
+  <!-- Dorsal fin -->
+  <path d="M230,124.5 Q240,93.5 260,124.5" fill="#DC2626" opacity="0.7"/>
+  
+  <!-- Ventral fin -->
+  <path d="M240,175.5 Q245,187.5 225,183.5" fill="#DC2626" opacity="0.6"/>
+  
+  <!-- Pectoral fin -->
+  <ellipse cx="256" cy="162.75" rx="10" ry="6" fill="#DC2626" opacity="0.5" transform="rotate(-20 256 162.75)"/>
+  
+  <!-- Stripes or dots -->
+  
+  
+  
+  <!-- Eye -->
+  <circle cx="207" cy="141.5" r="6" fill="white"/>
+  <circle cx="208" cy="141.5" r="3.5" fill="#1E293B"/>
+  <circle cx="209" cy="140.5" r="1.2" fill="white"/>
+  
+  <!-- Mouth -->
+  <path d="M285,152 Q290,154 285,156" fill="none" stroke="#DC2626" stroke-width="1.5" opacity="0.6"/>
+</svg>

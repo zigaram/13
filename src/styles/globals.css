@@ -1,0 +1,243 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================================
+   CUSTOM PROPERTIES
+   ============================================================ */
+:root {
+  --header-height: 64px;
+  --sidebar-width: 280px;
+  --content-max: 1280px;
+  --article-max: 760px;
+
+  /* Depths */
+  --color-surface: #ffffff;
+  --color-surface-raised: #f8fafc;
+  --color-surface-sunken: #f1f5f9;
+  --color-border: #e2e8f0;
+  --color-border-light: #f1f5f9;
+}
+
+/* ============================================================
+   BASE OVERRIDES
+   ============================================================ */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply font-body text-gray-800 bg-white;
+  }
+
+  ::selection {
+    @apply bg-ocean-200 text-ocean-900;
+  }
+
+  /* Smooth anchor scroll offset for fixed header */
+  [id] {
+    scroll-margin-top: calc(var(--header-height) + 1.5rem);
+  }
+}
+
+/* ============================================================
+   PROSE / ARTICLE CONTENT
+   ============================================================ */
+@layer components {
+  .article-content {
+    @apply max-w-none;
+  }
+
+  .article-content h2 {
+    @apply text-2xl font-display font-bold text-ocean-900 mt-12 mb-4 pb-2 border-b border-gray-100;
+  }
+
+  .article-content h3 {
+    @apply text-xl font-display font-semibold text-ocean-800 mt-8 mb-3;
+  }
+
+  .article-content p {
+    @apply text-gray-700 leading-relaxed mb-4;
+  }
+
+  .article-content ul,
+  .article-content ol {
+    @apply mb-4 pl-6 space-y-1;
+  }
+
+  .article-content li {
+    @apply text-gray-700 leading-relaxed;
+  }
+
+  .article-content a {
+    @apply text-ocean-600 underline decoration-ocean-200 underline-offset-2 hover:decoration-ocean-500 transition-colors;
+  }
+
+  .article-content img {
+    @apply rounded-xl shadow-sm;
+  }
+
+  .article-content blockquote {
+    @apply border-l-4 border-ocean-300 pl-4 py-1 my-6 bg-ocean-50/50 rounded-r-lg italic text-gray-600;
+  }
+
+  .article-content table {
+    @apply w-full border-collapse rounded-lg overflow-hidden my-6;
+  }
+
+  .article-content thead {
+    @apply bg-ocean-50;
+  }
+
+  .article-content th {
+    @apply px-4 py-3 text-left text-sm font-semibold text-ocean-800 border-b border-ocean-100;
+  }
+
+  .article-content td {
+    @apply px-4 py-3 text-sm text-gray-700 border-b border-gray-100;
+  }
+
+  .article-content tbody tr:hover {
+    @apply bg-gray-50/50;
+  }
+
+  /* Info/tip/warning callouts */
+  .callout {
+    @apply rounded-xl p-5 my-6 border;
+  }
+
+  .callout-info {
+    @apply bg-ocean-50 border-ocean-200 text-ocean-800;
+  }
+
+  .callout-tip {
+    @apply bg-reef-50 border-reef-200 text-reef-800;
+  }
+
+  .callout-warning {
+    @apply bg-coral-50 border-coral-200 text-coral-800;
+  }
+
+  .callout-title {
+    @apply font-semibold text-sm uppercase tracking-wide mb-1;
+  }
+
+  /* Product comparison tables */
+  .product-table {
+    @apply w-full border-collapse;
+  }
+
+  .product-table th {
+    @apply bg-ocean-800 text-white text-sm font-medium px-4 py-3 text-left;
+  }
+
+  .product-table td {
+    @apply px-4 py-3 text-sm border-b border-gray-100;
+  }
+
+  .product-table tr:nth-child(even) {
+    @apply bg-gray-50/50;
+  }
+
+  .product-table .editors-choice {
+    @apply bg-sand-50 border-l-4 border-sand-400;
+  }
+
+  /* Spec badges */
+  .spec-badge {
+    @apply inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs font-medium;
+  }
+
+  .spec-badge-easy {
+    @apply bg-reef-100 text-reef-700;
+  }
+
+  .spec-badge-moderate {
+    @apply bg-sand-100 text-sand-700;
+  }
+
+  .spec-badge-hard {
+    @apply bg-coral-100 text-coral-700;
+  }
+
+  /* Species info card */
+  .species-card {
+    @apply bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden hover:shadow-md transition-shadow;
+  }
+
+  /* Calculator inputs */
+  .calc-input {
+    @apply w-full rounded-lg border border-gray-200 px-4 py-3 text-sm
+           focus:ring-2 focus:ring-ocean-400 focus:border-ocean-400 focus:outline-none
+           transition-all placeholder:text-gray-400;
+  }
+
+  .calc-select {
+    @apply w-full rounded-lg border border-gray-200 px-4 py-3 text-sm bg-white
+           focus:ring-2 focus:ring-ocean-400 focus:border-ocean-400 focus:outline-none
+           transition-all appearance-none cursor-pointer;
+  }
+
+  .calc-result {
+    @apply bg-gradient-to-br from-ocean-50 to-reef-50 rounded-2xl p-6 border border-ocean-100;
+  }
+}
+
+/* ============================================================
+   UTILITIES
+   ============================================================ */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .content-grid {
+    display: grid;
+    grid-template-columns:
+      [full-start] minmax(1rem, 1fr)
+      [content-start] min(100% - 2rem, var(--content-max))
+      [content-end] minmax(1rem, 1fr)
+      [full-end];
+  }
+
+  .content-grid > * {
+    grid-column: content;
+  }
+
+  .content-grid > .full-bleed {
+    grid-column: full;
+  }
+
+  /* Gradient text */
+  .gradient-text {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-ocean-600 to-reef-500;
+  }
+
+  /* Subtle wave background pattern */
+  .wave-bg {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 320'%3E%3Cpath fill='%230c9eeb' fill-opacity='0.03' d='M0,192L48,197.3C96,203,192,213,288,229.3C384,245,480,267,576,261.3C672,256,768,224,864,213.3C960,203,1056,213,1152,229.3C1248,245,1344,267,1392,277.3L1440,288L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z'%3E%3C/path%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 100%;
+  }
+}
+
+/* ============================================================
+   RAPTIVE AD SLOTS (placeholder classes)
+   ============================================================ */
+.ad-slot {
+  @apply my-8 min-h-[250px] bg-gray-50 rounded-lg flex items-center justify-center text-gray-300 text-xs;
+}
+
+.ad-slot-sidebar {
+  @apply mb-6 min-h-[600px] bg-gray-50 rounded-lg flex items-center justify-center text-gray-300 text-xs sticky top-20;
+}
+
+/* Hide ad placeholders in production — Raptive injects its own */
+.raptive-loaded .ad-slot,
+.raptive-loaded .ad-slot-sidebar {
+  @apply bg-transparent min-h-0;
+}
