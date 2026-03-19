@@ -1,64 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
   <defs>
-    <linearGradient id="bg_11" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#E0F2FE"/>
-      <stop offset="100%" style="stop-color:#BAE6FD"/>
+    <linearGradient id="bg11" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#E0F7FA"/>
+      <stop offset="100%" style="stop-color:#B2EBF2"/>
     </linearGradient>
-    <linearGradient id="fish_11" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#D946EF"/>
-      <stop offset="100%" style="stop-color:#C026D3"/>
-    </linearGradient>
-    <radialGradient id="light_11" cx="50%" cy="0%" r="80%">
+    <radialGradient id="glow11" cx="60%" cy="20%" r="60%">
       <stop offset="0%" style="stop-color:white;stop-opacity:0.15"/>
       <stop offset="100%" style="stop-color:white;stop-opacity:0"/>
     </radialGradient>
   </defs>
-  
-  <!-- Background water -->
-  <rect width="400" height="300" rx="16" fill="url(#bg_11)"/>
-  <rect width="400" height="300" rx="16" fill="url(#light_11)"/>
-  
-  <!-- Sand/substrate -->
-  <ellipse cx="200" cy="290" rx="210" ry="25" fill="#F5DEB3" opacity="0.4"/>
-  
+  <rect width="400" height="300" rx="16" fill="url(#bg11)"/>
+  <rect width="400" height="300" rx="16" fill="url(#glow11)"/>
+  <!-- Sand -->
+  <ellipse cx="200" cy="288" rx="200" ry="18" fill="#D4A574" opacity="0.25"/>
   <!-- Plants -->
-  
-  <path d="M66,285 Q58,250 61,230 Q71,240 66,285" fill="#86EFAC" opacity="0.5"/>
-  <path d="M71,285 Q81,245 76,225 Q68,235 71,285" fill="#4ADE80" opacity="0.4"/>
-  
-  <path d="M166,285 Q158,240 161,215 Q171,230 166,285" fill="#86EFAC" opacity="0.5"/>
-  <path d="M171,285 Q181,237 176,213 Q168,227 171,285" fill="#4ADE80" opacity="0.4"/>
-  
-  
+  <path d="M60,285 Q55,255 62,235 Q58,245 55,260" stroke="#66BB6A" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M340,285 Q345,250 338,225 Q350,245 348,260" stroke="#43A047" stroke-width="2.5" fill="none" opacity="0.35"/>
   <!-- Bubbles -->
-  <circle cx="266" cy="86" r="5" fill="white" opacity="0.15"/>
-  <circle cx="291" cy="66" r="6" fill="white" opacity="0.2"/>
-  <circle cx="316" cy="46" r="7" fill="white" opacity="0.25"/>
-  
-  <!-- Fish body -->
-  <ellipse cx="240" cy="150" rx="43" ry="28" fill="url(#fish_11)"/>
-  
-  <!-- Tail -->
-  <path d="M197,150 L171,124 L171,176 Z" fill="#C026D3"/>
-  
-  <!-- Dorsal fin -->
-  
-  
-  <!-- Ventral fin -->
-  <path d="M240,178 Q245,190 225,186" fill="#C026D3" opacity="0.6"/>
-  
-  <!-- Pectoral fin -->
-  <ellipse cx="254.33333333333334" cy="164" rx="10" ry="6" fill="#C026D3" opacity="0.5" transform="rotate(-20 254.33333333333334 164)"/>
-  
-  <!-- Stripes or dots -->
-  <line x1="211.33333333333334" y1="127" x2="211.33333333333334" y2="173" stroke="#E879F9" stroke-width="3" opacity="0.4"/><line x1="240" y1="127" x2="240" y2="173" stroke="#E879F9" stroke-width="3" opacity="0.4"/><line x1="268.6666666666667" y1="127" x2="268.6666666666667" y2="173" stroke="#E879F9" stroke-width="3" opacity="0.4"/>
-  
-  
-  <!-- Eye -->
-  <circle cx="212" cy="140.66666666666666" r="6" fill="white"/>
-  <circle cx="213" cy="140.66666666666666" r="3.5" fill="#1E293B"/>
-  <circle cx="214" cy="139.66666666666666" r="1.2" fill="white"/>
-  
-  <!-- Mouth -->
-  <path d="M280,152 Q285,154 280,156" fill="none" stroke="#C026D3" stroke-width="1.5" opacity="0.6"/>
+  <circle cx="320" cy="60" r="3" fill="white" opacity="0.15"/>
+  <circle cx="335" cy="40" r="2" fill="white" opacity="0.1"/>
+  <circle cx="310" cy="80" r="4" fill="white" opacity="0.12"/>
+  <path d="M174,145 L163.6,132.4 L170.1,145 L163.6,157.6 Z" fill="#FFAB91" opacity="0.8"/><path d="M197.4,131 Q201.3,124 205.2,131" fill="#FFAB91" opacity="0.6"/><ellipse cx="200" cy="145" rx="26" ry="14" fill="#FF8A65"/>
+    <ellipse cx="202" cy="142.9" rx="22.099999999999998" ry="8.4" fill="#FF7043" opacity="0.3"/><path d="M200,138 L190.9,149.2 L202.6,149.2 Z" fill="#212121" opacity="0.5"/>
+  <circle cx="216" cy="142.2" r="4" fill="white"/>
+  <circle cx="217" cy="142.2" r="2.4" fill="#1E293B"/>
+  <circle cx="217.5" cy="141.39999999999998" r="0.88" fill="white"/><path d="M224,146 Q228,148 224,150" fill="none" stroke="#FF7043" stroke-width="1.2" opacity="0.4"/>
 </svg>

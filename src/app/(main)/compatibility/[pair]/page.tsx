@@ -101,7 +101,8 @@ export default async function CompatibilityPairPage({ params }: Props) {
               <h2 className="font-display font-bold text-2xl text-ocean-900 mb-5">
                 Parameter Comparison
               </h2>
-              <div className="overflow-hidden rounded-2xl border border-gray-100">
+              <div className="overflow-x-auto -mx-4 px-4 sm:mx-0 sm:px-0">
+              <div className="overflow-hidden rounded-2xl border border-gray-100 min-w-[480px] sm:min-w-0">
                 <table className="w-full text-sm">
                   <thead>
                     <tr className="bg-gray-50">
@@ -180,6 +181,7 @@ export default async function CompatibilityPairPage({ params }: Props) {
                     </tr>
                   </tbody>
                 </table>
+              </div>
               </div>
             </section>
 

@@ -87,7 +87,7 @@ function AnimatedTank({ tankGallons, stocked, stockLevel }: { tankGallons: numbe
   }
 
   return (
-    <svg viewBox="0 0 320 200" className="w-full max-w-md mx-auto" role="img" aria-label={`Aquarium with ${totalFish} fish in a ${tankGallons} gallon tank`}>
+    <svg viewBox="0 0 320 200" className="w-full mx-auto" style={{ maxWidth: '100%' }} role="img" aria-label={`Aquarium with ${totalFish} fish in a ${tankGallons} gallon tank`}>
       <defs>
         <linearGradient id="waterGrad" x1="0" y1="0" x2="0" y2="1">
           <stop offset="0%" stopColor={waterColor} stopOpacity="0.6" />
@@ -400,7 +400,7 @@ export default function StockingCalculatorPage() {
 
       <div className="grid lg:grid-cols-[1fr,380px] gap-8">
         {/* Left: Controls */}
-        <div className="space-y-6">
+        <div className="space-y-6 min-w-0">
           {/* Tank setup */}
           <div className="p-6 bg-white rounded-2xl border border-gray-100 shadow-sm">
             <h2 className="font-display font-bold text-lg text-ocean-900 mb-4">1. Your Tank</h2>
@@ -490,12 +490,12 @@ export default function StockingCalculatorPage() {
                   if (!fish) return null;
                   const schoolWarning = fish.schooling && s.count < (fish.minSchoolSize || 6);
                   return (
-                    <div key={s.slug} className={`flex items-center gap-3 p-3 rounded-xl border ${schoolWarning ? 'border-amber-200 bg-amber-50/50' : 'border-gray-100 bg-gray-50/50'}`}>
+                    <div key={s.slug} className={`flex flex-wrap items-center gap-2 sm:gap-3 p-3 rounded-xl border ${schoolWarning ? 'border-amber-200 bg-amber-50/50' : 'border-gray-100 bg-gray-50/50'}`}>
                       <Link href={`/fish/${fish.slug}`} className="font-medium text-sm text-gray-800 hover:text-ocean-600 flex-1 min-w-0 truncate">
                         {fish.type === 'invertebrate' ? '🦐' : '🐟'} {fish.name}
-                        {fish.schooling && <span className="text-xs text-gray-400 ml-1">(school: {fish.minSchoolSize || 6}+)</span>}
+                        {fish.schooling && <span className="text-xs text-gray-400 ml-1 hidden sm:inline">(school: {fish.minSchoolSize || 6}+)</span>}
                       </Link>
-                      <div className="flex items-center gap-1.5 shrink-0">
+                      <div className="flex items-center gap-1.5 shrink-0 ml-auto">
                         <button
                           onClick={() => updateCount(s.slug, s.count - 1)}
                           className="w-7 h-7 flex items-center justify-center rounded-lg bg-gray-200 hover:bg-gray-300 text-gray-600 text-sm font-bold transition-colors"

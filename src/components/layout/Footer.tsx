@@ -47,7 +47,6 @@ const FOOTER_LINKS = {
     { label: 'Fish Compatibility Checker', href: '/compatibility' },
     { label: 'Tank Volume Calculator', href: '/calculators/tank-volume' },
     { label: 'Stocking Calculator', href: '/calculators/stocking' },
-    { label: 'Aquarium Builder', href: '/builder' },
   ],
 };
 

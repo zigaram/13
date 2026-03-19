@@ -71,6 +71,7 @@ export interface TankSize {
   idealFor: string[];
   description: string;
   careGuide: string; // HTML content
+  imageUrl: string;
   metaTitle: string;
   metaDescription: string;
   keywords: string[];

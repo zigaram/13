@@ -101,7 +101,7 @@ export default function SubstrateCalculator() {
                 <p className="text-center text-sm font-bold text-ocean-700">{depthInches}&quot;</p>
               </div>
             </div>
-            <div className="flex gap-4 mt-4">
+            <div className="flex flex-col sm:flex-row gap-4 mt-4">
               <div className="flex-1">
                 <label className="block text-sm font-medium text-gray-600 mb-1.5">Substrate Type</label>
                 <select value={substrate} onChange={e => setSubstrate(e.target.value)}
@@ -109,7 +109,7 @@ export default function SubstrateCalculator() {
                   {SUBSTRATES.map(s => <option key={s.id} value={s.id}>{s.name}</option>)}
                 </select>
               </div>
-              <div className="w-36">
+              <div className="sm:w-36">
                 <label className="block text-sm font-medium text-gray-600 mb-1.5">Sloped?</label>
                 <button onClick={() => setSloped(!sloped)}
                   className={`w-full px-4 py-2.5 rounded-xl text-sm font-medium border transition-all ${sloped ? 'bg-reef-50 border-reef-300 text-reef-700' : 'bg-gray-50 border-gray-200 text-gray-500'}`}>

@@ -209,7 +209,6 @@ export default async function EquipmentReviewPage({ params }: Props) {
                 </ul>
               </nav>
 
-              <div className="p-4 bg-ocean-50/50 rounded-xl border border-ocean-100">
               <RelatedLinks
                 links={[
                   { href: '/fish', text: 'Fish & Species Guide', title: 'Browse all fish species', type: 'fish' as const },
@@ -225,7 +224,6 @@ export default async function EquipmentReviewPage({ params }: Props) {
                 maxLinks={8}
                 variant="ocean"
               />
-              </div>
 
               <div className="ad-slot-sidebar" data-ad-slot="equipment-sidebar">Ad</div>
             </div>

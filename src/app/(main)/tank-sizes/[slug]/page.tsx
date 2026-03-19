@@ -51,7 +51,7 @@ export default async function TankSizePage({ params }: Props) {
           title: tank.metaTitle,
           description: tank.metaDescription,
           url: getCanonicalUrl(`/tank-sizes/${tank.slug}`),
-          imageUrl: `/images/tanks/${tank.slug}.svg`,
+          imageUrl: tank.imageUrl || `/images/tanks/${tank.slug}.svg`,
           publishedAt: new Date().toISOString(),
           updatedAt: new Date().toISOString(),
           author: 'World of Aquariums',
@@ -66,7 +66,7 @@ export default async function TankSizePage({ params }: Props) {
             <div className="lg:w-2/5">
               <div className="relative aspect-[4/3] rounded-2xl overflow-hidden bg-ocean-50">
                 <img
-                  src={`/images/tanks/${tank.slug}.svg`}
+                  src={tank.imageUrl || `/images/tanks/${tank.slug}.svg`}
                   alt={tank.name}
                   className="absolute inset-0 w-full h-full object-cover"
                   loading="eager"
