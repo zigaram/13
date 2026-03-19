@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
   <defs>
-    <linearGradient id="bg18" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#E0F2FE"/>
-      <stop offset="100%" style="stop-color:#BAE6FD"/>
+    <linearGradient id="bg166" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#F3E5F5"/>
+      <stop offset="100%" style="stop-color:#E1BEE7"/>
     </linearGradient>
-    <radialGradient id="glow18" cx="60%" cy="20%" r="60%">
+    <radialGradient id="glow166" cx="60%" cy="20%" r="60%">
       <stop offset="0%" style="stop-color:white;stop-opacity:0.15"/>
       <stop offset="100%" style="stop-color:white;stop-opacity:0"/>
     </radialGradient>
   </defs>
-  <rect width="400" height="300" rx="16" fill="url(#bg18)"/>
-  <rect width="400" height="300" rx="16" fill="url(#glow18)"/>
+  <rect width="400" height="300" rx="16" fill="url(#bg166)"/>
+  <rect width="400" height="300" rx="16" fill="url(#glow166)"/>
   <!-- Sand -->
   <ellipse cx="200" cy="288" rx="200" ry="18" fill="#D4A574" opacity="0.25"/>
   <!-- Plants -->

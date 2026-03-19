@@ -98,7 +98,7 @@ export default function HomePage() {
               </span>
             </h1>
             <p className="mt-5 text-lg text-ocean-200 leading-relaxed max-w-xl">
-              118 care guides, 41 equipment reviews, interactive calculators, and expert advice
+              569 species guides, 41 equipment reviews, interactive calculators, and expert advice
               for freshwater aquariums — all free.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
@@ -171,7 +171,7 @@ export default function HomePage() {
         </div>
         <div className="text-center mt-6">
           <Link href="/fish" className="text-sm font-medium text-ocean-600 hover:text-ocean-800">
-            View all 53 species →
+            View all 569 species →
           </Link>
         </div>
       </section>

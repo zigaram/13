@@ -100,6 +100,22 @@ export default async function FishSpeciesPage({ params }: Props) {
                 <span className="spec-badge bg-ocean-100 text-ocean-700">
                   {fish.category}
                 </span>
+                {fish.subcategory && (
+                  <span className="spec-badge bg-gray-100 text-gray-600">
+                    {fish.subcategory}
+                  </span>
+                )}
+                {fish.priceRange && (
+                  <span className="spec-badge bg-sand-100 text-sand-700">
+                    {fish.priceRange}
+                  </span>
+                )}
+                {fish.reefSafe === 'yes' && (
+                  <span className="spec-badge bg-reef-100 text-reef-700">Reef Safe</span>
+                )}
+                {fish.reefSafe === 'no' && (
+                  <span className="spec-badge bg-coral-100 text-coral-700">Not Reef Safe</span>
+                )}
               </div>
 
               {/* Quick stats grid */}
@@ -122,6 +138,86 @@ export default async function FishSpeciesPage({ params }: Props) {
             <div className="ad-slot" data-ad-slot="species-top">Ad</div>
 
             <div className="article-content">
+              {/* Description */}
+              {fish.description && (
+                <>
+                  <h2 id="overview">Overview</h2>
+                  <p>{fish.description}</p>
+                </>
+              )}
+
+              {/* Origin & Colors */}
+              {(fish.origin || fish.colors) && (
+                <>
+                  <h2 id="origin-appearance">Origin & Appearance</h2>
+                  {fish.origin && <p><strong>Origin:</strong> {fish.origin}.</p>}
+                  {fish.colors && <p><strong>Colors:</strong> {fish.colors}.</p>}
+                  {fish.bodyShape && <p><strong>Body Shape:</strong> {fish.bodyShape}. {fish.bodySize ? `Typical adult dimensions: ${fish.bodySize}.` : ''}</p>}
+                  {fish.dimorphism && <p><strong>Sexual Dimorphism:</strong> {fish.dimorphism}.</p>}
+                </>
+              )}
+
+              {/* Detailed specs table */}
+              <h2 id="tank-requirements">Tank & Water Requirements</h2>
+              <div className="overflow-x-auto not-prose my-4">
+                <table className="w-full text-sm border-collapse">
+                  <tbody className="divide-y divide-gray-100">
+                    <tr><td className="py-2.5 pr-4 text-gray-500 whitespace-nowrap">Min Tank Size</td><td className="py-2.5 font-medium text-gray-800">{fish.minTankSize} gallons</td></tr>
+                    <tr><td className="py-2.5 pr-4 text-gray-500 whitespace-nowrap">Temperature</td><td className="py-2.5 font-medium text-gray-800">{fish.temperature.min}–{fish.temperature.max}°F</td></tr>
+                    <tr><td className="py-2.5 pr-4 text-gray-500 whitespace-nowrap">pH Range</td><td className="py-2.5 font-medium text-gray-800">{fish.ph.min}–{fish.ph.max}</td></tr>
+                    {fish.waterHardness && <tr><td className="py-2.5 pr-4 text-gray-500 whitespace-nowrap">Water Hardness (GH)</td><td className="py-2.5 font-medium text-gray-800">{fish.waterHardness}</td></tr>}
+                    <tr><td className="py-2.5 pr-4 text-gray-500 whitespace-nowrap">Bioload</td><td className="py-2.5 font-medium text-gray-800 capitalize">{fish.bioload}</td></tr>
+                    <tr><td className="py-2.5 pr-4 text-gray-500 whitespace-nowrap">Oxygen Demand</td><td className="py-2.5 font-medium text-gray-800 capitalize">{fish.oxygenDemand}</td></tr>
+                    <tr><td className="py-2.5 pr-4 text-gray-500 whitespace-nowrap">Plant Safe</td><td className="py-2.5 font-medium text-gray-800 capitalize">{fish.plantSafe}</td></tr>
+                    <tr><td className="py-2.5 pr-4 text-gray-500 whitespace-nowrap">Aquarium Position</td><td className="py-2.5 font-medium text-gray-800">{fish.aquariumPosition}</td></tr>
+                  </tbody>
+                </table>
+              </div>
+
+              {/* Behavior */}
+              {fish.movingPattern && (
+                <>
+                  <h2 id="behavior">Behavior & Activity</h2>
+                  <p>{fish.movingPattern}</p>
+                  <div className="flex flex-wrap gap-3 not-prose my-4">
+                    <span className="spec-badge bg-ocean-100 text-ocean-700">Speed: {fish.speed}/100</span>
+                    <span className="spec-badge bg-ocean-100 text-ocean-700">Aggression: {fish.aggression}/10</span>
+                    <span className="spec-badge bg-ocean-100 text-ocean-700 capitalize">{fish.activityPeriod}</span>
+                    {fish.schooling && <span className="spec-badge bg-reef-100 text-reef-700">Schooling ({fish.minSchoolSize || 6}+)</span>}
+                  </div>
+                </>
+              )}
+
+              {/* Breeding */}
+              {fish.breeding && (
+                <>
+                  <h2 id="breeding">Breeding</h2>
+                  <p>{fish.breeding}</p>
+                </>
+              )}
+
+              {/* Common Diseases */}
+              {fish.commonDiseases && fish.commonDiseases.length > 0 && (
+                <>
+                  <h2 id="common-diseases">Common Diseases</h2>
+                  <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 not-prose my-4">
+                    {fish.commonDiseases.map((disease) => (
+                      <span key={disease} className="p-2.5 rounded-lg border border-coral-100 bg-coral-50/50 text-sm text-coral-700">
+                        💊 {disease}
+                      </span>
+                    ))}
+                  </div>
+                </>
+              )}
+
+              {/* Notes */}
+              {fish.notes && (
+                <>
+                  <h2 id="expert-notes">Expert Notes</h2>
+                  <p>{fish.notes}</p>
+                </>
+              )}
+
               {/* Render full care guide HTML from data */}
               <div dangerouslySetInnerHTML={{ __html: fish.careGuide }} />
 

@@ -5,23 +5,33 @@ import { getCanonicalUrl } from '@/lib/seo';
 import Breadcrumbs from '@/components/seo/Breadcrumbs';
 
 export const metadata: Metadata = {
-  title: 'Aquarium Fish & Species Guide — Freshwater & Saltwater',
-  description: 'Complete care guides for 200+ aquarium fish and invertebrates. Find tank size, water parameters, diet, and compatible tank mates for every species.',
+  title: 'Aquarium Species Guide — 569 Fish, Invertebrates, Corals & More',
+  description: 'Complete care guides for 569 aquarium species. Freshwater, saltwater, invertebrates, corals, amphibians & reptiles. Tank size, diet, compatibility & expert advice.',
   alternates: { canonical: getCanonicalUrl('/fish') },
 };
 
 export default async function FishIndexPage() {
   const allFish = await getAllFish();
 
-  // Group by type
-  const freshwater = allFish.filter((f) => f.category === 'freshwater' && f.type === 'fish');
-  const invertebrates = allFish.filter((f) => f.type === 'invertebrate');
-  const amphibians = allFish.filter((f) => f.type === 'amphibian' || f.type === 'reptile');
+  // Group by major sections
+  const freshwaterFish = allFish.filter((f) => f.category === 'freshwater' && f.type === 'fish');
+  const saltwaterFish = allFish.filter((f) => f.category === 'saltwater' && f.type === 'fish');
+  const brackishFish = allFish.filter((f) => f.category === 'brackish' && f.type === 'fish');
+  const freshwaterInverts = allFish.filter((f) => f.type === 'invertebrate' && f.category === 'freshwater');
+  const saltwaterInverts = allFish.filter((f) => f.type === 'invertebrate' && f.category === 'saltwater');
+  const corals = allFish.filter((f) => f.type === 'cnidarian');
+  const amphibians = allFish.filter((f) => f.type === 'amphibian');
+  const reptiles = allFish.filter((f) => f.type === 'reptile');
 
   const sections = [
-    { title: 'Freshwater Fish', items: freshwater },
-    { title: 'Shrimp, Snails & Invertebrates', items: invertebrates },
-    { title: 'Axolotls & Amphibians', items: amphibians },
+    { title: 'Freshwater Fish', items: freshwaterFish, color: 'ocean' },
+    { title: 'Saltwater Fish', items: saltwaterFish, color: 'ocean' },
+    { title: 'Brackish Fish', items: brackishFish, color: 'ocean' },
+    { title: 'Freshwater Invertebrates', items: freshwaterInverts, color: 'reef' },
+    { title: 'Saltwater Invertebrates', items: saltwaterInverts, color: 'reef' },
+    { title: 'Corals & Anemones', items: corals, color: 'coral' },
+    { title: 'Amphibians', items: amphibians, color: 'reef' },
+    { title: 'Reptiles', items: reptiles, color: 'sand' },
   ].filter((s) => s.items.length > 0);
 
   return (
@@ -35,11 +45,11 @@ export default async function FishIndexPage() {
 
       <header className="mb-10">
         <h1 className="font-display font-extrabold text-3xl sm:text-4xl text-ocean-950">
-          Aquarium Fish & Species Guide
+          Aquarium Species Guide
         </h1>
         <p className="text-lg text-gray-500 mt-2 max-w-2xl">
-          Complete care guides with tank size requirements, water parameters, diet, and
-          compatible tank mates for every species.
+          Complete care guides for {allFish.length} aquarium species — freshwater, saltwater,
+          invertebrates, corals, amphibians & reptiles.
         </p>
       </header>
 

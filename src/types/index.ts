@@ -1,5 +1,5 @@
 // ============================================================
-// FISH & SPECIES
+// FISH & SPECIES (covers fish, invertebrates, corals, amphibians, reptiles)
 // ============================================================
 export interface FishSpecies {
   slug: string;
@@ -7,8 +7,9 @@ export interface FishSpecies {
   scientificName: string;
   family: string;
   category: 'freshwater' | 'saltwater' | 'brackish';
-  type: 'fish' | 'invertebrate' | 'amphibian' | 'reptile';
-  careLevel: 'beginner' | 'intermediate' | 'advanced' | 'expert';
+  type: 'fish' | 'invertebrate' | 'amphibian' | 'reptile' | 'cnidarian';
+  subcategory: string; // e.g. 'Tetra', 'Cichlid', 'Shrimp', 'Coral (LPS)', etc.
+  careLevel: 'beginner' | 'intermediate' | 'advanced' | 'expert' | 'do-not-keep';
   temperament: 'peaceful' | 'semi-aggressive' | 'aggressive';
   diet: string;
   minTankSize: number; // gallons
@@ -21,12 +22,33 @@ export interface FishSpecies {
   compatibleWith: string[]; // slugs
   incompatibleWith: string[]; // slugs
   description: string;
-  careGuide: string; // MDX content path
+  careGuide: string;
   imageUrl: string;
   metaTitle: string;
   metaDescription: string;
   keywords: string[];
   searchVolume?: number;
+
+  // New enriched fields from species database
+  colors: string;
+  speed: number; // 0-100
+  movingPattern: string;
+  aquariumPosition: string; // 'Top', 'Mid', 'Bottom', etc.
+  aggression: number; // 1-10
+  waterHardness: string; // GH range e.g. '8-12'
+  bioload: 'low' | 'medium' | 'high' | 'very-high';
+  breeding: string;
+  activityPeriod: 'diurnal' | 'nocturnal' | 'crepuscular';
+  plantSafe: 'yes' | 'no' | 'mostly' | 'caution';
+  oxygenDemand: 'low' | 'medium' | 'high';
+  commonDiseases: string[];
+  dimorphism: string;
+  priceRange: string; // '$', '$$', '$$$', '$$$$'
+  bodyShape: string; // e.g. 'Fusiform (torpedo/streamlined)'
+  bodySize: string; // LxWxH in cm e.g. '6.0 x 1.1 x 1.8'
+  origin: string;
+  reefSafe: 'yes' | 'no' | 'caution' | 'n/a';
+  notes: string;
 }
 
 // ============================================================
