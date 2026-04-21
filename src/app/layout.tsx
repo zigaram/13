@@ -1,7 +1,11 @@
 import type { Metadata, Viewport } from 'next';
 import { DM_Sans, Fraunces } from 'next/font/google';
+import { GoogleAnalytics } from '@next/third-parties/google';
 import { siteConfig } from '@/types';
+import ConsentBanner from '@/components/ui/ConsentBanner';
 import '@/styles/globals.css';
+
+const GA_ID = process.env.NEXT_PUBLIC_GA_ID;
 
 const fontBody = DM_Sans({
   subsets: ['latin'],
@@ -88,7 +92,9 @@ export default function RootLayout({
       </head>
       <body className="min-h-screen flex flex-col antialiased">
         {children}
+        <ConsentBanner />
       </body>
+      {GA_ID && <GoogleAnalytics gaId={GA_ID} />}
     </html>
   );
 }

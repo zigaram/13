@@ -90,7 +90,10 @@ export default function Footer() {
           </div>
           <p className="text-xs text-gray-500">
             © {new Date().getFullYear()} {siteConfig.name}. All rights reserved.
-            Affiliate links may earn commissions.
+            Affiliate links may earn commissions.{' '}
+            <a href="/privacy" className="underline hover:text-gray-300">
+              Privacy Policy
+            </a>
           </p>
         </div>
       </div>
