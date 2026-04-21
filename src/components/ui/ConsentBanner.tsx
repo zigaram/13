@@ -23,7 +23,6 @@ type ConsentState = 'granted' | 'denied' | null;
 
 declare global {
   interface Window {
-    dataLayer: unknown[];
     gtag: (...args: unknown[]) => void;
   }
 }
